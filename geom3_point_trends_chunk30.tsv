@@ -1,0 +1,289 @@
+group	size	y	key	tooltip
+1	6.75190963311492	56	S030 Mathematics Sem1	"Student: S030
+Subject: Mathematics
+Semester: Sem1
+Grade: 56%
+Study Hours: 9
+Attendance: 63%"
+1	6.3994134506406	60.5	S030 Physics Sem1	"Student: S030
+Subject: Physics
+Semester: Sem1
+Grade: 60.5%
+Study Hours: 8
+Attendance: 63%"
+1	5.5921060405355	57	S030 Chemistry Sem1	"Student: S030
+Subject: Chemistry
+Semester: Sem1
+Grade: 57%
+Study Hours: 6
+Attendance: 62%"
+1	7.95683397181271	64	S030 Biology Sem1	"Student: S030
+Subject: Biology
+Semester: Sem1
+Grade: 64%
+Study Hours: 13
+Attendance: 65%"
+1	7.38815906080325	62.3	S030 English Sem1	"Student: S030
+Subject: English
+Semester: Sem1
+Grade: 62.3%
+Study Hours: 11
+Attendance: 73%"
+1	6.75190963311492	62.1	S030 History Sem1	"Student: S030
+Subject: History
+Semester: Sem1
+Grade: 62.1%
+Study Hours: 9
+Attendance: 76%"
+1	7.08000508000762	53.7	S030 Mathematics Sem2	"Student: S030
+Subject: Mathematics
+Semester: Sem2
+Grade: 53.7%
+Study Hours: 10
+Attendance: 70%"
+1	7.95683397181271	67	S030 Physics Sem2	"Student: S030
+Subject: Physics
+Semester: Sem2
+Grade: 67%
+Study Hours: 13
+Attendance: 71%"
+1	6.01609664451249	64.2	S030 Chemistry Sem2	"Student: S030
+Subject: Chemistry
+Semester: Sem2
+Grade: 64.2%
+Study Hours: 7
+Attendance: 75%"
+1	6.3994134506406	64.6	S030 Biology Sem2	"Student: S030
+Subject: Biology
+Semester: Sem2
+Grade: 64.6%
+Study Hours: 8
+Attendance: 81%"
+1	6.01609664451249	57.7	S030 English Sem2	"Student: S030
+Subject: English
+Semester: Sem2
+Grade: 57.7%
+Study Hours: 7
+Attendance: 70%"
+1	7.38815906080325	65.1	S030 History Sem2	"Student: S030
+Subject: History
+Semester: Sem2
+Grade: 65.1%
+Study Hours: 11
+Attendance: 74%"
+1	2	52.9	S030 Mathematics Sem3	"Student: S030
+Subject: Mathematics
+Semester: Sem3
+Grade: 52.9%
+Study Hours: 2
+Attendance: 63%"
+1	6.01609664451249	61.2	S030 Physics Sem3	"Student: S030
+Subject: Physics
+Semester: Sem3
+Grade: 61.2%
+Study Hours: 7
+Attendance: 72%"
+1	8.47576125802733	66.4	S030 Chemistry Sem3	"Student: S030
+Subject: Chemistry
+Semester: Sem3
+Grade: 66.4%
+Study Hours: 15
+Attendance: 81%"
+1	7.08000508000762	59.8	S030 Biology Sem3	"Student: S030
+Subject: Biology
+Semester: Sem3
+Grade: 59.8%
+Study Hours: 10
+Attendance: 76%"
+1	7.38815906080325	63.8	S030 English Sem3	"Student: S030
+Subject: English
+Semester: Sem3
+Grade: 63.8%
+Study Hours: 11
+Attendance: 73%"
+1	8.22171016838255	75.5	S030 History Sem3	"Student: S030
+Subject: History
+Semester: Sem3
+Grade: 75.5%
+Study Hours: 14
+Attendance: 84%"
+1	7.67961834247065	51.9	S030 Mathematics Sem4	"Student: S030
+Subject: Mathematics
+Semester: Sem4
+Grade: 51.9%
+Study Hours: 12
+Attendance: 62%"
+1	7.08000508000762	62.5	S030 Physics Sem4	"Student: S030
+Subject: Physics
+Semester: Sem4
+Grade: 62.5%
+Study Hours: 10
+Attendance: 71%"
+1	7.08000508000762	60.8	S030 Chemistry Sem4	"Student: S030
+Subject: Chemistry
+Semester: Sem4
+Grade: 60.8%
+Study Hours: 10
+Attendance: 66%"
+1	7.08000508000762	64.7	S030 Biology Sem4	"Student: S030
+Subject: Biology
+Semester: Sem4
+Grade: 64.7%
+Study Hours: 10
+Attendance: 69%"
+1	7.38815906080325	65.1	S030 English Sem4	"Student: S030
+Subject: English
+Semester: Sem4
+Grade: 65.1%
+Study Hours: 11
+Attendance: 71%"
+1	8.47576125802733	71.4	S030 History Sem4	"Student: S030
+Subject: History
+Semester: Sem4
+Grade: 71.4%
+Study Hours: 15
+Attendance: 82%"
+1	7.38815906080325	58.4	S030 Mathematics Sem5	"Student: S030
+Subject: Mathematics
+Semester: Sem5
+Grade: 58.4%
+Study Hours: 11
+Attendance: 72%"
+1	8.22171016838255	71.4	S030 Physics Sem5	"Student: S030
+Subject: Physics
+Semester: Sem5
+Grade: 71.4%
+Study Hours: 14
+Attendance: 80%"
+1	7.08000508000762	66.6	S030 Chemistry Sem5	"Student: S030
+Subject: Chemistry
+Semester: Sem5
+Grade: 66.6%
+Study Hours: 10
+Attendance: 79%"
+1	8.47576125802733	68.2	S030 Biology Sem5	"Student: S030
+Subject: Biology
+Semester: Sem5
+Grade: 68.2%
+Study Hours: 15
+Attendance: 76%"
+1	8.47576125802733	74.3	S030 English Sem5	"Student: S030
+Subject: English
+Semester: Sem5
+Grade: 74.3%
+Study Hours: 15
+Attendance: 81%"
+1	8.22171016838255	71.8	S030 History Sem5	"Student: S030
+Subject: History
+Semester: Sem5
+Grade: 71.8%
+Study Hours: 14
+Attendance: 68%"
+1	7.95683397181271	63.3	S030 Mathematics Sem6	"Student: S030
+Subject: Mathematics
+Semester: Sem6
+Grade: 63.3%
+Study Hours: 13
+Attendance: 67%"
+1	8.22171016838255	66.5	S030 Physics Sem6	"Student: S030
+Subject: Physics
+Semester: Sem6
+Grade: 66.5%
+Study Hours: 14
+Attendance: 78%"
+1	7.08000508000762	60.6	S030 Chemistry Sem6	"Student: S030
+Subject: Chemistry
+Semester: Sem6
+Grade: 60.6%
+Study Hours: 10
+Attendance: 66%"
+1	8.72021505032247	70.9	S030 Biology Sem6	"Student: S030
+Subject: Biology
+Semester: Sem6
+Grade: 70.9%
+Study Hours: 16
+Attendance: 61%"
+1	8.72021505032247	75.9	S030 English Sem6	"Student: S030
+Subject: English
+Semester: Sem6
+Grade: 75.9%
+Study Hours: 16
+Attendance: 75%"
+1	8.72021505032247	78.5	S030 History Sem6	"Student: S030
+Subject: History
+Semester: Sem6
+Grade: 78.5%
+Study Hours: 16
+Attendance: 85%"
+1	8.72021505032247	66.3	S030 Mathematics Sem7	"Student: S030
+Subject: Mathematics
+Semester: Sem7
+Grade: 66.3%
+Study Hours: 16
+Attendance: 70%"
+1	6.75190963311492	62.7	S030 Physics Sem7	"Student: S030
+Subject: Physics
+Semester: Sem7
+Grade: 62.7%
+Study Hours: 9
+Attendance: 72%"
+1	7.95683397181271	75.1	S030 Chemistry Sem7	"Student: S030
+Subject: Chemistry
+Semester: Sem7
+Grade: 75.1%
+Study Hours: 13
+Attendance: 83%"
+1	7.67961834247065	76.9	S030 Biology Sem7	"Student: S030
+Subject: Biology
+Semester: Sem7
+Grade: 76.9%
+Study Hours: 12
+Attendance: 77%"
+1	7.95683397181271	73.1	S030 English Sem7	"Student: S030
+Subject: English
+Semester: Sem7
+Grade: 73.1%
+Study Hours: 13
+Attendance: 73%"
+1	9.184212081071	72.1	S030 History Sem7	"Student: S030
+Subject: History
+Semester: Sem7
+Grade: 72.1%
+Study Hours: 18
+Attendance: 77%"
+1	7.95683397181271	67.5	S030 Mathematics Sem8	"Student: S030
+Subject: Mathematics
+Semester: Sem8
+Grade: 67.5%
+Study Hours: 13
+Attendance: 75%"
+1	8.47576125802733	73.4	S030 Physics Sem8	"Student: S030
+Subject: Physics
+Semester: Sem8
+Grade: 73.4%
+Study Hours: 15
+Attendance: 87%"
+1	8.22171016838255	69.4	S030 Chemistry Sem8	"Student: S030
+Subject: Chemistry
+Semester: Sem8
+Grade: 69.4%
+Study Hours: 14
+Attendance: 73%"
+1	8.22171016838255	82.7	S030 Biology Sem8	"Student: S030
+Subject: Biology
+Semester: Sem8
+Grade: 82.7%
+Study Hours: 14
+Attendance: 89%"
+1	8.95608343640252	83.4	S030 English Sem8	"Student: S030
+Subject: English
+Semester: Sem8
+Grade: 83.4%
+Study Hours: 17
+Attendance: 73%"
+1	8.95608343640252	78.3	S030 History Sem8	"Student: S030
+Subject: History
+Semester: Sem8
+Grade: 78.3%
+Study Hours: 17
+Attendance: 84%"

@@ -1,0 +1,289 @@
+group	size	y	key	tooltip
+1	7.38815906080325	65.1	S018 Mathematics Sem1	"Student: S018
+Subject: Mathematics
+Semester: Sem1
+Grade: 65.1%
+Study Hours: 11
+Attendance: 78%"
+1	8.72021505032247	66.2	S018 Physics Sem1	"Student: S018
+Subject: Physics
+Semester: Sem1
+Grade: 66.2%
+Study Hours: 16
+Attendance: 82%"
+1	4.54000254000381	55.9	S018 Chemistry Sem1	"Student: S018
+Subject: Chemistry
+Semester: Sem1
+Grade: 55.9%
+Study Hours: 4
+Attendance: 68%"
+1	8.47576125802733	69.2	S018 Biology Sem1	"Student: S018
+Subject: Biology
+Semester: Sem1
+Grade: 69.2%
+Study Hours: 15
+Attendance: 73%"
+1	8.95608343640252	72.2	S018 English Sem1	"Student: S018
+Subject: English
+Semester: Sem1
+Grade: 72.2%
+Study Hours: 17
+Attendance: 77%"
+1	8.47576125802733	69.7	S018 History Sem1	"Student: S018
+Subject: History
+Semester: Sem1
+Grade: 69.7%
+Study Hours: 15
+Attendance: 82%"
+1	7.38815906080325	64.1	S018 Mathematics Sem2	"Student: S018
+Subject: Mathematics
+Semester: Sem2
+Grade: 64.1%
+Study Hours: 11
+Attendance: 62%"
+1	6.75190963311492	61.5	S018 Physics Sem2	"Student: S018
+Subject: Physics
+Semester: Sem2
+Grade: 61.5%
+Study Hours: 9
+Attendance: 74%"
+1	7.38815906080325	73	S018 Chemistry Sem2	"Student: S018
+Subject: Chemistry
+Semester: Sem2
+Grade: 73%
+Study Hours: 11
+Attendance: 78%"
+1	9.184212081071	66.6	S018 Biology Sem2	"Student: S018
+Subject: Biology
+Semester: Sem2
+Grade: 66.6%
+Study Hours: 18
+Attendance: 78%"
+1	9.62000762001143	73.2	S018 English Sem2	"Student: S018
+Subject: English
+Semester: Sem2
+Grade: 73.2%
+Study Hours: 20
+Attendance: 78%"
+1	7.67961834247065	82.9	S018 History Sem2	"Student: S018
+Subject: History
+Semester: Sem2
+Grade: 82.9%
+Study Hours: 12
+Attendance: 81%"
+1	7.95683397181271	69.8	S018 Mathematics Sem3	"Student: S018
+Subject: Mathematics
+Semester: Sem3
+Grade: 69.8%
+Study Hours: 13
+Attendance: 74%"
+1	9.82881361258813	76.5	S018 Physics Sem3	"Student: S018
+Subject: Physics
+Semester: Sem3
+Grade: 76.5%
+Study Hours: 21
+Attendance: 79%"
+1	7.67961834247065	69.9	S018 Chemistry Sem3	"Student: S018
+Subject: Chemistry
+Semester: Sem3
+Grade: 69.9%
+Study Hours: 12
+Attendance: 87%"
+1	7.08000508000762	65.3	S018 Biology Sem3	"Student: S018
+Subject: Biology
+Semester: Sem3
+Grade: 65.3%
+Study Hours: 10
+Attendance: 81%"
+1	7.08000508000762	72	S018 English Sem3	"Student: S018
+Subject: English
+Semester: Sem3
+Grade: 72%
+Study Hours: 10
+Attendance: 78%"
+1	8.22171016838255	74.6	S018 History Sem3	"Student: S018
+Subject: History
+Semester: Sem3
+Grade: 74.6%
+Study Hours: 14
+Attendance: 87%"
+1	8.22171016838255	69.3	S018 Mathematics Sem4	"Student: S018
+Subject: Mathematics
+Semester: Sem4
+Grade: 69.3%
+Study Hours: 14
+Attendance: 85%"
+1	7.38815906080325	66	S018 Physics Sem4	"Student: S018
+Subject: Physics
+Semester: Sem4
+Grade: 66%
+Study Hours: 11
+Attendance: 66%"
+1	9.184212081071	71.2	S018 Chemistry Sem4	"Student: S018
+Subject: Chemistry
+Semester: Sem4
+Grade: 71.2%
+Study Hours: 18
+Attendance: 77%"
+1	8.47576125802733	80.2	S018 Biology Sem4	"Student: S018
+Subject: Biology
+Semester: Sem4
+Grade: 80.2%
+Study Hours: 15
+Attendance: 87%"
+1	8.95608343640252	73.8	S018 English Sem4	"Student: S018
+Subject: English
+Semester: Sem4
+Grade: 73.8%
+Study Hours: 17
+Attendance: 83%"
+1	9.40531631177355	73.6	S018 History Sem4	"Student: S018
+Subject: History
+Semester: Sem4
+Grade: 73.6%
+Study Hours: 19
+Attendance: 71%"
+1	7.95683397181271	66.5	S018 Mathematics Sem5	"Student: S018
+Subject: Mathematics
+Semester: Sem5
+Grade: 66.5%
+Study Hours: 13
+Attendance: 77%"
+1	7.67961834247065	75.3	S018 Physics Sem5	"Student: S018
+Subject: Physics
+Semester: Sem5
+Grade: 75.3%
+Study Hours: 12
+Attendance: 86%"
+1	7.95683397181271	72.4	S018 Chemistry Sem5	"Student: S018
+Subject: Chemistry
+Semester: Sem5
+Grade: 72.4%
+Study Hours: 13
+Attendance: 71%"
+1	7.95683397181271	70.8	S018 Biology Sem5	"Student: S018
+Subject: Biology
+Semester: Sem5
+Grade: 70.8%
+Study Hours: 13
+Attendance: 69%"
+1	9.184212081071	73.3	S018 English Sem5	"Student: S018
+Subject: English
+Semester: Sem5
+Grade: 73.3%
+Study Hours: 18
+Attendance: 75%"
+1	9.62000762001143	74.7	S018 History Sem5	"Student: S018
+Subject: History
+Semester: Sem5
+Grade: 74.7%
+Study Hours: 20
+Attendance: 71%"
+1	8.47576125802733	71.9	S018 Mathematics Sem6	"Student: S018
+Subject: Mathematics
+Semester: Sem6
+Grade: 71.9%
+Study Hours: 15
+Attendance: 83%"
+1	7.67961834247065	74.9	S018 Physics Sem6	"Student: S018
+Subject: Physics
+Semester: Sem6
+Grade: 74.9%
+Study Hours: 12
+Attendance: 78%"
+1	9.184212081071	80.7	S018 Chemistry Sem6	"Student: S018
+Subject: Chemistry
+Semester: Sem6
+Grade: 80.7%
+Study Hours: 18
+Attendance: 76%"
+1	8.95608343640252	70.7	S018 Biology Sem6	"Student: S018
+Subject: Biology
+Semester: Sem6
+Grade: 70.7%
+Study Hours: 17
+Attendance: 78%"
+1	5.5921060405355	72.8	S018 English Sem6	"Student: S018
+Subject: English
+Semester: Sem6
+Grade: 72.8%
+Study Hours: 6
+Attendance: 82%"
+1	9.184212081071	81.3	S018 History Sem6	"Student: S018
+Subject: History
+Semester: Sem6
+Grade: 81.3%
+Study Hours: 18
+Attendance: 69%"
+1	7.38815906080325	60.1	S018 Mathematics Sem7	"Student: S018
+Subject: Mathematics
+Semester: Sem7
+Grade: 60.1%
+Study Hours: 11
+Attendance: 72%"
+1	8.95608343640252	68.2	S018 Physics Sem7	"Student: S018
+Subject: Physics
+Semester: Sem7
+Grade: 68.2%
+Study Hours: 17
+Attendance: 80%"
+1	8.22171016838255	78.1	S018 Chemistry Sem7	"Student: S018
+Subject: Chemistry
+Semester: Sem7
+Grade: 78.1%
+Study Hours: 14
+Attendance: 88%"
+1	8.95608343640252	78.9	S018 Biology Sem7	"Student: S018
+Subject: Biology
+Semester: Sem7
+Grade: 78.9%
+Study Hours: 17
+Attendance: 77%"
+1	8.22171016838255	78.7	S018 English Sem7	"Student: S018
+Subject: English
+Semester: Sem7
+Grade: 78.7%
+Study Hours: 14
+Attendance: 77%"
+1	8.72021505032247	81.1	S018 History Sem7	"Student: S018
+Subject: History
+Semester: Sem7
+Grade: 81.1%
+Study Hours: 16
+Attendance: 80%"
+1	9.184212081071	79.3	S018 Mathematics Sem8	"Student: S018
+Subject: Mathematics
+Semester: Sem8
+Grade: 79.3%
+Study Hours: 18
+Attendance: 84%"
+1	8.95608343640252	73	S018 Physics Sem8	"Student: S018
+Subject: Physics
+Semester: Sem8
+Grade: 73%
+Study Hours: 17
+Attendance: 74%"
+1	8.95608343640252	81.1	S018 Chemistry Sem8	"Student: S018
+Subject: Chemistry
+Semester: Sem8
+Grade: 81.1%
+Study Hours: 17
+Attendance: 91%"
+1	9.40531631177355	81.3	S018 Biology Sem8	"Student: S018
+Subject: Biology
+Semester: Sem8
+Grade: 81.3%
+Study Hours: 19
+Attendance: 85%"
+1	8.22171016838255	76.3	S018 English Sem8	"Student: S018
+Subject: English
+Semester: Sem8
+Grade: 76.3%
+Study Hours: 14
+Attendance: 83%"
+1	8.47576125802733	79.6	S018 History Sem8	"Student: S018
+Subject: History
+Semester: Sem8
+Grade: 79.6%
+Study Hours: 15
+Attendance: 75%"

@@ -1,0 +1,289 @@
+group	size	y	key	tooltip
+1	4.54000254000381	45.6	S010 Mathematics Sem1	"Student: S010
+Subject: Mathematics
+Semester: Sem1
+Grade: 45.6%
+Study Hours: 4
+Attendance: 60%"
+1	2	42.1	S010 Physics Sem1	"Student: S010
+Subject: Physics
+Semester: Sem1
+Grade: 42.1%
+Study Hours: 2
+Attendance: 68%"
+1	6.75190963311492	50.2	S010 Chemistry Sem1	"Student: S010
+Subject: Chemistry
+Semester: Sem1
+Grade: 50.2%
+Study Hours: 9
+Attendance: 65%"
+1	7.08000508000762	52.9	S010 Biology Sem1	"Student: S010
+Subject: Biology
+Semester: Sem1
+Grade: 52.9%
+Study Hours: 10
+Attendance: 61%"
+1	6.75190963311492	47	S010 English Sem1	"Student: S010
+Subject: English
+Semester: Sem1
+Grade: 47%
+Study Hours: 9
+Attendance: 60%"
+1	7.08000508000762	60.4	S010 History Sem1	"Student: S010
+Subject: History
+Semester: Sem1
+Grade: 60.4%
+Study Hours: 10
+Attendance: 79%"
+1	6.3994134506406	42.3	S010 Mathematics Sem2	"Student: S010
+Subject: Mathematics
+Semester: Sem2
+Grade: 42.3%
+Study Hours: 8
+Attendance: 60%"
+1	3.79605302026775	53.3	S010 Physics Sem2	"Student: S010
+Subject: Physics
+Semester: Sem2
+Grade: 53.3%
+Study Hours: 3
+Attendance: 72%"
+1	7.38815906080325	56.9	S010 Chemistry Sem2	"Student: S010
+Subject: Chemistry
+Semester: Sem2
+Grade: 56.9%
+Study Hours: 11
+Attendance: 60%"
+1	5.5921060405355	47.4	S010 Biology Sem2	"Student: S010
+Subject: Biology
+Semester: Sem2
+Grade: 47.4%
+Study Hours: 6
+Attendance: 64%"
+1	6.3994134506406	57.4	S010 English Sem2	"Student: S010
+Subject: English
+Semester: Sem2
+Grade: 57.4%
+Study Hours: 8
+Attendance: 71%"
+1	5.11085508419128	53.3	S010 History Sem2	"Student: S010
+Subject: History
+Semester: Sem2
+Grade: 53.3%
+Study Hours: 5
+Attendance: 65%"
+1	6.75190963311492	49.9	S010 Mathematics Sem3	"Student: S010
+Subject: Mathematics
+Semester: Sem3
+Grade: 49.9%
+Study Hours: 9
+Attendance: 67%"
+1	6.75190963311492	54.8	S010 Physics Sem3	"Student: S010
+Subject: Physics
+Semester: Sem3
+Grade: 54.8%
+Study Hours: 9
+Attendance: 69%"
+1	8.47576125802733	64.6	S010 Chemistry Sem3	"Student: S010
+Subject: Chemistry
+Semester: Sem3
+Grade: 64.6%
+Study Hours: 15
+Attendance: 81%"
+1	7.67961834247065	62	S010 Biology Sem3	"Student: S010
+Subject: Biology
+Semester: Sem3
+Grade: 62%
+Study Hours: 12
+Attendance: 73%"
+1	5.11085508419128	54.4	S010 English Sem3	"Student: S010
+Subject: English
+Semester: Sem3
+Grade: 54.4%
+Study Hours: 5
+Attendance: 68%"
+1	8.22171016838255	67.3	S010 History Sem3	"Student: S010
+Subject: History
+Semester: Sem3
+Grade: 67.3%
+Study Hours: 14
+Attendance: 73%"
+1	6.3994134506406	56.7	S010 Mathematics Sem4	"Student: S010
+Subject: Mathematics
+Semester: Sem4
+Grade: 56.7%
+Study Hours: 8
+Attendance: 73%"
+1	4.54000254000381	50.6	S010 Physics Sem4	"Student: S010
+Subject: Physics
+Semester: Sem4
+Grade: 50.6%
+Study Hours: 4
+Attendance: 70%"
+1	6.3994134506406	59.8	S010 Chemistry Sem4	"Student: S010
+Subject: Chemistry
+Semester: Sem4
+Grade: 59.8%
+Study Hours: 8
+Attendance: 63%"
+1	4.54000254000381	54	S010 Biology Sem4	"Student: S010
+Subject: Biology
+Semester: Sem4
+Grade: 54%
+Study Hours: 4
+Attendance: 72%"
+1	7.95683397181271	56.3	S010 English Sem4	"Student: S010
+Subject: English
+Semester: Sem4
+Grade: 56.3%
+Study Hours: 13
+Attendance: 72%"
+1	7.08000508000762	62.3	S010 History Sem4	"Student: S010
+Subject: History
+Semester: Sem4
+Grade: 62.3%
+Study Hours: 10
+Attendance: 72%"
+1	6.01609664451249	52.3	S010 Mathematics Sem5	"Student: S010
+Subject: Mathematics
+Semester: Sem5
+Grade: 52.3%
+Study Hours: 7
+Attendance: 70%"
+1	7.38815906080325	57.5	S010 Physics Sem5	"Student: S010
+Subject: Physics
+Semester: Sem5
+Grade: 57.5%
+Study Hours: 11
+Attendance: 61%"
+1	6.75190963311492	57.6	S010 Chemistry Sem5	"Student: S010
+Subject: Chemistry
+Semester: Sem5
+Grade: 57.6%
+Study Hours: 9
+Attendance: 71%"
+1	5.11085508419128	55	S010 Biology Sem5	"Student: S010
+Subject: Biology
+Semester: Sem5
+Grade: 55%
+Study Hours: 5
+Attendance: 75%"
+1	6.75190963311492	58.9	S010 English Sem5	"Student: S010
+Subject: English
+Semester: Sem5
+Grade: 58.9%
+Study Hours: 9
+Attendance: 69%"
+1	8.95608343640252	68.7	S010 History Sem5	"Student: S010
+Subject: History
+Semester: Sem5
+Grade: 68.7%
+Study Hours: 17
+Attendance: 70%"
+1	6.3994134506406	53.2	S010 Mathematics Sem6	"Student: S010
+Subject: Mathematics
+Semester: Sem6
+Grade: 53.2%
+Study Hours: 8
+Attendance: 68%"
+1	6.3994134506406	49.3	S010 Physics Sem6	"Student: S010
+Subject: Physics
+Semester: Sem6
+Grade: 49.3%
+Study Hours: 8
+Attendance: 60%"
+1	7.08000508000762	53.2	S010 Chemistry Sem6	"Student: S010
+Subject: Chemistry
+Semester: Sem6
+Grade: 53.2%
+Study Hours: 10
+Attendance: 73%"
+1	8.95608343640252	74.6	S010 Biology Sem6	"Student: S010
+Subject: Biology
+Semester: Sem6
+Grade: 74.6%
+Study Hours: 17
+Attendance: 81%"
+1	5.5921060405355	63.8	S010 English Sem6	"Student: S010
+Subject: English
+Semester: Sem6
+Grade: 63.8%
+Study Hours: 6
+Attendance: 77%"
+1	7.08000508000762	66.5	S010 History Sem6	"Student: S010
+Subject: History
+Semester: Sem6
+Grade: 66.5%
+Study Hours: 10
+Attendance: 75%"
+1	7.38815906080325	63	S010 Mathematics Sem7	"Student: S010
+Subject: Mathematics
+Semester: Sem7
+Grade: 63%
+Study Hours: 11
+Attendance: 76%"
+1	5.11085508419128	57.3	S010 Physics Sem7	"Student: S010
+Subject: Physics
+Semester: Sem7
+Grade: 57.3%
+Study Hours: 5
+Attendance: 70%"
+1	6.01609664451249	51.4	S010 Chemistry Sem7	"Student: S010
+Subject: Chemistry
+Semester: Sem7
+Grade: 51.4%
+Study Hours: 7
+Attendance: 64%"
+1	7.08000508000762	58	S010 Biology Sem7	"Student: S010
+Subject: Biology
+Semester: Sem7
+Grade: 58%
+Study Hours: 10
+Attendance: 66%"
+1	7.67961834247065	63.1	S010 English Sem7	"Student: S010
+Subject: English
+Semester: Sem7
+Grade: 63.1%
+Study Hours: 12
+Attendance: 68%"
+1	7.38815906080325	64.6	S010 History Sem7	"Student: S010
+Subject: History
+Semester: Sem7
+Grade: 64.6%
+Study Hours: 11
+Attendance: 72%"
+1	7.38815906080325	61.6	S010 Mathematics Sem8	"Student: S010
+Subject: Mathematics
+Semester: Sem8
+Grade: 61.6%
+Study Hours: 11
+Attendance: 67%"
+1	7.08000508000762	61.9	S010 Physics Sem8	"Student: S010
+Subject: Physics
+Semester: Sem8
+Grade: 61.9%
+Study Hours: 10
+Attendance: 62%"
+1	7.38815906080325	62.7	S010 Chemistry Sem8	"Student: S010
+Subject: Chemistry
+Semester: Sem8
+Grade: 62.7%
+Study Hours: 11
+Attendance: 70%"
+1	6.01609664451249	58.5	S010 Biology Sem8	"Student: S010
+Subject: Biology
+Semester: Sem8
+Grade: 58.5%
+Study Hours: 7
+Attendance: 74%"
+1	8.22171016838255	59.9	S010 English Sem8	"Student: S010
+Subject: English
+Semester: Sem8
+Grade: 59.9%
+Study Hours: 14
+Attendance: 70%"
+1	10.230548917531	74.6	S010 History Sem8	"Student: S010
+Subject: History
+Semester: Sem8
+Grade: 74.6%
+Study Hours: 23
+Attendance: 74%"

@@ -1,0 +1,289 @@
+fill	key	tooltip	clickSelects	showSelected1	showSelected2	ymin	ymax	xmin	xmax
+#F8766D	Biology	"Subject: Biology
+Semester: Sem1
+Mean Grade: 61.8%
+Median Grade: 62.5%
+Range: 32.5-87.4%
+Students: 50"	Biology	Sem1	Biology	0	61.792	0.55	1.45
+#F8766D	Biology	"Subject: Biology
+Semester: Sem2
+Mean Grade: 62.4%
+Median Grade: 65%
+Range: 32.7-86.7%
+Students: 50"	Biology	Sem2	Biology	61.792	124.212	0.55	1.45
+#F8766D	Biology	"Subject: Biology
+Semester: Sem3
+Mean Grade: 65.1%
+Median Grade: 66.2%
+Range: 33.8-84.8%
+Students: 50"	Biology	Sem3	Biology	124.212	189.352	0.55	1.45
+#F8766D	Biology	"Subject: Biology
+Semester: Sem4
+Mean Grade: 67.6%
+Median Grade: 66.2%
+Range: 33.3-97.5%
+Students: 50"	Biology	Sem4	Biology	189.352	256.948	0.55	1.45
+#F8766D	Biology	"Subject: Biology
+Semester: Sem5
+Mean Grade: 69.4%
+Median Grade: 69.6%
+Range: 35.3-91.1%
+Students: 50"	Biology	Sem5	Biology	256.948	326.306	0.55	1.45
+#F8766D	Biology	"Subject: Biology
+Semester: Sem6
+Mean Grade: 71.6%
+Median Grade: 72%
+Range: 39.7-98.8%
+Students: 50"	Biology	Sem6	Biology	326.306	397.938	0.55	1.45
+#F8766D	Biology	"Subject: Biology
+Semester: Sem7
+Mean Grade: 73.2%
+Median Grade: 75.1%
+Range: 39.8-96.5%
+Students: 50"	Biology	Sem7	Biology	397.938	471.11	0.55	1.45
+#F8766D	Biology	"Subject: Biology
+Semester: Sem8
+Mean Grade: 75.3%
+Median Grade: 76.4%
+Range: 38.8-93.3%
+Students: 50"	Biology	Sem8	Biology	471.11	546.442	0.55	1.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem1
+Mean Grade: 60.7%
+Median Grade: 64.1%
+Range: 37.3-85.1%
+Students: 50"	Chemistry	Sem1	Chemistry	0	60.674	1.55	2.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem2
+Mean Grade: 61.6%
+Median Grade: 63.1%
+Range: 35.5-84.2%
+Students: 50"	Chemistry	Sem2	Chemistry	60.674	122.322	1.55	2.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem3
+Mean Grade: 63.4%
+Median Grade: 65%
+Range: 33.3-89.3%
+Students: 50"	Chemistry	Sem3	Chemistry	122.322	185.762	1.55	2.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem4
+Mean Grade: 65.6%
+Median Grade: 66.2%
+Range: 32.3-88.9%
+Students: 50"	Chemistry	Sem4	Chemistry	185.762	251.312	1.55	2.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem5
+Mean Grade: 67.3%
+Median Grade: 67.6%
+Range: 36.7-94.9%
+Students: 50"	Chemistry	Sem5	Chemistry	251.312	318.598	1.55	2.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem6
+Mean Grade: 68.5%
+Median Grade: 70.3%
+Range: 31.8-93%
+Students: 50"	Chemistry	Sem6	Chemistry	318.598	387.05	1.55	2.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem7
+Mean Grade: 70.7%
+Median Grade: 71.8%
+Range: 33.5-93.8%
+Students: 50"	Chemistry	Sem7	Chemistry	387.05	457.756	1.55	2.45
+#B79F00	Chemistry	"Subject: Chemistry
+Semester: Sem8
+Mean Grade: 73.2%
+Median Grade: 74.7%
+Range: 31.7-95.5%
+Students: 50"	Chemistry	Sem8	Chemistry	457.756	530.954	1.55	2.45
+#00BA38	English	"Subject: English
+Semester: Sem1
+Mean Grade: 63.9%
+Median Grade: 64.2%
+Range: 38.1-84.1%
+Students: 50"	English	Sem1	English	0	63.892	2.55	3.45
+#00BA38	English	"Subject: English
+Semester: Sem2
+Mean Grade: 65.4%
+Median Grade: 66.3%
+Range: 36.1-88.1%
+Students: 50"	English	Sem2	English	63.892	129.264	2.55	3.45
+#00BA38	English	"Subject: English
+Semester: Sem3
+Mean Grade: 68%
+Median Grade: 70.3%
+Range: 37.3-87.6%
+Students: 50"	English	Sem3	English	129.264	197.218	2.55	3.45
+#00BA38	English	"Subject: English
+Semester: Sem4
+Mean Grade: 70.2%
+Median Grade: 72%
+Range: 31-93.1%
+Students: 50"	English	Sem4	English	197.218	267.46	2.55	3.45
+#00BA38	English	"Subject: English
+Semester: Sem5
+Mean Grade: 72.1%
+Median Grade: 74.2%
+Range: 43.6-91.1%
+Students: 50"	English	Sem5	English	267.46	339.564	2.55	3.45
+#00BA38	English	"Subject: English
+Semester: Sem6
+Mean Grade: 72.4%
+Median Grade: 71.9%
+Range: 43.2-92.3%
+Students: 50"	English	Sem6	English	339.564	411.924	2.55	3.45
+#00BA38	English	"Subject: English
+Semester: Sem7
+Mean Grade: 75.4%
+Median Grade: 75.8%
+Range: 36.5-98.6%
+Students: 50"	English	Sem7	English	411.924	487.3	2.55	3.45
+#00BA38	English	"Subject: English
+Semester: Sem8
+Mean Grade: 76.8%
+Median Grade: 80%
+Range: 43.2-94.6%
+Students: 50"	English	Sem8	English	487.3	564.146	2.55	3.45
+#00BFC4	History	"Subject: History
+Semester: Sem1
+Mean Grade: 64.5%
+Median Grade: 64.4%
+Range: 34.7-90.9%
+Students: 50"	History	Sem1	History	0	64.514	3.55	4.45
+#00BFC4	History	"Subject: History
+Semester: Sem2
+Mean Grade: 65.5%
+Median Grade: 64.9%
+Range: 36.7-90.5%
+Students: 50"	History	Sem2	History	64.514	129.986	3.55	4.45
+#00BFC4	History	"Subject: History
+Semester: Sem3
+Mean Grade: 68.8%
+Median Grade: 70.7%
+Range: 35.8-91.5%
+Students: 50"	History	Sem3	History	129.986	198.814	3.55	4.45
+#00BFC4	History	"Subject: History
+Semester: Sem4
+Mean Grade: 70.2%
+Median Grade: 71.1%
+Range: 45.4-94.2%
+Students: 50"	History	Sem4	History	198.814	268.996	3.55	4.45
+#00BFC4	History	"Subject: History
+Semester: Sem5
+Mean Grade: 73.4%
+Median Grade: 73.7%
+Range: 39.3-100%
+Students: 50"	History	Sem5	History	268.996	342.394	3.55	4.45
+#00BFC4	History	"Subject: History
+Semester: Sem6
+Mean Grade: 75.5%
+Median Grade: 77.5%
+Range: 45-100%
+Students: 50"	History	Sem6	History	342.394	417.914	3.55	4.45
+#00BFC4	History	"Subject: History
+Semester: Sem7
+Mean Grade: 77.3%
+Median Grade: 80%
+Range: 40-98.1%
+Students: 50"	History	Sem7	History	417.914	495.172	3.55	4.45
+#00BFC4	History	"Subject: History
+Semester: Sem8
+Mean Grade: 78.4%
+Median Grade: 79.3%
+Range: 50.1-100%
+Students: 50"	History	Sem8	History	495.172	573.564	3.55	4.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem1
+Mean Grade: 55.9%
+Median Grade: 56.1%
+Range: 31.2-82.2%
+Students: 50"	Mathematics	Sem1	Mathematics	0	55.882	4.55	5.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem2
+Mean Grade: 58.7%
+Median Grade: 60.1%
+Range: 35.3-79.1%
+Students: 50"	Mathematics	Sem2	Mathematics	55.882	114.536	4.55	5.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem3
+Mean Grade: 60.9%
+Median Grade: 60%
+Range: 38.9-87.7%
+Students: 50"	Mathematics	Sem3	Mathematics	114.536	175.4	4.55	5.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem4
+Mean Grade: 60.8%
+Median Grade: 62.6%
+Range: 34.8-86.3%
+Students: 50"	Mathematics	Sem4	Mathematics	175.4	236.19	4.55	5.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem5
+Mean Grade: 64.3%
+Median Grade: 66.1%
+Range: 32.1-87.6%
+Students: 50"	Mathematics	Sem5	Mathematics	236.19	300.446	4.55	5.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem6
+Mean Grade: 65.1%
+Median Grade: 67.2%
+Range: 34.5-91.6%
+Students: 50"	Mathematics	Sem6	Mathematics	300.446	365.594	4.55	5.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem7
+Mean Grade: 68.2%
+Median Grade: 69.6%
+Range: 33.1-91%
+Students: 50"	Mathematics	Sem7	Mathematics	365.594	433.842	4.55	5.45
+#619CFF	Mathematics	"Subject: Mathematics
+Semester: Sem8
+Mean Grade: 70%
+Median Grade: 71.7%
+Range: 34.5-91.1%
+Students: 50"	Mathematics	Sem8	Mathematics	433.842	503.844	4.55	5.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem1
+Mean Grade: 58.7%
+Median Grade: 60.2%
+Range: 35.6-87.4%
+Students: 50"	Physics	Sem1	Physics	0	58.66	5.55	6.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem2
+Mean Grade: 60.9%
+Median Grade: 61.2%
+Range: 32-80.8%
+Students: 50"	Physics	Sem2	Physics	58.66	119.538	5.55	6.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem3
+Mean Grade: 62.2%
+Median Grade: 63.5%
+Range: 38.4-80.4%
+Students: 50"	Physics	Sem3	Physics	119.538	181.73	5.55	6.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem4
+Mean Grade: 62.9%
+Median Grade: 65%
+Range: 34.1-83%
+Students: 50"	Physics	Sem4	Physics	181.73	244.65	5.55	6.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem5
+Mean Grade: 67.4%
+Median Grade: 70.1%
+Range: 33.9-90.1%
+Students: 50"	Physics	Sem5	Physics	244.65	312.074	5.55	6.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem6
+Mean Grade: 68.8%
+Median Grade: 68.9%
+Range: 37.2-91.8%
+Students: 50"	Physics	Sem6	Physics	312.074	380.826	5.55	6.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem7
+Mean Grade: 70.6%
+Median Grade: 70.6%
+Range: 35.3-96.1%
+Students: 50"	Physics	Sem7	Physics	380.826	451.462	5.55	6.45
+#F564E3	Physics	"Subject: Physics
+Semester: Sem8
+Mean Grade: 72.8%
+Median Grade: 73.6%
+Range: 41.7-93.3%
+Students: 50"	Physics	Sem8	Physics	451.462	524.212	5.55	6.45

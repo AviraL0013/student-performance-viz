@@ -1,0 +1,1801 @@
+group	size	x	y	key	tooltip
+1	10.2219219164378	15	66.8	S001 Mathematics Sem2	"Student: S001
+Subject: Mathematics
+Grade: 66.8%
+Study Hours: 15
+Attendance: 76%
+Performance: Satisfactory"
+1	11.6410580332244	9	67.7	S002 Mathematics Sem2	"Student: S002
+Subject: Mathematics
+Grade: 67.7%
+Study Hours: 9
+Attendance: 82%
+Performance: Satisfactory"
+1	8.81725751310599	13	61.5	S003 Mathematics Sem2	"Student: S003
+Subject: Mathematics
+Grade: 61.5%
+Study Hours: 13
+Attendance: 71%
+Performance: Satisfactory"
+1	8.81725751310599	11	53.1	S004 Mathematics Sem2	"Student: S004
+Subject: Mathematics
+Grade: 53.1%
+Study Hours: 11
+Attendance: 71%
+Performance: Needs Improvement"
+1	9.6909037180295	9	60.4	S005 Mathematics Sem2	"Student: S005
+Subject: Mathematics
+Grade: 60.4%
+Study Hours: 9
+Attendance: 74%
+Performance: Satisfactory"
+1	8.81725751310599	15	69.4	S006 Mathematics Sem2	"Student: S006
+Subject: Mathematics
+Grade: 69.4%
+Study Hours: 15
+Attendance: 71%
+Performance: Satisfactory"
+1	8.81725751310599	14	68	S007 Mathematics Sem2	"Student: S007
+Subject: Mathematics
+Grade: 68%
+Study Hours: 14
+Attendance: 71%
+Performance: Satisfactory"
+1	10.4749631267634	10	61.8	S008 Mathematics Sem2	"Student: S008
+Subject: Mathematics
+Grade: 61.8%
+Study Hours: 10
+Attendance: 77%
+Performance: Satisfactory"
+1	2	3	52.6	S009 Mathematics Sem2	"Student: S009
+Subject: Mathematics
+Grade: 52.6%
+Study Hours: 3
+Attendance: 60%
+Performance: Needs Improvement"
+1	2	8	42.3	S010 Mathematics Sem2	"Student: S010
+Subject: Mathematics
+Grade: 42.3%
+Study Hours: 8
+Attendance: 60%
+Performance: Needs Improvement"
+1	2	4	41.1	S011 Mathematics Sem2	"Student: S011
+Subject: Mathematics
+Grade: 41.1%
+Study Hours: 4
+Attendance: 60%
+Performance: Needs Improvement"
+1	10.9596316888586	13	66.4	S012 Mathematics Sem2	"Student: S012
+Subject: Mathematics
+Grade: 66.4%
+Study Hours: 13
+Attendance: 79%
+Performance: Satisfactory"
+1	8.5	14	63.6	S013 Mathematics Sem2	"Student: S013
+Subject: Mathematics
+Grade: 63.6%
+Study Hours: 14
+Attendance: 70%
+Performance: Satisfactory"
+1	8.81725751310599	5	58.7	S014 Mathematics Sem2	"Student: S014
+Subject: Mathematics
+Grade: 58.7%
+Study Hours: 5
+Attendance: 71%
+Performance: Needs Improvement"
+1	4.05548047910945	2	35.6	S015 Mathematics Sem2	"Student: S015
+Subject: Mathematics
+Grade: 35.6%
+Study Hours: 2
+Attendance: 61%
+Performance: Needs Improvement"
+1	2	9	54.9	S016 Mathematics Sem2	"Student: S016
+Subject: Mathematics
+Grade: 54.9%
+Study Hours: 9
+Attendance: 60%
+Performance: Needs Improvement"
+1	2	3	50.6	S017 Mathematics Sem2	"Student: S017
+Subject: Mathematics
+Grade: 50.6%
+Study Hours: 3
+Attendance: 60%
+Performance: Needs Improvement"
+1	4.90688837074973	11	64.1	S018 Mathematics Sem2	"Student: S018
+Subject: Mathematics
+Grade: 64.1%
+Study Hours: 11
+Attendance: 62%
+Performance: Satisfactory"
+1	2	2	45.9	S019 Mathematics Sem2	"Student: S019
+Subject: Mathematics
+Grade: 45.9%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	2	2	35.3	S020 Mathematics Sem2	"Student: S020
+Subject: Mathematics
+Grade: 35.3%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	11.6410580332244	21	79.1	S021 Mathematics Sem2	"Student: S021
+Subject: Mathematics
+Grade: 79.1%
+Study Hours: 21
+Attendance: 82%
+Performance: Good"
+1	10.7206651122492	10	60	S022 Mathematics Sem2	"Student: S022
+Subject: Mathematics
+Grade: 60%
+Study Hours: 10
+Attendance: 78%
+Performance: Needs Improvement"
+1	10.7206651122492	11	67.4	S023 Mathematics Sem2	"Student: S023
+Subject: Mathematics
+Grade: 67.4%
+Study Hours: 11
+Attendance: 78%
+Performance: Satisfactory"
+1	6.11096095821889	9	56.1	S024 Mathematics Sem2	"Student: S024
+Subject: Mathematics
+Grade: 56.1%
+Study Hours: 9
+Attendance: 64%
+Performance: Needs Improvement"
+1	7.81377674149945	10	63.2	S025 Mathematics Sem2	"Student: S025
+Subject: Mathematics
+Grade: 63.2%
+Study Hours: 10
+Attendance: 68%
+Performance: Satisfactory"
+1	2	10	42.9	S026 Mathematics Sem2	"Student: S026
+Subject: Mathematics
+Grade: 42.9%
+Study Hours: 10
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.5	2	56.8	S027 Mathematics Sem2	"Student: S027
+Subject: Mathematics
+Grade: 56.8%
+Study Hours: 2
+Attendance: 70%
+Performance: Needs Improvement"
+1	9.4111402631444	12	63.5	S028 Mathematics Sem2	"Student: S028
+Subject: Mathematics
+Grade: 63.5%
+Study Hours: 12
+Attendance: 73%
+Performance: Satisfactory"
+1	7.81377674149945	2	50.1	S029 Mathematics Sem2	"Student: S029
+Subject: Mathematics
+Grade: 50.1%
+Study Hours: 2
+Attendance: 68%
+Performance: Needs Improvement"
+1	8.5	10	53.7	S030 Mathematics Sem2	"Student: S030
+Subject: Mathematics
+Grade: 53.7%
+Study Hours: 10
+Attendance: 70%
+Performance: Needs Improvement"
+1	8.16644143732834	7	45.5	S031 Mathematics Sem2	"Student: S031
+Subject: Mathematics
+Grade: 45.5%
+Study Hours: 7
+Attendance: 69%
+Performance: Needs Improvement"
+1	7.43829017247149	10	54.5	S032 Mathematics Sem2	"Student: S032
+Subject: Mathematics
+Grade: 54.5%
+Study Hours: 10
+Attendance: 67%
+Performance: Needs Improvement"
+1	8.16644143732834	12	55.3	S033 Mathematics Sem2	"Student: S033
+Subject: Mathematics
+Grade: 55.3%
+Study Hours: 12
+Attendance: 69%
+Performance: Needs Improvement"
+1	9.96084166404533	12	71.2	S034 Mathematics Sem2	"Student: S034
+Subject: Mathematics
+Grade: 71.2%
+Study Hours: 12
+Attendance: 75%
+Performance: Satisfactory"
+1	9.4111402631444	3	61.6	S035 Mathematics Sem2	"Student: S035
+Subject: Mathematics
+Grade: 61.6%
+Study Hours: 3
+Attendance: 73%
+Performance: Satisfactory"
+1	8.5	7	64.8	S036 Mathematics Sem2	"Student: S036
+Subject: Mathematics
+Grade: 64.8%
+Study Hours: 7
+Attendance: 70%
+Performance: Satisfactory"
+1	5.56019662378358	13	54.3	S037 Mathematics Sem2	"Student: S037
+Subject: Mathematics
+Grade: 54.3%
+Study Hours: 13
+Attendance: 63%
+Performance: Needs Improvement"
+1	2	6	58.2	S038 Mathematics Sem2	"Student: S038
+Subject: Mathematics
+Grade: 58.2%
+Study Hours: 6
+Attendance: 60%
+Performance: Needs Improvement"
+1	7.43829017247149	10	52.6	S039 Mathematics Sem2	"Student: S039
+Subject: Mathematics
+Grade: 52.6%
+Study Hours: 10
+Attendance: 67%
+Performance: Needs Improvement"
+1	10.9596316888586	8	69.3	S040 Mathematics Sem2	"Student: S040
+Subject: Mathematics
+Grade: 69.3%
+Study Hours: 8
+Attendance: 79%
+Performance: Satisfactory"
+1	8.16644143732834	7	50.3	S041 Mathematics Sem2	"Student: S041
+Subject: Mathematics
+Grade: 50.3%
+Study Hours: 7
+Attendance: 69%
+Performance: Needs Improvement"
+1	8.5	13	62.7	S042 Mathematics Sem2	"Student: S042
+Subject: Mathematics
+Grade: 62.7%
+Study Hours: 13
+Attendance: 70%
+Performance: Satisfactory"
+1	10.2219219164378	11	68.4	S043 Mathematics Sem2	"Student: S043
+Subject: Mathematics
+Grade: 68.4%
+Study Hours: 11
+Attendance: 76%
+Performance: Satisfactory"
+1	10.2219219164378	9	73	S044 Mathematics Sem2	"Student: S044
+Subject: Mathematics
+Grade: 73%
+Study Hours: 9
+Attendance: 76%
+Performance: Satisfactory"
+1	8.5	8	54.1	S045 Mathematics Sem2	"Student: S045
+Subject: Mathematics
+Grade: 54.1%
+Study Hours: 8
+Attendance: 70%
+Performance: Needs Improvement"
+1	9.12039324756716	8	63.1	S046 Mathematics Sem2	"Student: S046
+Subject: Mathematics
+Grade: 63.1%
+Study Hours: 8
+Attendance: 72%
+Performance: Satisfactory"
+1	8.16644143732834	11	60.2	S047 Mathematics Sem2	"Student: S047
+Subject: Mathematics
+Grade: 60.2%
+Study Hours: 11
+Attendance: 69%
+Performance: Satisfactory"
+1	11.1923881554251	10	64.9	S048 Mathematics Sem2	"Student: S048
+Subject: Mathematics
+Grade: 64.9%
+Study Hours: 10
+Attendance: 80%
+Performance: Satisfactory"
+1	10.2219219164378	6	58.6	S049 Mathematics Sem2	"Student: S049
+Subject: Mathematics
+Grade: 58.6%
+Study Hours: 6
+Attendance: 76%
+Performance: Needs Improvement"
+1	10.7206651122492	15	77.5	S050 Mathematics Sem2	"Student: S050
+Subject: Mathematics
+Grade: 77.5%
+Study Hours: 15
+Attendance: 78%
+Performance: Good"
+1	10.9596316888586	17	80.8	S001 Physics Sem2	"Student: S001
+Subject: Physics
+Grade: 80.8%
+Study Hours: 17
+Attendance: 79%
+Performance: Good"
+1	11.4193948850231	15	69.6	S002 Physics Sem2	"Student: S002
+Subject: Physics
+Grade: 69.6%
+Study Hours: 15
+Attendance: 81%
+Performance: Satisfactory"
+1	8.16644143732834	15	60.9	S003 Physics Sem2	"Student: S003
+Subject: Physics
+Grade: 60.9%
+Study Hours: 15
+Attendance: 69%
+Performance: Satisfactory"
+1	2	11	54.7	S004 Physics Sem2	"Student: S004
+Subject: Physics
+Grade: 54.7%
+Study Hours: 11
+Attendance: 60%
+Performance: Needs Improvement"
+1	13.0691011378522	15	77.4	S005 Physics Sem2	"Student: S005
+Subject: Physics
+Grade: 77.4%
+Study Hours: 15
+Attendance: 89%
+Performance: Good"
+1	6.11096095821889	13	63.6	S006 Physics Sem2	"Student: S006
+Subject: Physics
+Grade: 63.6%
+Study Hours: 13
+Attendance: 64%
+Performance: Satisfactory"
+1	9.4111402631444	13	67.6	S007 Physics Sem2	"Student: S007
+Subject: Physics
+Grade: 67.6%
+Study Hours: 13
+Attendance: 73%
+Performance: Satisfactory"
+1	7.43829017247149	7	59.2	S008 Physics Sem2	"Student: S008
+Subject: Physics
+Grade: 59.2%
+Study Hours: 7
+Attendance: 67%
+Performance: Needs Improvement"
+1	2	6	50.4	S009 Physics Sem2	"Student: S009
+Subject: Physics
+Grade: 50.4%
+Study Hours: 6
+Attendance: 60%
+Performance: Needs Improvement"
+1	9.12039324756716	3	53.3	S010 Physics Sem2	"Student: S010
+Subject: Physics
+Grade: 53.3%
+Study Hours: 3
+Attendance: 72%
+Performance: Needs Improvement"
+1	8.5	2	51.3	S011 Physics Sem2	"Student: S011
+Subject: Physics
+Grade: 51.3%
+Study Hours: 2
+Attendance: 70%
+Performance: Needs Improvement"
+1	11.4193948850231	15	66.1	S012 Physics Sem2	"Student: S012
+Subject: Physics
+Grade: 66.1%
+Study Hours: 15
+Attendance: 81%
+Performance: Satisfactory"
+1	9.96084166404533	21	73.4	S013 Physics Sem2	"Student: S013
+Subject: Physics
+Grade: 73.4%
+Study Hours: 21
+Attendance: 75%
+Performance: Satisfactory"
+1	6.11096095821889	12	67.6	S014 Physics Sem2	"Student: S014
+Subject: Physics
+Grade: 67.6%
+Study Hours: 12
+Attendance: 64%
+Performance: Satisfactory"
+1	2	2	32	S015 Physics Sem2	"Student: S015
+Subject: Physics
+Grade: 32%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	9.4111402631444	14	59.9	S016 Physics Sem2	"Student: S016
+Subject: Physics
+Grade: 59.9%
+Study Hours: 14
+Attendance: 73%
+Performance: Needs Improvement"
+1	5.56019662378358	7	46.3	S017 Physics Sem2	"Student: S017
+Subject: Physics
+Grade: 46.3%
+Study Hours: 7
+Attendance: 63%
+Performance: Needs Improvement"
+1	9.6909037180295	9	61.5	S018 Physics Sem2	"Student: S018
+Subject: Physics
+Grade: 61.5%
+Study Hours: 9
+Attendance: 74%
+Performance: Satisfactory"
+1	7.03487835006964	4	37.1	S019 Physics Sem2	"Student: S019
+Subject: Physics
+Grade: 37.1%
+Study Hours: 4
+Attendance: 66%
+Performance: Needs Improvement"
+1	4.05548047910945	2	43.9	S020 Physics Sem2	"Student: S020
+Subject: Physics
+Grade: 43.9%
+Study Hours: 2
+Attendance: 61%
+Performance: Needs Improvement"
+1	7.43829017247149	17	63.8	S021 Physics Sem2	"Student: S021
+Subject: Physics
+Grade: 63.8%
+Study Hours: 17
+Attendance: 67%
+Performance: Satisfactory"
+1	10.9596316888586	10	72	S022 Physics Sem2	"Student: S022
+Subject: Physics
+Grade: 72%
+Study Hours: 10
+Attendance: 79%
+Performance: Satisfactory"
+1	8.5	9	70.9	S023 Physics Sem2	"Student: S023
+Subject: Physics
+Grade: 70.9%
+Study Hours: 9
+Attendance: 70%
+Performance: Satisfactory"
+1	7.03487835006964	7	56.7	S024 Physics Sem2	"Student: S024
+Subject: Physics
+Grade: 56.7%
+Study Hours: 7
+Attendance: 66%
+Performance: Needs Improvement"
+1	4.90688837074973	11	69.2	S025 Physics Sem2	"Student: S025
+Subject: Physics
+Grade: 69.2%
+Study Hours: 11
+Attendance: 62%
+Performance: Satisfactory"
+1	2	2	44.1	S026 Physics Sem2	"Student: S026
+Subject: Physics
+Grade: 44.1%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	10.4749631267634	10	67.1	S027 Physics Sem2	"Student: S027
+Subject: Physics
+Grade: 67.1%
+Study Hours: 10
+Attendance: 77%
+Performance: Satisfactory"
+1	9.96084166404533	13	60.9	S028 Physics Sem2	"Student: S028
+Subject: Physics
+Grade: 60.9%
+Study Hours: 13
+Attendance: 75%
+Performance: Satisfactory"
+1	2	2	44.5	S029 Physics Sem2	"Student: S029
+Subject: Physics
+Grade: 44.5%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.81725751310599	13	67	S030 Physics Sem2	"Student: S030
+Subject: Physics
+Grade: 67%
+Study Hours: 13
+Attendance: 71%
+Performance: Satisfactory"
+1	9.96084166404533	9	57.1	S031 Physics Sem2	"Student: S031
+Subject: Physics
+Grade: 57.1%
+Study Hours: 9
+Attendance: 75%
+Performance: Needs Improvement"
+1	9.12039324756716	9	65	S032 Physics Sem2	"Student: S032
+Subject: Physics
+Grade: 65%
+Study Hours: 9
+Attendance: 72%
+Performance: Satisfactory"
+1	9.6909037180295	13	60.9	S033 Physics Sem2	"Student: S033
+Subject: Physics
+Grade: 60.9%
+Study Hours: 13
+Attendance: 74%
+Performance: Satisfactory"
+1	11.4193948850231	12	68.5	S034 Physics Sem2	"Student: S034
+Subject: Physics
+Grade: 68.5%
+Study Hours: 12
+Attendance: 81%
+Performance: Satisfactory"
+1	2	8	61	S035 Physics Sem2	"Student: S035
+Subject: Physics
+Grade: 61%
+Study Hours: 8
+Attendance: 60%
+Performance: Satisfactory"
+1	9.4111402631444	11	69.8	S036 Physics Sem2	"Student: S036
+Subject: Physics
+Grade: 69.8%
+Study Hours: 11
+Attendance: 73%
+Performance: Satisfactory"
+1	6.59619407771256	7	56.2	S037 Physics Sem2	"Student: S037
+Subject: Physics
+Grade: 56.2%
+Study Hours: 7
+Attendance: 65%
+Performance: Needs Improvement"
+1	4.90688837074973	4	51.6	S038 Physics Sem2	"Student: S038
+Subject: Physics
+Grade: 51.6%
+Study Hours: 4
+Attendance: 62%
+Performance: Needs Improvement"
+1	4.05548047910945	7	52.3	S039 Physics Sem2	"Student: S039
+Subject: Physics
+Grade: 52.3%
+Study Hours: 7
+Attendance: 61%
+Performance: Needs Improvement"
+1	9.6909037180295	12	65.2	S040 Physics Sem2	"Student: S040
+Subject: Physics
+Grade: 65.2%
+Study Hours: 12
+Attendance: 74%
+Performance: Satisfactory"
+1	4.05548047910945	6	49.2	S041 Physics Sem2	"Student: S041
+Subject: Physics
+Grade: 49.2%
+Study Hours: 6
+Attendance: 61%
+Performance: Needs Improvement"
+1	11.4193948850231	14	68.8	S042 Physics Sem2	"Student: S042
+Subject: Physics
+Grade: 68.8%
+Study Hours: 14
+Attendance: 81%
+Performance: Satisfactory"
+1	9.12039324756716	17	64.9	S043 Physics Sem2	"Student: S043
+Subject: Physics
+Grade: 64.9%
+Study Hours: 17
+Attendance: 72%
+Performance: Satisfactory"
+1	10.4749631267634	16	78.5	S044 Physics Sem2	"Student: S044
+Subject: Physics
+Grade: 78.5%
+Study Hours: 16
+Attendance: 77%
+Performance: Good"
+1	2	10	51.8	S045 Physics Sem2	"Student: S045
+Subject: Physics
+Grade: 51.8%
+Study Hours: 10
+Attendance: 60%
+Performance: Needs Improvement"
+1	7.43829017247149	10	60.3	S046 Physics Sem2	"Student: S046
+Subject: Physics
+Grade: 60.3%
+Study Hours: 10
+Attendance: 67%
+Performance: Satisfactory"
+1	6.59619407771256	9	58.2	S047 Physics Sem2	"Student: S047
+Subject: Physics
+Grade: 58.2%
+Study Hours: 9
+Attendance: 65%
+Performance: Needs Improvement"
+1	7.43829017247149	12	65.1	S048 Physics Sem2	"Student: S048
+Subject: Physics
+Grade: 65.1%
+Study Hours: 12
+Attendance: 67%
+Performance: Satisfactory"
+1	9.96084166404533	13	68.3	S049 Physics Sem2	"Student: S049
+Subject: Physics
+Grade: 68.3%
+Study Hours: 13
+Attendance: 75%
+Performance: Satisfactory"
+1	12.0697567001393	14	78.4	S050 Physics Sem2	"Student: S050
+Subject: Physics
+Grade: 78.4%
+Study Hours: 14
+Attendance: 84%
+Performance: Good"
+1	10.2219219164378	16	66.2	S001 Chemistry Sem2	"Student: S001
+Subject: Chemistry
+Grade: 66.2%
+Study Hours: 16
+Attendance: 76%
+Performance: Satisfactory"
+1	9.4111402631444	16	71.1	S002 Chemistry Sem2	"Student: S002
+Subject: Chemistry
+Grade: 71.1%
+Study Hours: 16
+Attendance: 73%
+Performance: Satisfactory"
+1	9.96084166404533	10	56.6	S003 Chemistry Sem2	"Student: S003
+Subject: Chemistry
+Grade: 56.6%
+Study Hours: 10
+Attendance: 75%
+Performance: Needs Improvement"
+1	2	2	48.5	S004 Chemistry Sem2	"Student: S004
+Subject: Chemistry
+Grade: 48.5%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.16644143732834	17	77.4	S005 Chemistry Sem2	"Student: S005
+Subject: Chemistry
+Grade: 77.4%
+Study Hours: 17
+Attendance: 69%
+Performance: Good"
+1	12.2774023955472	18	79.7	S006 Chemistry Sem2	"Student: S006
+Subject: Chemistry
+Grade: 79.7%
+Study Hours: 18
+Attendance: 85%
+Performance: Good"
+1	9.6909037180295	12	69.7	S007 Chemistry Sem2	"Student: S007
+Subject: Chemistry
+Grade: 69.7%
+Study Hours: 12
+Attendance: 74%
+Performance: Satisfactory"
+1	8.5	15	64.4	S008 Chemistry Sem2	"Student: S008
+Subject: Chemistry
+Grade: 64.4%
+Study Hours: 15
+Attendance: 70%
+Performance: Satisfactory"
+1	2	13	43.7	S009 Chemistry Sem2	"Student: S009
+Subject: Chemistry
+Grade: 43.7%
+Study Hours: 13
+Attendance: 60%
+Performance: Needs Improvement"
+1	2	11	56.9	S010 Chemistry Sem2	"Student: S010
+Subject: Chemistry
+Grade: 56.9%
+Study Hours: 11
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.5	11	48.5	S011 Chemistry Sem2	"Student: S011
+Subject: Chemistry
+Grade: 48.5%
+Study Hours: 11
+Attendance: 70%
+Performance: Needs Improvement"
+1	11.4193948850231	12	69.9	S012 Chemistry Sem2	"Student: S012
+Subject: Chemistry
+Grade: 69.9%
+Study Hours: 12
+Attendance: 81%
+Performance: Satisfactory"
+1	10.4749631267634	17	73	S013 Chemistry Sem2	"Student: S013
+Subject: Chemistry
+Grade: 73%
+Study Hours: 17
+Attendance: 77%
+Performance: Satisfactory"
+1	10.9596316888586	13	70.8	S014 Chemistry Sem2	"Student: S014
+Subject: Chemistry
+Grade: 70.8%
+Study Hours: 13
+Attendance: 79%
+Performance: Satisfactory"
+1	2	8	35.5	S015 Chemistry Sem2	"Student: S015
+Subject: Chemistry
+Grade: 35.5%
+Study Hours: 8
+Attendance: 60%
+Performance: Needs Improvement"
+1	9.12039324756716	11	60.3	S016 Chemistry Sem2	"Student: S016
+Subject: Chemistry
+Grade: 60.3%
+Study Hours: 11
+Attendance: 72%
+Performance: Satisfactory"
+1	8.5	12	53.4	S017 Chemistry Sem2	"Student: S017
+Subject: Chemistry
+Grade: 53.4%
+Study Hours: 12
+Attendance: 70%
+Performance: Needs Improvement"
+1	10.7206651122492	11	73	S018 Chemistry Sem2	"Student: S018
+Subject: Chemistry
+Grade: 73%
+Study Hours: 11
+Attendance: 78%
+Performance: Satisfactory"
+1	8.5	6	55.2	S019 Chemistry Sem2	"Student: S019
+Subject: Chemistry
+Grade: 55.2%
+Study Hours: 6
+Attendance: 70%
+Performance: Needs Improvement"
+1	4.90688837074973	2	39	S020 Chemistry Sem2	"Student: S020
+Subject: Chemistry
+Grade: 39%
+Study Hours: 2
+Attendance: 62%
+Performance: Needs Improvement"
+1	10.4749631267634	21	77.3	S021 Chemistry Sem2	"Student: S021
+Subject: Chemistry
+Grade: 77.3%
+Study Hours: 21
+Attendance: 77%
+Performance: Good"
+1	4.90688837074973	16	64.1	S022 Chemistry Sem2	"Student: S022
+Subject: Chemistry
+Grade: 64.1%
+Study Hours: 16
+Attendance: 62%
+Performance: Satisfactory"
+1	7.81377674149945	13	70.9	S023 Chemistry Sem2	"Student: S023
+Subject: Chemistry
+Grade: 70.9%
+Study Hours: 13
+Attendance: 68%
+Performance: Satisfactory"
+1	9.12039324756716	7	59.7	S024 Chemistry Sem2	"Student: S024
+Subject: Chemistry
+Grade: 59.7%
+Study Hours: 7
+Attendance: 72%
+Performance: Needs Improvement"
+1	12.0697567001393	13	64.9	S025 Chemistry Sem2	"Student: S025
+Subject: Chemistry
+Grade: 64.9%
+Study Hours: 13
+Attendance: 84%
+Performance: Satisfactory"
+1	4.05548047910945	7	46.4	S026 Chemistry Sem2	"Student: S026
+Subject: Chemistry
+Grade: 46.4%
+Study Hours: 7
+Attendance: 61%
+Performance: Needs Improvement"
+1	8.5	14	60.5	S027 Chemistry Sem2	"Student: S027
+Subject: Chemistry
+Grade: 60.5%
+Study Hours: 14
+Attendance: 70%
+Performance: Satisfactory"
+1	8.5	8	65.2	S028 Chemistry Sem2	"Student: S028
+Subject: Chemistry
+Grade: 65.2%
+Study Hours: 8
+Attendance: 70%
+Performance: Satisfactory"
+1	6.11096095821889	2	38.7	S029 Chemistry Sem2	"Student: S029
+Subject: Chemistry
+Grade: 38.7%
+Study Hours: 2
+Attendance: 64%
+Performance: Needs Improvement"
+1	9.96084166404533	7	64.2	S030 Chemistry Sem2	"Student: S030
+Subject: Chemistry
+Grade: 64.2%
+Study Hours: 7
+Attendance: 75%
+Performance: Satisfactory"
+1	4.05548047910945	10	49.1	S031 Chemistry Sem2	"Student: S031
+Subject: Chemistry
+Grade: 49.1%
+Study Hours: 10
+Attendance: 61%
+Performance: Needs Improvement"
+1	6.59619407771256	12	55.7	S032 Chemistry Sem2	"Student: S032
+Subject: Chemistry
+Grade: 55.7%
+Study Hours: 12
+Attendance: 65%
+Performance: Needs Improvement"
+1	4.90688837074973	10	53.5	S033 Chemistry Sem2	"Student: S033
+Subject: Chemistry
+Grade: 53.5%
+Study Hours: 10
+Attendance: 62%
+Performance: Needs Improvement"
+1	11.1923881554251	15	77	S034 Chemistry Sem2	"Student: S034
+Subject: Chemistry
+Grade: 77%
+Study Hours: 15
+Attendance: 80%
+Performance: Good"
+1	7.81377674149945	7	52.6	S035 Chemistry Sem2	"Student: S035
+Subject: Chemistry
+Grade: 52.6%
+Study Hours: 7
+Attendance: 68%
+Performance: Needs Improvement"
+1	10.4749631267634	17	67.6	S036 Chemistry Sem2	"Student: S036
+Subject: Chemistry
+Grade: 67.6%
+Study Hours: 17
+Attendance: 77%
+Performance: Satisfactory"
+1	8.81725751310599	12	64.2	S037 Chemistry Sem2	"Student: S037
+Subject: Chemistry
+Grade: 64.2%
+Study Hours: 12
+Attendance: 71%
+Performance: Satisfactory"
+1	5.56019662378358	7	58.3	S038 Chemistry Sem2	"Student: S038
+Subject: Chemistry
+Grade: 58.3%
+Study Hours: 7
+Attendance: 63%
+Performance: Needs Improvement"
+1	9.6909037180295	4	53.8	S039 Chemistry Sem2	"Student: S039
+Subject: Chemistry
+Grade: 53.8%
+Study Hours: 4
+Attendance: 74%
+Performance: Needs Improvement"
+1	10.2219219164378	16	71.3	S040 Chemistry Sem2	"Student: S040
+Subject: Chemistry
+Grade: 71.3%
+Study Hours: 16
+Attendance: 76%
+Performance: Satisfactory"
+1	9.12039324756716	9	53.2	S041 Chemistry Sem2	"Student: S041
+Subject: Chemistry
+Grade: 53.2%
+Study Hours: 9
+Attendance: 72%
+Performance: Needs Improvement"
+1	7.43829017247149	13	61.3	S042 Chemistry Sem2	"Student: S042
+Subject: Chemistry
+Grade: 61.3%
+Study Hours: 13
+Attendance: 67%
+Performance: Satisfactory"
+1	10.4749631267634	13	68.9	S043 Chemistry Sem2	"Student: S043
+Subject: Chemistry
+Grade: 68.9%
+Study Hours: 13
+Attendance: 77%
+Performance: Satisfactory"
+1	13.6275534829989	14	80.7	S044 Chemistry Sem2	"Student: S044
+Subject: Chemistry
+Grade: 80.7%
+Study Hours: 14
+Attendance: 92%
+Performance: Good"
+1	5.56019662378358	2	45.8	S045 Chemistry Sem2	"Student: S045
+Subject: Chemistry
+Grade: 45.8%
+Study Hours: 2
+Attendance: 63%
+Performance: Needs Improvement"
+1	8.81725751310599	7	64	S046 Chemistry Sem2	"Student: S046
+Subject: Chemistry
+Grade: 64%
+Study Hours: 7
+Attendance: 71%
+Performance: Satisfactory"
+1	8.81725751310599	11	62.3	S047 Chemistry Sem2	"Student: S047
+Subject: Chemistry
+Grade: 62.3%
+Study Hours: 11
+Attendance: 71%
+Performance: Satisfactory"
+1	11.857738077267	14	73.4	S048 Chemistry Sem2	"Student: S048
+Subject: Chemistry
+Grade: 73.4%
+Study Hours: 14
+Attendance: 83%
+Performance: Satisfactory"
+1	7.03487835006964	5	60.8	S049 Chemistry Sem2	"Student: S049
+Subject: Chemistry
+Grade: 60.8%
+Study Hours: 5
+Attendance: 66%
+Performance: Satisfactory"
+1	12.0697567001393	15	84.2	S050 Chemistry Sem2	"Student: S050
+Subject: Chemistry
+Grade: 84.2%
+Study Hours: 15
+Attendance: 84%
+Performance: Good"
+1	10.2219219164378	14	77.7	S001 Biology Sem2	"Student: S001
+Subject: Biology
+Grade: 77.7%
+Study Hours: 14
+Attendance: 76%
+Performance: Good"
+1	10.2219219164378	13	65	S002 Biology Sem2	"Student: S002
+Subject: Biology
+Grade: 65%
+Study Hours: 13
+Attendance: 76%
+Performance: Satisfactory"
+1	9.12039324756716	13	66.9	S003 Biology Sem2	"Student: S003
+Subject: Biology
+Grade: 66.9%
+Study Hours: 13
+Attendance: 72%
+Performance: Satisfactory"
+1	10.4749631267634	13	62	S004 Biology Sem2	"Student: S004
+Subject: Biology
+Grade: 62%
+Study Hours: 13
+Attendance: 77%
+Performance: Satisfactory"
+1	10.7206651122492	14	86.7	S005 Biology Sem2	"Student: S005
+Subject: Biology
+Grade: 86.7%
+Study Hours: 14
+Attendance: 78%
+Performance: Excellent"
+1	10.4749631267634	10	72.8	S006 Biology Sem2	"Student: S006
+Subject: Biology
+Grade: 72.8%
+Study Hours: 10
+Attendance: 77%
+Performance: Satisfactory"
+1	7.81377674149945	6	58.9	S007 Biology Sem2	"Student: S007
+Subject: Biology
+Grade: 58.9%
+Study Hours: 6
+Attendance: 68%
+Performance: Needs Improvement"
+1	9.96084166404533	16	71.6	S008 Biology Sem2	"Student: S008
+Subject: Biology
+Grade: 71.6%
+Study Hours: 16
+Attendance: 75%
+Performance: Satisfactory"
+1	9.4111402631444	7	51.3	S009 Biology Sem2	"Student: S009
+Subject: Biology
+Grade: 51.3%
+Study Hours: 7
+Attendance: 73%
+Performance: Needs Improvement"
+1	6.11096095821889	6	47.4	S010 Biology Sem2	"Student: S010
+Subject: Biology
+Grade: 47.4%
+Study Hours: 6
+Attendance: 64%
+Performance: Needs Improvement"
+1	7.43829017247149	7	47.6	S011 Biology Sem2	"Student: S011
+Subject: Biology
+Grade: 47.6%
+Study Hours: 7
+Attendance: 67%
+Performance: Needs Improvement"
+1	7.81377674149945	12	70.9	S012 Biology Sem2	"Student: S012
+Subject: Biology
+Grade: 70.9%
+Study Hours: 12
+Attendance: 68%
+Performance: Satisfactory"
+1	9.96084166404533	9	67.6	S013 Biology Sem2	"Student: S013
+Subject: Biology
+Grade: 67.6%
+Study Hours: 9
+Attendance: 75%
+Performance: Satisfactory"
+1	9.96084166404533	13	71.4	S014 Biology Sem2	"Student: S014
+Subject: Biology
+Grade: 71.4%
+Study Hours: 13
+Attendance: 75%
+Performance: Satisfactory"
+1	2	2	32.7	S015 Biology Sem2	"Student: S015
+Subject: Biology
+Grade: 32.7%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.81725751310599	8	58.3	S016 Biology Sem2	"Student: S016
+Subject: Biology
+Grade: 58.3%
+Study Hours: 8
+Attendance: 71%
+Performance: Needs Improvement"
+1	4.05548047910945	8	51.3	S017 Biology Sem2	"Student: S017
+Subject: Biology
+Grade: 51.3%
+Study Hours: 8
+Attendance: 61%
+Performance: Needs Improvement"
+1	10.7206651122492	18	66.6	S018 Biology Sem2	"Student: S018
+Subject: Biology
+Grade: 66.6%
+Study Hours: 18
+Attendance: 78%
+Performance: Satisfactory"
+1	2	6	46.8	S019 Biology Sem2	"Student: S019
+Subject: Biology
+Grade: 46.8%
+Study Hours: 6
+Attendance: 60%
+Performance: Needs Improvement"
+1	2	2	33.3	S020 Biology Sem2	"Student: S020
+Subject: Biology
+Grade: 33.3%
+Study Hours: 2
+Attendance: 60%
+Performance: Needs Improvement"
+1	9.12039324756716	14	71.4	S021 Biology Sem2	"Student: S021
+Subject: Biology
+Grade: 71.4%
+Study Hours: 14
+Attendance: 72%
+Performance: Satisfactory"
+1	8.81725751310599	15	64.9	S022 Biology Sem2	"Student: S022
+Subject: Biology
+Grade: 64.9%
+Study Hours: 15
+Attendance: 71%
+Performance: Satisfactory"
+1	10.7206651122492	9	70.6	S023 Biology Sem2	"Student: S023
+Subject: Biology
+Grade: 70.6%
+Study Hours: 9
+Attendance: 78%
+Performance: Satisfactory"
+1	7.03487835006964	4	52.1	S024 Biology Sem2	"Student: S024
+Subject: Biology
+Grade: 52.1%
+Study Hours: 4
+Attendance: 66%
+Performance: Needs Improvement"
+1	10.4749631267634	12	66.1	S025 Biology Sem2	"Student: S025
+Subject: Biology
+Grade: 66.1%
+Study Hours: 12
+Attendance: 77%
+Performance: Satisfactory"
+1	9.96084166404533	10	57	S026 Biology Sem2	"Student: S026
+Subject: Biology
+Grade: 57%
+Study Hours: 10
+Attendance: 75%
+Performance: Needs Improvement"
+1	7.03487835006964	5	57.1	S027 Biology Sem2	"Student: S027
+Subject: Biology
+Grade: 57.1%
+Study Hours: 5
+Attendance: 66%
+Performance: Needs Improvement"
+1	10.7206651122492	22	74.8	S028 Biology Sem2	"Student: S028
+Subject: Biology
+Grade: 74.8%
+Study Hours: 22
+Attendance: 78%
+Performance: Satisfactory"
+1	2	9	47.1	S029 Biology Sem2	"Student: S029
+Subject: Biology
+Grade: 47.1%
+Study Hours: 9
+Attendance: 60%
+Performance: Needs Improvement"
+1	11.4193948850231	8	64.6	S030 Biology Sem2	"Student: S030
+Subject: Biology
+Grade: 64.6%
+Study Hours: 8
+Attendance: 81%
+Performance: Satisfactory"
+1	2	5	45.3	S031 Biology Sem2	"Student: S031
+Subject: Biology
+Grade: 45.3%
+Study Hours: 5
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.5	10	54.9	S032 Biology Sem2	"Student: S032
+Subject: Biology
+Grade: 54.9%
+Study Hours: 10
+Attendance: 70%
+Performance: Needs Improvement"
+1	10.4749631267634	8	57.7	S033 Biology Sem2	"Student: S033
+Subject: Biology
+Grade: 57.7%
+Study Hours: 8
+Attendance: 77%
+Performance: Needs Improvement"
+1	10.9596316888586	19	79.2	S034 Biology Sem2	"Student: S034
+Subject: Biology
+Grade: 79.2%
+Study Hours: 19
+Attendance: 79%
+Performance: Good"
+1	6.59619407771256	11	60.2	S035 Biology Sem2	"Student: S035
+Subject: Biology
+Grade: 60.2%
+Study Hours: 11
+Attendance: 65%
+Performance: Satisfactory"
+1	12.6805898713507	19	78	S036 Biology Sem2	"Student: S036
+Subject: Biology
+Grade: 78%
+Study Hours: 19
+Attendance: 87%
+Performance: Good"
+1	11.4193948850231	12	66.6	S037 Biology Sem2	"Student: S037
+Subject: Biology
+Grade: 66.6%
+Study Hours: 12
+Attendance: 81%
+Performance: Satisfactory"
+1	2	12	54.9	S038 Biology Sem2	"Student: S038
+Subject: Biology
+Grade: 54.9%
+Study Hours: 12
+Attendance: 60%
+Performance: Needs Improvement"
+1	4.90688837074973	5	49.1	S039 Biology Sem2	"Student: S039
+Subject: Biology
+Grade: 49.1%
+Study Hours: 5
+Attendance: 62%
+Performance: Needs Improvement"
+1	7.81377674149945	17	69.1	S040 Biology Sem2	"Student: S040
+Subject: Biology
+Grade: 69.1%
+Study Hours: 17
+Attendance: 68%
+Performance: Satisfactory"
+1	6.11096095821889	7	49.7	S041 Biology Sem2	"Student: S041
+Subject: Biology
+Grade: 49.7%
+Study Hours: 7
+Attendance: 64%
+Performance: Needs Improvement"
+1	10.7206651122492	11	61.5	S042 Biology Sem2	"Student: S042
+Subject: Biology
+Grade: 61.5%
+Study Hours: 11
+Attendance: 78%
+Performance: Satisfactory"
+1	9.12039324756716	10	70.6	S043 Biology Sem2	"Student: S043
+Subject: Biology
+Grade: 70.6%
+Study Hours: 10
+Attendance: 72%
+Performance: Satisfactory"
+1	9.4111402631444	19	78.3	S044 Biology Sem2	"Student: S044
+Subject: Biology
+Grade: 78.3%
+Study Hours: 19
+Attendance: 73%
+Performance: Good"
+1	6.59619407771256	6	50.1	S045 Biology Sem2	"Student: S045
+Subject: Biology
+Grade: 50.1%
+Study Hours: 6
+Attendance: 65%
+Performance: Needs Improvement"
+1	9.4111402631444	14	73.2	S046 Biology Sem2	"Student: S046
+Subject: Biology
+Grade: 73.2%
+Study Hours: 14
+Attendance: 73%
+Performance: Satisfactory"
+1	9.12039324756716	15	70.7	S047 Biology Sem2	"Student: S047
+Subject: Biology
+Grade: 70.7%
+Study Hours: 15
+Attendance: 72%
+Performance: Satisfactory"
+1	11.6410580332244	8	67.3	S048 Biology Sem2	"Student: S048
+Subject: Biology
+Grade: 67.3%
+Study Hours: 8
+Attendance: 82%
+Performance: Satisfactory"
+1	9.6909037180295	11	68.5	S049 Biology Sem2	"Student: S049
+Subject: Biology
+Grade: 68.5%
+Study Hours: 11
+Attendance: 74%
+Performance: Satisfactory"
+1	10.9596316888586	15	83.6	S050 Biology Sem2	"Student: S050
+Subject: Biology
+Grade: 83.6%
+Study Hours: 15
+Attendance: 79%
+Performance: Good"
+1	12.0697567001393	17	79.4	S001 English Sem2	"Student: S001
+Subject: English
+Grade: 79.4%
+Study Hours: 17
+Attendance: 84%
+Performance: Good"
+1	13.0691011378522	8	72.7	S002 English Sem2	"Student: S002
+Subject: English
+Grade: 72.7%
+Study Hours: 8
+Attendance: 89%
+Performance: Satisfactory"
+1	9.6909037180295	9	67.1	S003 English Sem2	"Student: S003
+Subject: English
+Grade: 67.1%
+Study Hours: 9
+Attendance: 74%
+Performance: Satisfactory"
+1	10.4749631267634	14	62.8	S004 English Sem2	"Student: S004
+Subject: English
+Grade: 62.8%
+Study Hours: 14
+Attendance: 77%
+Performance: Satisfactory"
+1	7.43829017247149	15	76.5	S005 English Sem2	"Student: S005
+Subject: English
+Grade: 76.5%
+Study Hours: 15
+Attendance: 67%
+Performance: Good"
+1	10.7206651122492	13	80.1	S006 English Sem2	"Student: S006
+Subject: English
+Grade: 80.1%
+Study Hours: 13
+Attendance: 78%
+Performance: Good"
+1	7.81377674149945	8	62.9	S007 English Sem2	"Student: S007
+Subject: English
+Grade: 62.9%
+Study Hours: 8
+Attendance: 68%
+Performance: Satisfactory"
+1	7.81377674149945	17	72.4	S008 English Sem2	"Student: S008
+Subject: English
+Grade: 72.4%
+Study Hours: 17
+Attendance: 68%
+Performance: Satisfactory"
+1	5.56019662378358	7	52.3	S009 English Sem2	"Student: S009
+Subject: English
+Grade: 52.3%
+Study Hours: 7
+Attendance: 63%
+Performance: Needs Improvement"
+1	8.81725751310599	8	57.4	S010 English Sem2	"Student: S010
+Subject: English
+Grade: 57.4%
+Study Hours: 8
+Attendance: 71%
+Performance: Needs Improvement"
+1	7.43829017247149	4	56	S011 English Sem2	"Student: S011
+Subject: English
+Grade: 56%
+Study Hours: 4
+Attendance: 67%
+Performance: Needs Improvement"
+1	9.4111402631444	17	80.5	S012 English Sem2	"Student: S012
+Subject: English
+Grade: 80.5%
+Study Hours: 17
+Attendance: 73%
+Performance: Good"
+1	9.4111402631444	14	71.2	S013 English Sem2	"Student: S013
+Subject: English
+Grade: 71.2%
+Study Hours: 14
+Attendance: 73%
+Performance: Satisfactory"
+1	9.96084166404533	12	68.4	S014 English Sem2	"Student: S014
+Subject: English
+Grade: 68.4%
+Study Hours: 12
+Attendance: 75%
+Performance: Satisfactory"
+1	4.05548047910945	5	36.1	S015 English Sem2	"Student: S015
+Subject: English
+Grade: 36.1%
+Study Hours: 5
+Attendance: 61%
+Performance: Needs Improvement"
+1	9.6909037180295	13	65.8	S016 English Sem2	"Student: S016
+Subject: English
+Grade: 65.8%
+Study Hours: 13
+Attendance: 74%
+Performance: Satisfactory"
+1	4.05548047910945	7	56.3	S017 English Sem2	"Student: S017
+Subject: English
+Grade: 56.3%
+Study Hours: 7
+Attendance: 61%
+Performance: Needs Improvement"
+1	10.7206651122492	20	73.2	S018 English Sem2	"Student: S018
+Subject: English
+Grade: 73.2%
+Study Hours: 20
+Attendance: 78%
+Performance: Satisfactory"
+1	7.03487835006964	8	50.8	S019 English Sem2	"Student: S019
+Subject: English
+Grade: 50.8%
+Study Hours: 8
+Attendance: 66%
+Performance: Needs Improvement"
+1	6.59619407771256	2	36.6	S020 English Sem2	"Student: S020
+Subject: English
+Grade: 36.6%
+Study Hours: 2
+Attendance: 65%
+Performance: Needs Improvement"
+1	10.2219219164378	12	72.4	S021 English Sem2	"Student: S021
+Subject: English
+Grade: 72.4%
+Study Hours: 12
+Attendance: 76%
+Performance: Satisfactory"
+1	10.7206651122492	14	64.4	S022 English Sem2	"Student: S022
+Subject: English
+Grade: 64.4%
+Study Hours: 14
+Attendance: 78%
+Performance: Satisfactory"
+1	10.4749631267634	20	80.5	S023 English Sem2	"Student: S023
+Subject: English
+Grade: 80.5%
+Study Hours: 20
+Attendance: 77%
+Performance: Good"
+1	8.5	8	56.5	S024 English Sem2	"Student: S024
+Subject: English
+Grade: 56.5%
+Study Hours: 8
+Attendance: 70%
+Performance: Needs Improvement"
+1	12.2774023955472	21	74.1	S025 English Sem2	"Student: S025
+Subject: English
+Grade: 74.1%
+Study Hours: 21
+Attendance: 85%
+Performance: Satisfactory"
+1	8.16644143732834	11	58.2	S026 English Sem2	"Student: S026
+Subject: English
+Grade: 58.2%
+Study Hours: 11
+Attendance: 69%
+Performance: Needs Improvement"
+1	7.03487835006964	11	62	S027 English Sem2	"Student: S027
+Subject: English
+Grade: 62%
+Study Hours: 11
+Attendance: 66%
+Performance: Satisfactory"
+1	9.96084166404533	12	72	S028 English Sem2	"Student: S028
+Subject: English
+Grade: 72%
+Study Hours: 12
+Attendance: 75%
+Performance: Satisfactory"
+1	2	10	51.2	S029 English Sem2	"Student: S029
+Subject: English
+Grade: 51.2%
+Study Hours: 10
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.5	7	57.7	S030 English Sem2	"Student: S030
+Subject: English
+Grade: 57.7%
+Study Hours: 7
+Attendance: 70%
+Performance: Needs Improvement"
+1	6.59619407771256	2	45.5	S031 English Sem2	"Student: S031
+Subject: English
+Grade: 45.5%
+Study Hours: 2
+Attendance: 65%
+Performance: Needs Improvement"
+1	8.81725751310599	13	66.9	S032 English Sem2	"Student: S032
+Subject: English
+Grade: 66.9%
+Study Hours: 13
+Attendance: 71%
+Performance: Satisfactory"
+1	7.81377674149945	7	51.7	S033 English Sem2	"Student: S033
+Subject: English
+Grade: 51.7%
+Study Hours: 7
+Attendance: 68%
+Performance: Needs Improvement"
+1	9.12039324756716	12	73.6	S034 English Sem2	"Student: S034
+Subject: English
+Grade: 73.6%
+Study Hours: 12
+Attendance: 72%
+Performance: Satisfactory"
+1	8.16644143732834	16	65	S035 English Sem2	"Student: S035
+Subject: English
+Grade: 65%
+Study Hours: 16
+Attendance: 69%
+Performance: Satisfactory"
+1	10.7206651122492	16	70.8	S036 English Sem2	"Student: S036
+Subject: English
+Grade: 70.8%
+Study Hours: 16
+Attendance: 78%
+Performance: Satisfactory"
+1	9.12039324756716	13	70.1	S037 English Sem2	"Student: S037
+Subject: English
+Grade: 70.1%
+Study Hours: 13
+Attendance: 72%
+Performance: Satisfactory"
+1	9.12039324756716	10	56.2	S038 English Sem2	"Student: S038
+Subject: English
+Grade: 56.2%
+Study Hours: 10
+Attendance: 72%
+Performance: Needs Improvement"
+1	9.6909037180295	18	69.3	S039 English Sem2	"Student: S039
+Subject: English
+Grade: 69.3%
+Study Hours: 18
+Attendance: 74%
+Performance: Satisfactory"
+1	8.81725751310599	19	77.7	S040 English Sem2	"Student: S040
+Subject: English
+Grade: 77.7%
+Study Hours: 19
+Attendance: 71%
+Performance: Good"
+1	11.857738077267	14	57.3	S041 English Sem2	"Student: S041
+Subject: English
+Grade: 57.3%
+Study Hours: 14
+Attendance: 83%
+Performance: Needs Improvement"
+1	9.6909037180295	10	59.8	S042 English Sem2	"Student: S042
+Subject: English
+Grade: 59.8%
+Study Hours: 10
+Attendance: 74%
+Performance: Needs Improvement"
+1	10.9596316888586	10	64.2	S043 English Sem2	"Student: S043
+Subject: English
+Grade: 64.2%
+Study Hours: 10
+Attendance: 79%
+Performance: Satisfactory"
+1	9.96084166404533	19	88.1	S044 English Sem2	"Student: S044
+Subject: English
+Grade: 88.1%
+Study Hours: 19
+Attendance: 75%
+Performance: Excellent"
+1	9.12039324756716	8	52.6	S045 English Sem2	"Student: S045
+Subject: English
+Grade: 52.6%
+Study Hours: 8
+Attendance: 72%
+Performance: Needs Improvement"
+1	9.6909037180295	13	65.7	S046 English Sem2	"Student: S046
+Subject: English
+Grade: 65.7%
+Study Hours: 13
+Attendance: 74%
+Performance: Satisfactory"
+1	9.96084166404533	12	67.6	S047 English Sem2	"Student: S047
+Subject: English
+Grade: 67.6%
+Study Hours: 12
+Attendance: 75%
+Performance: Satisfactory"
+1	12.0697567001393	17	80.1	S048 English Sem2	"Student: S048
+Subject: English
+Grade: 80.1%
+Study Hours: 17
+Attendance: 84%
+Performance: Good"
+1	8.5	18	75	S049 English Sem2	"Student: S049
+Subject: English
+Grade: 75%
+Study Hours: 18
+Attendance: 70%
+Performance: Satisfactory"
+1	12.6805898713507	16	83.9	S050 English Sem2	"Student: S050
+Subject: English
+Grade: 83.9%
+Study Hours: 16
+Attendance: 87%
+Performance: Good"
+1	7.03487835006964	6	63.9	S001 History Sem2	"Student: S001
+Subject: History
+Grade: 63.9%
+Study Hours: 6
+Attendance: 66%
+Performance: Satisfactory"
+1	11.6410580332244	16	78.1	S002 History Sem2	"Student: S002
+Subject: History
+Grade: 78.1%
+Study Hours: 16
+Attendance: 82%
+Performance: Good"
+1	6.11096095821889	14	68.9	S003 History Sem2	"Student: S003
+Subject: History
+Grade: 68.9%
+Study Hours: 14
+Attendance: 64%
+Performance: Satisfactory"
+1	9.4111402631444	9	65.5	S004 History Sem2	"Student: S004
+Subject: History
+Grade: 65.5%
+Study Hours: 9
+Attendance: 73%
+Performance: Satisfactory"
+1	10.2219219164378	14	79.7	S005 History Sem2	"Student: S005
+Subject: History
+Grade: 79.7%
+Study Hours: 14
+Attendance: 76%
+Performance: Good"
+1	10.4749631267634	17	75.7	S006 History Sem2	"Student: S006
+Subject: History
+Grade: 75.7%
+Study Hours: 17
+Attendance: 77%
+Performance: Good"
+1	10.4749631267634	12	71.8	S007 History Sem2	"Student: S007
+Subject: History
+Grade: 71.8%
+Study Hours: 12
+Attendance: 77%
+Performance: Satisfactory"
+1	6.59619407771256	9	55.2	S008 History Sem2	"Student: S008
+Subject: History
+Grade: 55.2%
+Study Hours: 9
+Attendance: 65%
+Performance: Needs Improvement"
+1	5.56019662378358	4	54.3	S009 History Sem2	"Student: S009
+Subject: History
+Grade: 54.3%
+Study Hours: 4
+Attendance: 63%
+Performance: Needs Improvement"
+1	6.59619407771256	5	53.3	S010 History Sem2	"Student: S010
+Subject: History
+Grade: 53.3%
+Study Hours: 5
+Attendance: 65%
+Performance: Needs Improvement"
+1	2	7	44.1	S011 History Sem2	"Student: S011
+Subject: History
+Grade: 44.1%
+Study Hours: 7
+Attendance: 60%
+Performance: Needs Improvement"
+1	9.6909037180295	18	77.7	S012 History Sem2	"Student: S012
+Subject: History
+Grade: 77.7%
+Study Hours: 18
+Attendance: 74%
+Performance: Good"
+1	11.4193948850231	12	72.1	S013 History Sem2	"Student: S013
+Subject: History
+Grade: 72.1%
+Study Hours: 12
+Attendance: 81%
+Performance: Satisfactory"
+1	12.4809350727881	18	77.9	S014 History Sem2	"Student: S014
+Subject: History
+Grade: 77.9%
+Study Hours: 18
+Attendance: 86%
+Performance: Good"
+1	2	6	36.7	S015 History Sem2	"Student: S015
+Subject: History
+Grade: 36.7%
+Study Hours: 6
+Attendance: 60%
+Performance: Needs Improvement"
+1	8.16644143732834	11	61.2	S016 History Sem2	"Student: S016
+Subject: History
+Grade: 61.2%
+Study Hours: 11
+Attendance: 69%
+Performance: Satisfactory"
+1	10.2219219164378	7	62.1	S017 History Sem2	"Student: S017
+Subject: History
+Grade: 62.1%
+Study Hours: 7
+Attendance: 76%
+Performance: Satisfactory"
+1	11.4193948850231	12	82.9	S018 History Sem2	"Student: S018
+Subject: History
+Grade: 82.9%
+Study Hours: 12
+Attendance: 81%
+Performance: Good"
+1	6.59619407771256	11	51.2	S019 History Sem2	"Student: S019
+Subject: History
+Grade: 51.2%
+Study Hours: 11
+Attendance: 65%
+Performance: Needs Improvement"
+1	6.11096095821889	2	47.6	S020 History Sem2	"Student: S020
+Subject: History
+Grade: 47.6%
+Study Hours: 2
+Attendance: 64%
+Performance: Needs Improvement"
+1	12.6805898713507	17	82.5	S021 History Sem2	"Student: S021
+Subject: History
+Grade: 82.5%
+Study Hours: 17
+Attendance: 87%
+Performance: Good"
+1	7.03487835006964	7	64.8	S022 History Sem2	"Student: S022
+Subject: History
+Grade: 64.8%
+Study Hours: 7
+Attendance: 66%
+Performance: Satisfactory"
+1	11.1923881554251	16	75.7	S023 History Sem2	"Student: S023
+Subject: History
+Grade: 75.7%
+Study Hours: 16
+Attendance: 80%
+Performance: Good"
+1	8.81725751310599	7	61.2	S024 History Sem2	"Student: S024
+Subject: History
+Grade: 61.2%
+Study Hours: 7
+Attendance: 71%
+Performance: Satisfactory"
+1	10.9596316888586	14	70	S025 History Sem2	"Student: S025
+Subject: History
+Grade: 70%
+Study Hours: 14
+Attendance: 79%
+Performance: Satisfactory"
+1	8.16644143732834	6	56	S026 History Sem2	"Student: S026
+Subject: History
+Grade: 56%
+Study Hours: 6
+Attendance: 69%
+Performance: Needs Improvement"
+1	8.81725751310599	10	64.4	S027 History Sem2	"Student: S027
+Subject: History
+Grade: 64.4%
+Study Hours: 10
+Attendance: 71%
+Performance: Satisfactory"
+1	9.6909037180295	16	68.1	S028 History Sem2	"Student: S028
+Subject: History
+Grade: 68.1%
+Study Hours: 16
+Attendance: 74%
+Performance: Satisfactory"
+1	7.43829017247149	9	45.6	S029 History Sem2	"Student: S029
+Subject: History
+Grade: 45.6%
+Study Hours: 9
+Attendance: 67%
+Performance: Needs Improvement"
+1	9.6909037180295	11	65.1	S030 History Sem2	"Student: S030
+Subject: History
+Grade: 65.1%
+Study Hours: 11
+Attendance: 74%
+Performance: Satisfactory"
+1	7.81377674149945	8	45.7	S031 History Sem2	"Student: S031
+Subject: History
+Grade: 45.7%
+Study Hours: 8
+Attendance: 68%
+Performance: Needs Improvement"
+1	9.4111402631444	6	58.7	S032 History Sem2	"Student: S032
+Subject: History
+Grade: 58.7%
+Study Hours: 6
+Attendance: 73%
+Performance: Needs Improvement"
+1	7.81377674149945	6	53.5	S033 History Sem2	"Student: S033
+Subject: History
+Grade: 53.5%
+Study Hours: 6
+Attendance: 68%
+Performance: Needs Improvement"
+1	11.857738077267	20	77.4	S034 History Sem2	"Student: S034
+Subject: History
+Grade: 77.4%
+Study Hours: 20
+Attendance: 83%
+Performance: Good"
+1	6.59619407771256	9	58	S035 History Sem2	"Student: S035
+Subject: History
+Grade: 58%
+Study Hours: 9
+Attendance: 65%
+Performance: Needs Improvement"
+1	10.7206651122492	14	77.1	S036 History Sem2	"Student: S036
+Subject: History
+Grade: 77.1%
+Study Hours: 14
+Attendance: 78%
+Performance: Good"
+1	10.7206651122492	16	64.8	S037 History Sem2	"Student: S037
+Subject: History
+Grade: 64.8%
+Study Hours: 16
+Attendance: 78%
+Performance: Satisfactory"
+1	8.5	13	65.6	S038 History Sem2	"Student: S038
+Subject: History
+Grade: 65.6%
+Study Hours: 13
+Attendance: 70%
+Performance: Satisfactory"
+1	8.16644143732834	14	62.2	S039 History Sem2	"Student: S039
+Subject: History
+Grade: 62.2%
+Study Hours: 14
+Attendance: 69%
+Performance: Satisfactory"
+1	11.6410580332244	13	78.3	S040 History Sem2	"Student: S040
+Subject: History
+Grade: 78.3%
+Study Hours: 13
+Attendance: 82%
+Performance: Good"
+1	10.2219219164378	12	54.4	S041 History Sem2	"Student: S041
+Subject: History
+Grade: 54.4%
+Study Hours: 12
+Attendance: 76%
+Performance: Needs Improvement"
+1	9.6909037180295	8	64.4	S042 History Sem2	"Student: S042
+Subject: History
+Grade: 64.4%
+Study Hours: 8
+Attendance: 74%
+Performance: Satisfactory"
+1	11.1923881554251	12	75.5	S043 History Sem2	"Student: S043
+Subject: History
+Grade: 75.5%
+Study Hours: 12
+Attendance: 80%
+Performance: Good"
+1	10.2219219164378	20	90.5	S044 History Sem2	"Student: S044
+Subject: History
+Grade: 90.5%
+Study Hours: 20
+Attendance: 76%
+Performance: Excellent"
+1	7.81377674149945	6	56	S045 History Sem2	"Student: S045
+Subject: History
+Grade: 56%
+Study Hours: 6
+Attendance: 68%
+Performance: Needs Improvement"
+1	8.5	10	61.8	S046 History Sem2	"Student: S046
+Subject: History
+Grade: 61.8%
+Study Hours: 10
+Attendance: 70%
+Performance: Satisfactory"
+1	10.2219219164378	19	65.6	S047 History Sem2	"Student: S047
+Subject: History
+Grade: 65.6%
+Study Hours: 19
+Attendance: 76%
+Performance: Satisfactory"
+1	12.2774023955472	13	83.7	S048 History Sem2	"Student: S048
+Subject: History
+Grade: 83.7%
+Study Hours: 13
+Attendance: 85%
+Performance: Good"
+1	11.6410580332244	9	70.9	S049 History Sem2	"Student: S049
+Subject: History
+Grade: 70.9%
+Study Hours: 9
+Attendance: 82%
+Performance: Satisfactory"
+1	8.5	18	76.2	S050 History Sem2	"Student: S050
+Subject: History
+Grade: 76.2%
+Study Hours: 18
+Attendance: 70%
+Performance: Good"
