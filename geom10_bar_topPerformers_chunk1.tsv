@@ -1,641 +1,481 @@
 fill	key	tooltip	clickSelects	showSelected1	xmin	xmax	ymin	ymax
-#FEA500	S047	"Student: S047
-Average Grade: 65.7%
-Study Hours: 74
-Attendance: 69.3%"	S047	Sem1	0	65.6666666666667	0.55	1.45
-#DC9D00	S047	"Student: S047
-Average Grade: 69.9%
-Study Hours: 86
-Attendance: 71.8%"	S047	Sem3	65.6666666666667	135.516666666667	0.55	1.45
-#DE9D00	S022	"Student: S022
-Average Grade: 69.6%
-Study Hours: 66
-Attendance: 74%"	S022	Sem4	0	69.5833333333333	1.55	2.45
-#F8A300	S018	"Student: S018
-Average Grade: 66.4%
-Study Hours: 78
-Attendance: 76.7%"	S018	Sem1	0	66.3833333333334	2.55	3.45
+#E39E00	S018	"Student: S018
+Avg Grade: 70.2%
+Study Hours: 81
+Attendance: 75.2%"	S018	Sem2	0	70.2166666666667	0.55	1.45
 #D99C00	S018	"Student: S018
-Average Grade: 70.2%
-Study Hours: 81
-Attendance: 75.2%"	S018	Sem2	66.3833333333334	136.6	2.55	3.45
-#D09900	S018	"Student: S018
-Average Grade: 71.4%
+Avg Grade: 71.4%
 Study Hours: 80
-Attendance: 81%"	S018	Sem3	136.6	207.95	2.55	3.45
-#C89700	S018	"Student: S018
-Average Grade: 72.4%
-Study Hours: 94
-Attendance: 78.2%"	S018	Sem4	207.95	280.3	2.55	3.45
-#AF9100	S018	"Student: S018
-Average Grade: 75.4%
-Study Hours: 86
-Attendance: 77.7%"	S018	Sem6	280.3	355.683333333333	2.55	3.45
-#E19E00	S046	"Student: S046
-Average Grade: 69.2%
-Study Hours: 92
-Attendance: 73.3%"	S046	Sem3	0	69.2333333333333	3.55	4.45
-#B69200	S046	"Student: S046
-Average Grade: 74.6%
-Study Hours: 83
-Attendance: 76.7%"	S046	Sem6	69.2333333333333	143.85	3.55	4.45
-#DE9D00	S037	"Student: S037
-Average Grade: 69.7%
-Study Hours: 69
-Attendance: 73.7%"	S037	Sem3	0	69.6666666666667	4.55	5.45
-#DB9C00	S037	"Student: S037
-Average Grade: 70%
-Study Hours: 79
-Attendance: 76.2%"	S037	Sem4	69.6666666666667	139.7	4.55	5.45
-#C19600	S037	"Student: S037
-Average Grade: 73.2%
-Study Hours: 88
-Attendance: 77.8%"	S037	Sem5	139.7	212.9	4.55	5.45
-#A28D00	S037	"Student: S037
-Average Grade: 77.1%
-Study Hours: 103
-Attendance: 78.3%"	S037	Sem7	212.9	289.983333333333	4.55	5.45
-#E29E00	S014	"Student: S014
-Average Grade: 69.1%
-Study Hours: 73
-Attendance: 75%"	S014	Sem2	0	69.1333333333333	5.55	6.45
-#E59F00	S014	"Student: S014
-Average Grade: 68.7%
-Study Hours: 79
-Attendance: 73.2%"	S014	Sem3	69.1333333333333	137.866666666667	5.55	6.45
-#BC9400	S014	"Student: S014
-Average Grade: 73.8%
-Study Hours: 104
-Attendance: 74.3%"	S014	Sem5	137.866666666667	211.7	5.55	6.45
-#988A00	S014	"Student: S014
-Average Grade: 78.3%
-Study Hours: 99
-Attendance: 78.5%"	S014	Sem7	211.7	290.05	5.55	6.45
-#EAA000	S043	"Student: S043
-Average Grade: 68.1%
+Attendance: 81%"	S018	Sem3	70.2166666666667	141.566666666667	0.55	1.45
+#F5A300	S043	"Student: S043
+Avg Grade: 68.1%
 Study Hours: 85
-Attendance: 71.7%"	S043	Sem1	0	68.1166666666667	6.55	7.45
-#E59F00	S043	"Student: S043
-Average Grade: 68.8%
-Study Hours: 73
-Attendance: 76%"	S043	Sem2	68.1166666666667	136.866666666667	6.55	7.45
-#BF9500	S043	"Student: S043
-Average Grade: 73.4%
+Attendance: 71.7%"	S043	Sem1	0	68.1166666666667	1.55	2.45
+#C89700	S043	"Student: S043
+Avg Grade: 73.4%
 Study Hours: 82
-Attendance: 77.8%"	S043	Sem3	136.866666666667	210.316666666667	6.55	7.45
-#BF9500	S043	"Student: S043
-Average Grade: 73.4%
+Attendance: 77.8%"	S043	Sem3	68.1166666666667	141.566666666667	1.55	2.45
+#C89700	S043	"Student: S043
+Avg Grade: 73.4%
 Study Hours: 74
-Attendance: 73.3%"	S043	Sem4	210.316666666667	283.766666666667	6.55	7.45
-#B79300	S043	"Student: S043
-Average Grade: 74.5%
-Study Hours: 103
-Attendance: 74.2%"	S043	Sem5	283.766666666667	358.25	6.55	7.45
-#A78E00	S043	"Student: S043
-Average Grade: 76.4%
-Study Hours: 89
-Attendance: 75.8%"	S043	Sem7	358.25	434.666666666667	6.55	7.45
-#7F8300	S043	"Student: S043
-Average Grade: 81.4%
+Attendance: 73.3%"	S043	Sem4	141.566666666667	215.016666666667	1.55	2.45
+#848400	S043	"Student: S043
+Avg Grade: 81.4%
 Study Hours: 106
-Attendance: 80.7%"	S043	Sem8	434.666666666667	516.1	6.55	7.45
-#F7A300	S012	"Student: S012
-Average Grade: 66.6%
-Study Hours: 70
-Attendance: 77.2%"	S012	Sem1	0	66.5833333333333	7.55	8.45
-#CB9800	S012	"Student: S012
-Average Grade: 71.9%
-Study Hours: 87
-Attendance: 76%"	S012	Sem2	66.5833333333333	138.5	7.55	8.45
-#C59700	S012	"Student: S012
-Average Grade: 72.8%
-Study Hours: 80
-Attendance: 77.2%"	S012	Sem4	138.5	211.25	7.55	8.45
-#C49600	S012	"Student: S012
-Average Grade: 72.9%
-Study Hours: 94
-Attendance: 75%"	S012	Sem5	211.25	284.116666666667	7.55	8.45
-#AD9000	S012	"Student: S012
-Average Grade: 75.7%
-Study Hours: 84
-Attendance: 76.7%"	S012	Sem6	284.116666666667	359.85	7.55	8.45
-#9A8B00	S012	"Student: S012
-Average Grade: 78%
-Study Hours: 96
-Attendance: 73.5%"	S012	Sem7	359.85	437.85	7.55	8.45
-#8B8600	S012	"Student: S012
-Average Grade: 79.9%
-Study Hours: 111
-Attendance: 83%"	S012	Sem8	437.85	517.766666666667	7.55	8.45
-#EDA100	S025	"Student: S025
-Average Grade: 67.8%
+Attendance: 80.7%"	S043	Sem8	215.016666666667	296.45	1.55	2.45
+#F6A300	S040	"Student: S040
+Avg Grade: 68%
+Study Hours: 91
+Attendance: 75.5%"	S040	Sem1	0	68	2.55	3.45
+#D59B00	S040	"Student: S040
+Avg Grade: 71.8%
+Study Hours: 85
+Attendance: 75%"	S040	Sem2	68	139.816666666667	2.55	3.45
+#AF9100	S040	"Student: S040
+Avg Grade: 76.4%
+Study Hours: 77
+Attendance: 79.2%"	S040	Sem5	139.816666666667	216.2	2.55	3.45
+#A78E00	S040	"Student: S040
+Avg Grade: 77.3%
+Study Hours: 99
+Attendance: 75.7%"	S040	Sem6	216.2	293.516666666667	2.55	3.45
+#998B00	S040	"Student: S040
+Avg Grade: 78.9%
+Study Hours: 90
+Attendance: 78%"	S040	Sem7	293.516666666667	372.416666666667	2.55	3.45
+#F8A300	S025	"Student: S025
+Avg Grade: 67.8%
 Study Hours: 68
-Attendance: 72.2%"	S025	Sem1	0	67.7666666666667	8.55	9.45
-#ECA000	S025	"Student: S025
-Average Grade: 67.9%
-Study Hours: 81
-Attendance: 75.8%"	S025	Sem2	67.7666666666667	135.683333333333	8.55	9.45
-#B69300	S025	"Student: S025
-Average Grade: 74.5%
+Attendance: 72.2%"	S025	Sem1	0	67.7666666666667	3.55	4.45
+#BE9500	S025	"Student: S025
+Avg Grade: 74.5%
 Study Hours: 88
-Attendance: 76%"	S025	Sem4	135.683333333333	210.216666666667	8.55	9.45
-#A08C00	S025	"Student: S025
-Average Grade: 77.3%
+Attendance: 76%"	S025	Sem4	67.7666666666667	142.3	3.55	4.45
+#A68E00	S025	"Student: S025
+Avg Grade: 77.3%
 Study Hours: 105
-Attendance: 77.7%"	S025	Sem6	210.216666666667	287.566666666667	8.55	9.45
-#938900	S025	"Student: S025
-Average Grade: 78.9%
+Attendance: 77.7%"	S025	Sem6	142.3	219.65	3.55	4.45
+#998B00	S025	"Student: S025
+Avg Grade: 78.9%
 Study Hours: 96
-Attendance: 77.3%"	S025	Sem7	287.566666666667	366.466666666667	8.55	9.45
-#958900	S025	"Student: S025
-Average Grade: 78.6%
-Study Hours: 86
-Attendance: 80.5%"	S025	Sem8	366.466666666667	445.083333333333	8.55	9.45
-#EBA000	S040	"Student: S040
-Average Grade: 68%
-Study Hours: 91
-Attendance: 75.5%"	S040	Sem1	0	68	9.55	10.45
-#CC9900	S040	"Student: S040
-Average Grade: 71.8%
-Study Hours: 85
-Attendance: 75%"	S040	Sem2	68	139.816666666667	9.55	10.45
-#DB9C00	S040	"Student: S040
-Average Grade: 70%
-Study Hours: 85
-Attendance: 77%"	S040	Sem4	139.816666666667	209.85	9.55	10.45
-#A78F00	S040	"Student: S040
-Average Grade: 76.4%
-Study Hours: 77
-Attendance: 79.2%"	S040	Sem5	209.85	286.233333333333	9.55	10.45
-#A08C00	S040	"Student: S040
-Average Grade: 77.3%
-Study Hours: 99
-Attendance: 75.7%"	S040	Sem6	286.233333333333	363.55	9.55	10.45
-#938900	S040	"Student: S040
-Average Grade: 78.9%
-Study Hours: 90
-Attendance: 78%"	S040	Sem7	363.55	442.45	9.55	10.45
-#968A00	S040	"Student: S040
-Average Grade: 78.5%
-Study Hours: 98
-Attendance: 78.5%"	S040	Sem8	442.45	520.966666666667	9.55	10.45
-#FFA500	S002	"Student: S002
-Average Grade: 65.6%
-Study Hours: 69
-Attendance: 73.5%"	S002	Sem1	0	65.5666666666667	10.55	11.45
-#D59B00	S002	"Student: S002
-Average Grade: 70.7%
-Study Hours: 77
-Attendance: 80.5%"	S002	Sem2	65.5666666666667	136.266666666667	10.55	11.45
-#DB9C00	S002	"Student: S002
-Average Grade: 70%
-Study Hours: 95
-Attendance: 76.2%"	S002	Sem3	136.266666666667	206.283333333333	10.55	11.45
-#B79300	S002	"Student: S002
-Average Grade: 74.4%
-Study Hours: 76
-Attendance: 78.5%"	S002	Sem4	206.283333333333	280.683333333333	10.55	11.45
-#9E8C00	S002	"Student: S002
-Average Grade: 77.6%
-Study Hours: 84
-Attendance: 78%"	S002	Sem5	280.683333333333	358.283333333333	10.55	11.45
-#A68E00	S002	"Student: S002
-Average Grade: 76.6%
-Study Hours: 101
-Attendance: 80.7%"	S002	Sem6	358.283333333333	434.833333333333	10.55	11.45
-#8E8700	S002	"Student: S002
-Average Grade: 79.6%
-Study Hours: 115
-Attendance: 80.5%"	S002	Sem7	434.833333333333	514.4	10.55	11.45
-#818300	S002	"Student: S002
-Average Grade: 81.2%
-Study Hours: 95
-Attendance: 82.3%"	S002	Sem8	514.4	595.566666666667	10.55	11.45
-#F5A300	S007	"Student: S007
-Average Grade: 66.8%
-Study Hours: 73
-Attendance: 70.8%"	S007	Sem1	0	66.7666666666667	11.55	12.45
-#DD9D00	S007	"Student: S007
-Average Grade: 69.7%
-Study Hours: 76
-Attendance: 74.5%"	S007	Sem3	66.7666666666667	136.45	11.55	12.45
-#BB9400	S007	"Student: S007
-Average Grade: 73.9%
-Study Hours: 91
-Attendance: 74.3%"	S007	Sem4	136.45	210.383333333333	11.55	12.45
-#988A00	S007	"Student: S007
-Average Grade: 78.3%
-Study Hours: 84
-Attendance: 76.3%"	S007	Sem5	210.383333333333	288.65	11.55	12.45
-#AA8F00	S007	"Student: S007
-Average Grade: 76.1%
-Study Hours: 89
-Attendance: 79.3%"	S007	Sem6	288.65	364.733333333333	11.55	12.45
-#778000	S007	"Student: S007
-Average Grade: 82.4%
-Study Hours: 102
-Attendance: 81.7%"	S007	Sem8	364.733333333333	447.116666666667	11.55	12.45
-#F1A200	S049	"Student: S049
-Average Grade: 67.2%
-Study Hours: 67
-Attendance: 73.5%"	S049	Sem1	0	67.2333333333333	12.55	13.45
-#F3A200	S049	"Student: S049
-Average Grade: 67%
-Study Hours: 62
-Attendance: 73.8%"	S049	Sem2	67.2333333333333	134.25	12.55	13.45
-#AF9100	S049	"Student: S049
-Average Grade: 75.4%
-Study Hours: 96
-Attendance: 77.2%"	S049	Sem3	134.25	209.65	12.55	13.45
-#A28D00	S049	"Student: S049
-Average Grade: 77%
-Study Hours: 86
-Attendance: 78.8%"	S049	Sem5	209.65	286.683333333333	12.55	13.45
-#888500	S049	"Student: S049
-Average Grade: 80.4%
-Study Hours: 101
-Attendance: 83.2%"	S049	Sem6	286.683333333333	367.033333333333	12.55	13.45
-#9E8C00	S049	"Student: S049
-Average Grade: 77.6%
-Study Hours: 101
-Attendance: 78%"	S049	Sem7	367.033333333333	444.633333333333	12.55	13.45
-#6C7D00	S049	"Student: S049
-Average Grade: 83.7%
-Study Hours: 95
-Attendance: 83%"	S049	Sem8	444.633333333333	528.333333333333	12.55	13.45
-#F0A100	S028	"Student: S028
-Average Grade: 67.4%
-Study Hours: 70
-Attendance: 70.8%"	S028	Sem1	0	67.45	13.55	14.45
-#F0A100	S028	"Student: S028
-Average Grade: 67.4%
-Study Hours: 83
-Attendance: 74.2%"	S028	Sem2	67.45	134.866666666667	13.55	14.45
-#C59700	S028	"Student: S028
-Average Grade: 72.7%
-Study Hours: 84
-Attendance: 76%"	S028	Sem3	134.866666666667	207.533333333333	13.55	14.45
-#A48E00	S028	"Student: S028
-Average Grade: 76.8%
-Study Hours: 88
-Attendance: 79.3%"	S028	Sem4	207.533333333333	284.3	13.55	14.45
-#AE9000	S028	"Student: S028
-Average Grade: 75.5%
-Study Hours: 89
-Attendance: 75.3%"	S028	Sem5	284.3	359.816666666667	13.55	14.45
-#8A8600	S028	"Student: S028
-Average Grade: 80%
-Study Hours: 107
-Attendance: 82.2%"	S028	Sem6	359.816666666667	439.833333333333	13.55	14.45
-#828400	S028	"Student: S028
-Average Grade: 81%
-Study Hours: 100
-Attendance: 76.7%"	S028	Sem7	439.833333333333	520.816666666667	13.55	14.45
-#707E00	S028	"Student: S028
-Average Grade: 83.2%
-Study Hours: 108
-Attendance: 82.7%"	S028	Sem8	520.816666666667	604.016666666667	13.55	14.45
-#D09900	S036	"Student: S036
-Average Grade: 71.4%
-Study Hours: 84
-Attendance: 77.2%"	S036	Sem2	0	71.35	14.55	15.45
-#BE9500	S036	"Student: S036
-Average Grade: 73.5%
-Study Hours: 103
-Attendance: 75.3%"	S036	Sem4	71.35	144.883333333333	14.55	15.45
-#BC9400	S036	"Student: S036
-Average Grade: 73.9%
-Study Hours: 91
-Attendance: 77.7%"	S036	Sem5	144.883333333333	218.75	14.55	15.45
-#B59200	S036	"Student: S036
-Average Grade: 74.6%
-Study Hours: 87
-Attendance: 76.7%"	S036	Sem6	218.75	293.383333333333	14.55	15.45
-#858500	S036	"Student: S036
-Average Grade: 80.7%
-Study Hours: 108
-Attendance: 84.2%"	S036	Sem7	293.383333333333	374.05	14.55	15.45
-#8E8700	S036	"Student: S036
-Average Grade: 79.6%
-Study Hours: 101
-Attendance: 75.3%"	S036	Sem8	374.05	453.6	14.55	15.45
-#F3A200	S048	"Student: S048
-Average Grade: 67%
+Attendance: 77.3%"	S025	Sem7	219.65	298.55	3.55	4.45
+#FFA500	S048	"Student: S048
+Avg Grade: 67%
 Study Hours: 66
-Attendance: 72.3%"	S048	Sem1	0	66.9833333333333	15.55	16.45
-#C79700	S048	"Student: S048
-Average Grade: 72.4%
+Attendance: 72.3%"	S048	Sem1	0	66.9833333333333	4.55	5.45
+#D09A00	S048	"Student: S048
+Avg Grade: 72.4%
 Study Hours: 74
-Attendance: 80.2%"	S048	Sem2	66.9833333333333	139.4	15.55	16.45
-#A68E00	S048	"Student: S048
-Average Grade: 76.6%
+Attendance: 80.2%"	S048	Sem2	66.9833333333333	139.4	4.55	5.45
+#AD9000	S048	"Student: S048
+Avg Grade: 76.6%
 Study Hours: 102
-Attendance: 81.3%"	S048	Sem3	139.4	215.966666666667	15.55	16.45
-#A68E00	S048	"Student: S048
-Average Grade: 76.6%
+Attendance: 81.3%"	S048	Sem3	139.4	215.966666666667	4.55	5.45
+#AD9000	S048	"Student: S048
+Avg Grade: 76.6%
 Study Hours: 95
-Attendance: 76.7%"	S048	Sem5	215.966666666667	292.533333333333	15.55	16.45
-#B39200	S048	"Student: S048
-Average Grade: 75%
-Study Hours: 82
-Attendance: 77.7%"	S048	Sem6	292.533333333333	367.516666666667	15.55	16.45
-#717E00	S048	"Student: S048
-Average Grade: 83.2%
+Attendance: 76.7%"	S048	Sem5	215.966666666667	292.533333333333	4.55	5.45
+#758000	S048	"Student: S048
+Avg Grade: 83.2%
 Study Hours: 107
-Attendance: 80.3%"	S048	Sem7	367.516666666667	450.683333333333	15.55	16.45
-#8B8600	S048	"Student: S048
-Average Grade: 79.9%
-Study Hours: 104
-Attendance: 80%"	S048	Sem8	450.683333333333	530.6	15.55	16.45
-#EBA000	S013	"Student: S013
-Average Grade: 68%
-Study Hours: 70
-Attendance: 72.3%"	S013	Sem1	0	67.9833333333333	16.55	17.45
-#DA9C00	S013	"Student: S013
-Average Grade: 70.1%
-Study Hours: 87
-Attendance: 75.2%"	S013	Sem2	67.9833333333333	138.133333333333	16.55	17.45
-#D79B00	S013	"Student: S013
-Average Grade: 70.4%
-Study Hours: 75
-Attendance: 74%"	S013	Sem3	138.133333333333	208.583333333333	16.55	17.45
-#C09500	S013	"Student: S013
-Average Grade: 73.4%
-Study Hours: 97
-Attendance: 76.2%"	S013	Sem4	208.583333333333	281.95	16.55	17.45
-#928800	S013	"Student: S013
-Average Grade: 79%
-Study Hours: 97
-Attendance: 79.8%"	S013	Sem5	281.95	360.966666666667	16.55	17.45
-#898600	S013	"Student: S013
-Average Grade: 80.2%
-Study Hours: 108
-Attendance: 82.5%"	S013	Sem6	360.966666666667	441.116666666667	16.55	17.45
-#4E7400	S013	"Student: S013
-Average Grade: 87.3%
-Study Hours: 111
-Attendance: 83%"	S013	Sem7	441.116666666667	528.383333333333	16.55	17.45
-#607900	S013	"Student: S013
-Average Grade: 85.2%
-Study Hours: 105
-Attendance: 81.5%"	S013	Sem8	528.383333333333	613.55	16.55	17.45
-#DE9D00	S023	"Student: S023
-Average Grade: 69.7%
-Study Hours: 81
-Attendance: 74.5%"	S023	Sem1	0	69.6666666666667	17.55	18.45
-#C59700	S023	"Student: S023
-Average Grade: 72.7%
-Study Hours: 78
-Attendance: 75.2%"	S023	Sem2	69.6666666666667	142.333333333333	17.55	18.45
-#B19100	S023	"Student: S023
-Average Grade: 75.1%
-Study Hours: 90
-Attendance: 79.3%"	S023	Sem3	142.333333333333	217.483333333333	17.55	18.45
-#B39200	S023	"Student: S023
-Average Grade: 74.9%
-Study Hours: 81
-Attendance: 81.5%"	S023	Sem4	217.483333333333	292.4	17.55	18.45
-#677C00	S023	"Student: S023
-Average Grade: 84.3%
-Study Hours: 103
-Attendance: 82.7%"	S023	Sem5	292.4	376.7	17.55	18.45
-#627A00	S023	"Student: S023
-Average Grade: 84.9%
-Study Hours: 115
-Attendance: 83.5%"	S023	Sem6	376.7	461.566666666667	17.55	18.45
-#818300	S023	"Student: S023
-Average Grade: 81.2%
-Study Hours: 101
-Attendance: 79.5%"	S023	Sem7	461.566666666667	542.75	17.55	18.45
-#707E00	S023	"Student: S023
-Average Grade: 83.3%
-Study Hours: 107
-Attendance: 80.7%"	S023	Sem8	542.75	626.016666666667	17.55	18.45
-#948900	S042	"Student: S042
-Average Grade: 78.8%
-Study Hours: 96
-Attendance: 80.5%"	S042	Sem8	0	78.8166666666667	18.55	19.45
-#BF9500	S001	"Student: S001
-Average Grade: 73.4%
-Study Hours: 89
-Attendance: 73.7%"	S001	Sem1	0	73.45	19.55	20.45
-#C79700	S001	"Student: S001
-Average Grade: 72.5%
-Study Hours: 85
-Attendance: 76.2%"	S001	Sem2	73.45	145.916666666667	19.55	20.45
-#B09100	S001	"Student: S001
-Average Grade: 75.3%
-Study Hours: 94
-Attendance: 73.7%"	S001	Sem3	145.916666666667	221.25	19.55	20.45
-#9A8B00	S001	"Student: S001
-Average Grade: 78%
-Study Hours: 105
-Attendance: 77.5%"	S001	Sem4	221.25	299.25	19.55	20.45
-#768000	S001	"Student: S001
-Average Grade: 82.5%
-Study Hours: 109
-Attendance: 85.3%"	S001	Sem5	299.25	381.75	19.55	20.45
-#988A00	S001	"Student: S001
-Average Grade: 78.3%
-Study Hours: 95
-Attendance: 78%"	S001	Sem6	381.75	460.016666666667	19.55	20.45
-#3F7000	S001	"Student: S001
-Average Grade: 88.9%
-Study Hours: 121
-Attendance: 82.2%"	S001	Sem7	460.016666666667	548.883333333333	19.55	20.45
-#657B00	S001	"Student: S001
-Average Grade: 84.6%
-Study Hours: 112
-Attendance: 82.5%"	S001	Sem8	548.883333333333	633.5	19.55	20.45
-#C49600	S005	"Student: S005
-Average Grade: 72.9%
-Study Hours: 92
-Attendance: 78.2%"	S005	Sem1	0	72.8833333333333	20.55	21.45
-#A88F00	S005	"Student: S005
-Average Grade: 76.4%
+Attendance: 80.3%"	S048	Sem7	292.533333333333	375.7	4.55	5.45
+#D99C00	S036	"Student: S036
+Avg Grade: 71.4%
 Study Hours: 84
-Attendance: 75.5%"	S005	Sem2	72.8833333333333	149.233333333333	20.55	21.45
-#AA8F00	S005	"Student: S005
-Average Grade: 76.1%
-Study Hours: 104
-Attendance: 76.5%"	S005	Sem3	149.233333333333	225.333333333333	20.55	21.45
-#978A00	S005	"Student: S005
-Average Grade: 78.5%
-Study Hours: 100
-Attendance: 80.2%"	S005	Sem4	225.333333333333	303.8	20.55	21.45
-#838400	S005	"Student: S005
-Average Grade: 81%
-Study Hours: 96
-Attendance: 81.3%"	S005	Sem5	303.8	384.766666666667	20.55	21.45
-#8B8600	S005	"Student: S005
-Average Grade: 79.9%
-Study Hours: 88
-Attendance: 78.5%"	S005	Sem6	384.766666666667	464.716666666667	20.55	21.45
-#597700	S005	"Student: S005
-Average Grade: 86%
-Study Hours: 114
-Attendance: 85.7%"	S005	Sem7	464.716666666667	550.75	20.55	21.45
-#6D7D00	S005	"Student: S005
-Average Grade: 83.6%
-Study Hours: 112
-Attendance: 78.5%"	S005	Sem8	550.75	634.3	20.55	21.45
-#D59B00	S034	"Student: S034
-Average Grade: 70.7%
-Study Hours: 72
-Attendance: 73.2%"	S034	Sem1	0	70.7166666666667	21.55	22.45
-#B79300	S034	"Student: S034
-Average Grade: 74.5%
-Study Hours: 90
-Attendance: 78.3%"	S034	Sem2	70.7166666666667	145.2	21.55	22.45
-#838400	S034	"Student: S034
-Average Grade: 80.9%
-Study Hours: 100
-Attendance: 81.7%"	S034	Sem3	145.2	226.1	21.55	22.45
-#9D8C00	S034	"Student: S034
-Average Grade: 77.7%
-Study Hours: 100
-Attendance: 82.2%"	S034	Sem4	226.1	303.766666666667	21.55	22.45
-#998A00	S034	"Student: S034
-Average Grade: 78.2%
-Study Hours: 106
-Attendance: 76.2%"	S034	Sem5	303.766666666667	382	21.55	22.45
-#5C7800	S034	"Student: S034
-Average Grade: 85.6%
-Study Hours: 101
-Attendance: 85.2%"	S034	Sem6	382	467.65	21.55	22.45
-#507500	S034	"Student: S034
-Average Grade: 87%
-Study Hours: 115
-Attendance: 84.2%"	S034	Sem7	467.65	554.65	21.55	22.45
-#627A00	S034	"Student: S034
-Average Grade: 85%
-Study Hours: 113
-Attendance: 81.2%"	S034	Sem8	554.65	639.6	21.55	22.45
-#E39E00	S006	"Student: S006
-Average Grade: 69%
+Attendance: 77.2%"	S036	Sem2	0	71.35	5.55	6.45
+#C79700	S036	"Student: S036
+Avg Grade: 73.5%
+Study Hours: 103
+Attendance: 75.3%"	S036	Sem4	71.35	144.883333333333	5.55	6.45
+#8A8600	S036	"Student: S036
+Avg Grade: 80.7%
+Study Hours: 108
+Attendance: 84.2%"	S036	Sem7	144.883333333333	225.55	5.55	6.45
+#DF9D00	S002	"Student: S002
+Avg Grade: 70.7%
+Study Hours: 77
+Attendance: 80.5%"	S002	Sem2	0	70.7	6.55	7.45
+#E59F00	S002	"Student: S002
+Avg Grade: 70%
+Study Hours: 95
+Attendance: 76.2%"	S002	Sem3	70.7	140.716666666667	6.55	7.45
+#BF9500	S002	"Student: S002
+Avg Grade: 74.4%
 Study Hours: 76
-Attendance: 72.8%"	S006	Sem1	0	69	22.55	23.45
-#BE9500	S006	"Student: S006
-Average Grade: 73.6%
-Study Hours: 86
-Attendance: 75.3%"	S006	Sem2	69	142.55	22.55	23.45
-#918800	S006	"Student: S006
-Average Grade: 79.1%
-Study Hours: 96
-Attendance: 83%"	S006	Sem3	142.55	221.683333333333	22.55	23.45
-#9B8B00	S006	"Student: S006
-Average Grade: 78%
-Study Hours: 86
-Attendance: 77.3%"	S006	Sem4	221.683333333333	299.666666666667	22.55	23.45
-#607900	S006	"Student: S006
-Average Grade: 85.2%
-Study Hours: 115
-Attendance: 82.8%"	S006	Sem5	299.666666666667	384.883333333333	22.55	23.45
-#788100	S006	"Student: S006
-Average Grade: 82.3%
-Study Hours: 107
-Attendance: 79.5%"	S006	Sem6	384.883333333333	467.15	22.55	23.45
-#737F00	S006	"Student: S006
-Average Grade: 82.9%
-Study Hours: 105
-Attendance: 81.5%"	S006	Sem7	467.15	550.066666666667	22.55	23.45
-#326C00	S006	"Student: S006
-Average Grade: 90.1%
-Study Hours: 121
-Attendance: 82.8%"	S006	Sem8	550.066666666667	640.2	22.55	23.45
-#C89700	S021	"Student: S021
-Average Grade: 72.3%
-Study Hours: 90
-Attendance: 74.5%"	S021	Sem1	0	72.3166666666667	23.55	24.45
-#B79300	S021	"Student: S021
-Average Grade: 74.4%
-Study Hours: 102
-Attendance: 76.8%"	S021	Sem2	72.3166666666667	146.733333333333	23.55	24.45
-#9E8C00	S021	"Student: S021
-Average Grade: 77.6%
-Study Hours: 105
-Attendance: 78.3%"	S021	Sem3	146.733333333333	224.283333333333	23.55	24.45
-#838400	S021	"Student: S021
-Average Grade: 80.9%
-Study Hours: 119
-Attendance: 80.7%"	S021	Sem4	224.283333333333	305.216666666667	23.55	24.45
-#838400	S021	"Student: S021
-Average Grade: 81%
-Study Hours: 110
-Attendance: 80.2%"	S021	Sem5	305.216666666667	386.183333333333	23.55	24.45
-#637A00	S021	"Student: S021
-Average Grade: 84.8%
-Study Hours: 111
-Attendance: 84%"	S021	Sem6	386.183333333333	471	23.55	24.45
-#607900	S021	"Student: S021
-Average Grade: 85.2%
-Study Hours: 121
-Attendance: 79.5%"	S021	Sem7	471	556.183333333333	23.55	24.45
-#537500	S021	"Student: S021
-Average Grade: 86.7%
-Study Hours: 125
-Attendance: 84.7%"	S021	Sem8	556.183333333333	642.85	23.55	24.45
-#788100	S050	"Student: S050
-Average Grade: 82.2%
-Study Hours: 112
-Attendance: 83.7%"	S050	Sem1	0	82.2333333333333	24.55	25.45
-#858500	S050	"Student: S050
-Average Grade: 80.6%
-Study Hours: 93
-Attendance: 80.3%"	S050	Sem2	82.2333333333333	162.866666666667	24.55	25.45
-#6C7D00	S050	"Student: S050
-Average Grade: 83.7%
-Study Hours: 107
-Attendance: 80.5%"	S050	Sem3	162.866666666667	246.566666666667	24.55	25.45
-#5B7800	S050	"Student: S050
-Average Grade: 85.7%
-Study Hours: 109
-Attendance: 84.3%"	S050	Sem4	246.566666666667	332.283333333333	24.55	25.45
-#3B6F00	S050	"Student: S050
-Average Grade: 89.2%
-Study Hours: 111
-Attendance: 82.3%"	S050	Sem5	332.283333333333	421.5	24.55	25.45
-#056500	S050	"Student: S050
-Average Grade: 92.8%
-Study Hours: 133
-Attendance: 90.2%"	S050	Sem6	421.5	514.333333333333	24.55	25.45
-#1F6800	S050	"Student: S050
-Average Grade: 91.6%
-Study Hours: 127
-Attendance: 81.2%"	S050	Sem7	514.333333333333	605.95	24.55	25.45
-#046400	S050	"Student: S050
-Average Grade: 92.9%
-Study Hours: 117
-Attendance: 86.2%"	S050	Sem8	605.95	698.816666666667	24.55	25.45
-#667B00	S044	"Student: S044
-Average Grade: 84.4%
+Attendance: 78.5%"	S002	Sem4	140.716666666667	215.116666666667	6.55	7.45
+#A48E00	S002	"Student: S002
+Avg Grade: 77.6%
+Study Hours: 84
+Attendance: 78%"	S002	Sem5	215.116666666667	292.716666666667	6.55	7.45
+#AD9000	S002	"Student: S002
+Avg Grade: 76.6%
 Study Hours: 101
-Attendance: 85%"	S044	Sem1	0	84.4333333333333	25.55	26.45
-#7E8200	S044	"Student: S044
-Average Grade: 81.5%
+Attendance: 80.7%"	S002	Sem6	292.716666666667	369.266666666667	6.55	7.45
+#948900	S002	"Student: S002
+Avg Grade: 79.6%
+Study Hours: 115
+Attendance: 80.5%"	S002	Sem7	369.266666666667	448.833333333333	6.55	7.45
+#868500	S002	"Student: S002
+Avg Grade: 81.2%
+Study Hours: 95
+Attendance: 82.3%"	S002	Sem8	448.833333333333	530	6.55	7.45
+#D59B00	S012	"Student: S012
+Avg Grade: 71.9%
+Study Hours: 87
+Attendance: 76%"	S012	Sem2	0	71.9166666666667	7.55	8.45
+#918800	S012	"Student: S012
+Avg Grade: 79.9%
+Study Hours: 111
+Attendance: 83%"	S012	Sem8	71.9166666666667	151.833333333333	7.55	8.45
+#FBA400	S028	"Student: S028
+Avg Grade: 67.4%
+Study Hours: 70
+Attendance: 70.8%"	S028	Sem1	0	67.45	8.55	9.45
+#CE9900	S028	"Student: S028
+Avg Grade: 72.7%
+Study Hours: 84
+Attendance: 76%"	S028	Sem3	67.45	140.116666666667	8.55	9.45
+#AB9000	S028	"Student: S028
+Avg Grade: 76.8%
+Study Hours: 88
+Attendance: 79.3%"	S028	Sem4	140.116666666667	216.883333333333	8.55	9.45
+#B69300	S028	"Student: S028
+Avg Grade: 75.5%
+Study Hours: 89
+Attendance: 75.3%"	S028	Sem5	216.883333333333	292.4	8.55	9.45
+#908800	S028	"Student: S028
+Avg Grade: 80%
+Study Hours: 107
+Attendance: 82.2%"	S028	Sem6	292.4	372.416666666667	8.55	9.45
+#888500	S028	"Student: S028
+Avg Grade: 81%
+Study Hours: 100
+Attendance: 76.7%"	S028	Sem7	372.416666666667	453.4	8.55	9.45
+#758000	S028	"Student: S028
+Avg Grade: 83.2%
+Study Hours: 108
+Attendance: 82.7%"	S028	Sem8	453.4	536.6	8.55	9.45
+#F6A300	S013	"Student: S013
+Avg Grade: 68%
+Study Hours: 70
+Attendance: 72.3%"	S013	Sem1	0	67.9833333333333	9.55	10.45
+#E49E00	S013	"Student: S013
+Avg Grade: 70.1%
+Study Hours: 87
+Attendance: 75.2%"	S013	Sem2	67.9833333333333	138.133333333333	9.55	10.45
+#E19E00	S013	"Student: S013
+Avg Grade: 70.4%
+Study Hours: 75
+Attendance: 74%"	S013	Sem3	138.133333333333	208.583333333333	9.55	10.45
+#C89700	S013	"Student: S013
+Avg Grade: 73.4%
 Study Hours: 97
-Attendance: 78.2%"	S044	Sem2	84.4333333333333	165.95	25.55	26.45
-#737F00	S044	"Student: S044
-Average Grade: 82.9%
-Study Hours: 114
-Attendance: 79.3%"	S044	Sem3	165.95	248.866666666667	25.55	26.45
-#437100	S044	"Student: S044
-Average Grade: 88.4%
+Attendance: 76.2%"	S013	Sem4	208.583333333333	281.95	9.55	10.45
+#988A00	S013	"Student: S013
+Avg Grade: 79%
+Study Hours: 97
+Attendance: 79.8%"	S013	Sem5	281.95	360.966666666667	9.55	10.45
+#8F8700	S013	"Student: S013
+Avg Grade: 80.2%
+Study Hours: 108
+Attendance: 82.5%"	S013	Sem6	360.966666666667	441.116666666667	9.55	10.45
+#507500	S013	"Student: S013
+Avg Grade: 87.3%
+Study Hours: 111
+Attendance: 83%"	S013	Sem7	441.116666666667	528.383333333333	9.55	10.45
+#647A00	S013	"Student: S013
+Avg Grade: 85.2%
 Study Hours: 105
-Attendance: 86%"	S044	Sem4	248.866666666667	337.316666666667	25.55	26.45
-#3C6F00	S044	"Student: S044
-Average Grade: 89.1%
+Attendance: 81.5%"	S013	Sem8	528.383333333333	613.55	9.55	10.45
+#FDA400	S049	"Student: S049
+Avg Grade: 67.2%
+Study Hours: 67
+Attendance: 73.5%"	S049	Sem1	0	67.2333333333333	10.55	11.45
+#B79300	S049	"Student: S049
+Avg Grade: 75.4%
+Study Hours: 96
+Attendance: 77.2%"	S049	Sem3	67.2333333333333	142.633333333333	10.55	11.45
+#A98F00	S049	"Student: S049
+Avg Grade: 77%
+Study Hours: 86
+Attendance: 78.8%"	S049	Sem5	142.633333333333	219.666666666667	10.55	11.45
+#8D8700	S049	"Student: S049
+Avg Grade: 80.4%
+Study Hours: 101
+Attendance: 83.2%"	S049	Sem6	219.666666666667	300.016666666667	10.55	11.45
+#707E00	S049	"Student: S049
+Avg Grade: 83.7%
+Study Hours: 95
+Attendance: 83%"	S049	Sem8	300.016666666667	383.716666666667	10.55	11.45
+#C39600	S007	"Student: S007
+Avg Grade: 73.9%
+Study Hours: 91
+Attendance: 74.3%"	S007	Sem4	0	73.9333333333333	11.55	12.45
+#9F8C00	S007	"Student: S007
+Avg Grade: 78.3%
+Study Hours: 84
+Attendance: 76.3%"	S007	Sem5	73.9333333333333	152.2	11.55	12.45
+#B19100	S007	"Student: S007
+Avg Grade: 76.1%
+Study Hours: 89
+Attendance: 79.3%"	S007	Sem6	152.2	228.283333333333	11.55	12.45
+#7C8200	S007	"Student: S007
+Avg Grade: 82.4%
+Study Hours: 102
+Attendance: 81.7%"	S007	Sem8	228.283333333333	310.666666666667	11.55	12.45
+#E8A000	S023	"Student: S023
+Avg Grade: 69.7%
+Study Hours: 81
+Attendance: 74.5%"	S023	Sem1	0	69.6666666666667	12.55	13.45
+#CE9900	S023	"Student: S023
+Avg Grade: 72.7%
+Study Hours: 78
+Attendance: 75.2%"	S023	Sem2	69.6666666666667	142.333333333333	12.55	13.45
+#B99300	S023	"Student: S023
+Avg Grade: 75.1%
+Study Hours: 90
+Attendance: 79.3%"	S023	Sem3	142.333333333333	217.483333333333	12.55	13.45
+#BB9400	S023	"Student: S023
+Avg Grade: 74.9%
+Study Hours: 81
+Attendance: 81.5%"	S023	Sem4	217.483333333333	292.4	12.55	13.45
+#6B7D00	S023	"Student: S023
+Avg Grade: 84.3%
+Study Hours: 103
+Attendance: 82.7%"	S023	Sem5	292.4	376.7	12.55	13.45
+#667B00	S023	"Student: S023
+Avg Grade: 84.9%
+Study Hours: 115
+Attendance: 83.5%"	S023	Sem6	376.7	461.566666666667	12.55	13.45
+#868500	S023	"Student: S023
+Avg Grade: 81.2%
+Study Hours: 101
+Attendance: 79.5%"	S023	Sem7	461.566666666667	542.75	12.55	13.45
+#747F00	S023	"Student: S023
+Avg Grade: 83.3%
+Study Hours: 107
+Attendance: 80.7%"	S023	Sem8	542.75	626.016666666667	12.55	13.45
+#C89700	S001	"Student: S001
+Avg Grade: 73.4%
+Study Hours: 89
+Attendance: 73.7%"	S001	Sem1	0	73.45	13.55	14.45
+#D09900	S001	"Student: S001
+Avg Grade: 72.5%
+Study Hours: 85
+Attendance: 76.2%"	S001	Sem2	73.45	145.916666666667	13.55	14.45
+#B89300	S001	"Student: S001
+Avg Grade: 75.3%
+Study Hours: 94
+Attendance: 73.7%"	S001	Sem3	145.916666666667	221.25	13.55	14.45
+#A18D00	S001	"Student: S001
+Avg Grade: 78%
+Study Hours: 105
+Attendance: 77.5%"	S001	Sem4	221.25	299.25	13.55	14.45
+#7B8100	S001	"Student: S001
+Avg Grade: 82.5%
+Study Hours: 109
+Attendance: 85.3%"	S001	Sem5	299.25	381.75	13.55	14.45
+#9F8C00	S001	"Student: S001
+Avg Grade: 78.3%
+Study Hours: 95
+Attendance: 78%"	S001	Sem6	381.75	460.016666666667	13.55	14.45
+#417000	S001	"Student: S001
+Avg Grade: 88.9%
+Study Hours: 121
+Attendance: 82.2%"	S001	Sem7	460.016666666667	548.883333333333	13.55	14.45
+#687C00	S001	"Student: S001
+Avg Grade: 84.6%
+Study Hours: 112
+Attendance: 82.5%"	S001	Sem8	548.883333333333	633.5	13.55	14.45
+#CC9900	S005	"Student: S005
+Avg Grade: 72.9%
+Study Hours: 92
+Attendance: 78.2%"	S005	Sem1	0	72.8833333333333	14.55	15.45
+#AF9100	S005	"Student: S005
+Avg Grade: 76.4%
+Study Hours: 84
+Attendance: 75.5%"	S005	Sem2	72.8833333333333	149.233333333333	14.55	15.45
+#B19100	S005	"Student: S005
+Avg Grade: 76.1%
+Study Hours: 104
+Attendance: 76.5%"	S005	Sem3	149.233333333333	225.333333333333	14.55	15.45
+#9D8C00	S005	"Student: S005
+Avg Grade: 78.5%
+Study Hours: 100
+Attendance: 80.2%"	S005	Sem4	225.333333333333	303.8	14.55	15.45
+#888500	S005	"Student: S005
+Avg Grade: 81%
+Study Hours: 96
+Attendance: 81.3%"	S005	Sem5	303.8	384.766666666667	14.55	15.45
+#908800	S005	"Student: S005
+Avg Grade: 79.9%
+Study Hours: 88
+Attendance: 78.5%"	S005	Sem6	384.766666666667	464.716666666667	14.55	15.45
+#5C7800	S005	"Student: S005
+Avg Grade: 86%
+Study Hours: 114
+Attendance: 85.7%"	S005	Sem7	464.716666666667	550.75	14.55	15.45
+#727F00	S005	"Student: S005
+Avg Grade: 83.6%
+Study Hours: 112
+Attendance: 78.5%"	S005	Sem8	550.75	634.3	14.55	15.45
+#DF9D00	S034	"Student: S034
+Avg Grade: 70.7%
+Study Hours: 72
+Attendance: 73.2%"	S034	Sem1	0	70.7166666666667	15.55	16.45
+#BF9500	S034	"Student: S034
+Avg Grade: 74.5%
+Study Hours: 90
+Attendance: 78.3%"	S034	Sem2	70.7166666666667	145.2	15.55	16.45
+#888600	S034	"Student: S034
+Avg Grade: 80.9%
+Study Hours: 100
+Attendance: 81.7%"	S034	Sem3	145.2	226.1	15.55	16.45
+#A48E00	S034	"Student: S034
+Avg Grade: 77.7%
+Study Hours: 100
+Attendance: 82.2%"	S034	Sem4	226.1	303.766666666667	15.55	16.45
+#9F8C00	S034	"Student: S034
+Avg Grade: 78.2%
+Study Hours: 106
+Attendance: 76.2%"	S034	Sem5	303.766666666667	382	15.55	16.45
+#5F7900	S034	"Student: S034
+Avg Grade: 85.6%
+Study Hours: 101
+Attendance: 85.2%"	S034	Sem6	382	467.65	15.55	16.45
+#537500	S034	"Student: S034
+Avg Grade: 87%
+Study Hours: 115
+Attendance: 84.2%"	S034	Sem7	467.65	554.65	15.55	16.45
+#657B00	S034	"Student: S034
+Avg Grade: 85%
+Study Hours: 113
+Attendance: 81.2%"	S034	Sem8	554.65	639.6	15.55	16.45
+#EEA100	S006	"Student: S006
+Avg Grade: 69%
+Study Hours: 76
+Attendance: 72.8%"	S006	Sem1	0	69	16.55	17.45
+#C79700	S006	"Student: S006
+Avg Grade: 73.6%
+Study Hours: 86
+Attendance: 75.3%"	S006	Sem2	69	142.55	16.55	17.45
+#978A00	S006	"Student: S006
+Avg Grade: 79.1%
+Study Hours: 96
+Attendance: 83%"	S006	Sem3	142.55	221.683333333333	16.55	17.45
+#A18D00	S006	"Student: S006
+Avg Grade: 78%
+Study Hours: 86
+Attendance: 77.3%"	S006	Sem4	221.683333333333	299.666666666667	16.55	17.45
+#637A00	S006	"Student: S006
+Avg Grade: 85.2%
+Study Hours: 115
+Attendance: 82.8%"	S006	Sem5	299.666666666667	384.883333333333	16.55	17.45
+#7D8200	S006	"Student: S006
+Avg Grade: 82.3%
+Study Hours: 107
+Attendance: 79.5%"	S006	Sem6	384.883333333333	467.15	16.55	17.45
+#778000	S006	"Student: S006
+Avg Grade: 82.9%
+Study Hours: 105
+Attendance: 81.5%"	S006	Sem7	467.15	550.066666666667	16.55	17.45
+#336D00	S006	"Student: S006
+Avg Grade: 90.1%
+Study Hours: 121
+Attendance: 82.8%"	S006	Sem8	550.066666666667	640.2	16.55	17.45
+#D19A00	S021	"Student: S021
+Avg Grade: 72.3%
+Study Hours: 90
+Attendance: 74.5%"	S021	Sem1	0	72.3166666666667	17.55	18.45
+#BF9500	S021	"Student: S021
+Avg Grade: 74.4%
+Study Hours: 102
+Attendance: 76.8%"	S021	Sem2	72.3166666666667	146.733333333333	17.55	18.45
+#A58E00	S021	"Student: S021
+Avg Grade: 77.6%
+Study Hours: 105
+Attendance: 78.3%"	S021	Sem3	146.733333333333	224.283333333333	17.55	18.45
+#888500	S021	"Student: S021
+Avg Grade: 80.9%
+Study Hours: 119
+Attendance: 80.7%"	S021	Sem4	224.283333333333	305.216666666667	17.55	18.45
+#888500	S021	"Student: S021
+Avg Grade: 81%
+Study Hours: 110
+Attendance: 80.2%"	S021	Sem5	305.216666666667	386.183333333333	17.55	18.45
+#677B00	S021	"Student: S021
+Avg Grade: 84.8%
+Study Hours: 111
+Attendance: 84%"	S021	Sem6	386.183333333333	471	17.55	18.45
+#637A00	S021	"Student: S021
+Avg Grade: 85.2%
+Study Hours: 121
+Attendance: 79.5%"	S021	Sem7	471	556.183333333333	17.55	18.45
+#567600	S021	"Student: S021
+Avg Grade: 86.7%
+Study Hours: 125
+Attendance: 84.7%"	S021	Sem8	556.183333333333	642.85	17.55	18.45
+#7D8200	S050	"Student: S050
+Avg Grade: 82.2%
+Study Hours: 112
+Attendance: 83.7%"	S050	Sem1	0	82.2333333333333	18.55	19.45
+#8B8600	S050	"Student: S050
+Avg Grade: 80.6%
+Study Hours: 93
+Attendance: 80.3%"	S050	Sem2	82.2333333333333	162.866666666667	18.55	19.45
+#707E00	S050	"Student: S050
+Avg Grade: 83.7%
+Study Hours: 107
+Attendance: 80.5%"	S050	Sem3	162.866666666667	246.566666666667	18.55	19.45
+#5F7900	S050	"Student: S050
+Avg Grade: 85.7%
+Study Hours: 109
+Attendance: 84.3%"	S050	Sem4	246.566666666667	332.283333333333	18.55	19.45
+#3D6F00	S050	"Student: S050
+Avg Grade: 89.2%
+Study Hours: 111
+Attendance: 82.3%"	S050	Sem5	332.283333333333	421.5	18.55	19.45
+#066500	S050	"Student: S050
+Avg Grade: 92.8%
+Study Hours: 133
+Attendance: 90.2%"	S050	Sem6	421.5	514.333333333333	18.55	19.45
+#206800	S050	"Student: S050
+Avg Grade: 91.6%
+Study Hours: 127
+Attendance: 81.2%"	S050	Sem7	514.333333333333	605.95	18.55	19.45
+#056400	S050	"Student: S050
+Avg Grade: 92.9%
+Study Hours: 117
+Attendance: 86.2%"	S050	Sem8	605.95	698.816666666667	18.55	19.45
+#6A7C00	S044	"Student: S044
+Avg Grade: 84.4%
+Study Hours: 101
+Attendance: 85%"	S044	Sem1	0	84.4333333333333	19.55	20.45
+#838400	S044	"Student: S044
+Avg Grade: 81.5%
+Study Hours: 97
+Attendance: 78.2%"	S044	Sem2	84.4333333333333	165.95	19.55	20.45
+#778000	S044	"Student: S044
+Avg Grade: 82.9%
+Study Hours: 114
+Attendance: 79.3%"	S044	Sem3	165.95	248.866666666667	19.55	20.45
+#457100	S044	"Student: S044
+Avg Grade: 88.4%
+Study Hours: 105
+Attendance: 86%"	S044	Sem4	248.866666666667	337.316666666667	19.55	20.45
+#3E6F00	S044	"Student: S044
+Avg Grade: 89.1%
 Study Hours: 120
-Attendance: 83%"	S044	Sem5	337.316666666667	426.433333333333	25.55	26.45
+Attendance: 83%"	S044	Sem5	337.316666666667	426.433333333333	19.55	20.45
 #006400	S044	"Student: S044
-Average Grade: 93%
+Avg Grade: 93%
 Study Hours: 123
-Attendance: 86.5%"	S044	Sem6	426.433333333333	519.45	25.55	26.45
-#116600	S044	"Student: S044
-Average Grade: 92.4%
+Attendance: 86.5%"	S044	Sem6	426.433333333333	519.45	19.55	20.45
+#126600	S044	"Student: S044
+Avg Grade: 92.4%
 Study Hours: 137
-Attendance: 86.3%"	S044	Sem7	519.45	611.866666666667	25.55	26.45
-#056500	S044	"Student: S044
-Average Grade: 92.8%
+Attendance: 86.3%"	S044	Sem7	519.45	611.866666666667	19.55	20.45
+#066500	S044	"Student: S044
+Avg Grade: 92.8%
 Study Hours: 130
-Attendance: 85.7%"	S044	Sem8	611.866666666667	704.7	25.55	26.45
+Attendance: 85.7%"	S044	Sem8	611.866666666667	704.7	19.55	20.45

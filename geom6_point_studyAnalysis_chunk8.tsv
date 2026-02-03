@@ -1,83 +1,83 @@
 group	size	x	y	key	tooltip
-1	12.0697567001393	19	79.6	S001 Mathematics Sem8	"Student: S001
+1	9.74596669241483	19	79.6	S001 Mathematics Sem8	"Student: S001
 Subject: Mathematics
 Grade: 79.6%
 Study Hours: 19
 Attendance: 84%
 Performance: Good"
-1	10.7206651122492	15	71	S002 Mathematics Sem8	"Student: S002
+1	8.70820393249937	15	71	S002 Mathematics Sem8	"Student: S002
 Subject: Mathematics
 Grade: 71%
 Study Hours: 15
 Attendance: 78%
 Performance: Satisfactory"
-1	10.2219219164378	18	71.8	S003 Mathematics Sem8	"Student: S003
+1	8.32455532033676	18	71.8	S003 Mathematics Sem8	"Student: S003
 Subject: Mathematics
 Grade: 71.8%
 Study Hours: 18
 Attendance: 76%
 Performance: Satisfactory"
-1	10.9596316888586	12	65.3	S004 Mathematics Sem8	"Student: S004
+1	8.89202437604511	12	65.3	S004 Mathematics Sem8	"Student: S004
 Subject: Mathematics
 Grade: 65.3%
 Study Hours: 12
 Attendance: 79%
 Performance: Satisfactory"
-1	9.4111402631444	17	77.8	S005 Mathematics Sem8	"Student: S005
+1	7.70087712549569	17	77.8	S005 Mathematics Sem8	"Student: S005
 Subject: Mathematics
 Grade: 77.8%
 Study Hours: 17
 Attendance: 73%
 Performance: Good"
-1	10.4749631267634	14	85.3	S006 Mathematics Sem8	"Student: S006
+1	8.51920240520265	14	85.3	S006 Mathematics Sem8	"Student: S006
 Subject: Mathematics
 Grade: 85.3%
 Study Hours: 14
 Attendance: 77%
 Performance: Excellent"
-1	11.4193948850231	17	74.2	S007 Mathematics Sem8	"Student: S007
+1	9.24568837309472	17	74.2	S007 Mathematics Sem8	"Student: S007
 Subject: Mathematics
 Grade: 74.2%
 Study Hours: 17
 Attendance: 81%
 Performance: Satisfactory"
-1	10.7206651122492	13	72.8	S008 Mathematics Sem8	"Student: S008
+1	8.70820393249937	13	72.8	S008 Mathematics Sem8	"Student: S008
 Subject: Mathematics
 Grade: 72.8%
 Study Hours: 13
 Attendance: 78%
 Performance: Satisfactory"
-1	11.857738077267	14	63	S009 Mathematics Sem8	"Student: S009
+1	9.58287544405155	14	63	S009 Mathematics Sem8	"Student: S009
 Subject: Mathematics
 Grade: 63%
 Study Hours: 14
 Attendance: 83%
 Performance: Satisfactory"
-1	7.43829017247149	11	61.6	S010 Mathematics Sem8	"Student: S010
+1	6.18330013267038	11	61.6	S010 Mathematics Sem8	"Student: S010
 Subject: Mathematics
 Grade: 61.6%
 Study Hours: 11
 Attendance: 67%
 Performance: Satisfactory"
-1	9.12039324756716	10	52	S011 Mathematics Sem8	"Student: S011
+1	7.47722557505166	10	52	S011 Mathematics Sem8	"Student: S011
 Subject: Mathematics
 Grade: 52%
 Study Hours: 10
 Attendance: 72%
 Performance: Needs Improvement"
-1	13.4444309600784	17	78	S012 Mathematics Sem8	"Student: S012
+1	10.8034084308295	17	78	S012 Mathematics Sem8	"Student: S012
 Subject: Mathematics
 Grade: 78%
 Study Hours: 17
 Attendance: 91%
 Performance: Good"
-1	8.16644143732834	17	72.7	S013 Mathematics Sem8	"Student: S013
+1	6.74341649025257	17	72.7	S013 Mathematics Sem8	"Student: S013
 Subject: Mathematics
 Grade: 72.7%
 Study Hours: 17
 Attendance: 69%
 Performance: Satisfactory"
-1	7.81377674149945	11	73.5	S014 Mathematics Sem8	"Student: S014
+1	6.47213595499958	11	73.5	S014 Mathematics Sem8	"Student: S014
 Subject: Mathematics
 Grade: 73.5%
 Study Hours: 11
@@ -89,19 +89,19 @@ Grade: 34.5%
 Study Hours: 7
 Attendance: 60%
 Performance: Needs Improvement"
-1	10.7206651122492	13	77	S016 Mathematics Sem8	"Student: S016
+1	8.70820393249937	13	77	S016 Mathematics Sem8	"Student: S016
 Subject: Mathematics
 Grade: 77%
 Study Hours: 13
 Attendance: 78%
 Performance: Good"
-1	10.2219219164378	10	66	S017 Mathematics Sem8	"Student: S017
+1	8.32455532033676	10	66	S017 Mathematics Sem8	"Student: S017
 Subject: Mathematics
 Grade: 66%
 Study Hours: 10
 Attendance: 76%
 Performance: Satisfactory"
-1	12.0697567001393	18	79.3	S018 Mathematics Sem8	"Student: S018
+1	9.74596669241483	18	79.3	S018 Mathematics Sem8	"Student: S018
 Subject: Mathematics
 Grade: 79.3%
 Study Hours: 18
@@ -113,55 +113,55 @@ Grade: 53.3%
 Study Hours: 10
 Attendance: 60%
 Performance: Needs Improvement"
-1	8.16644143732834	6	58	S020 Mathematics Sem8	"Student: S020
+1	6.74341649025257	6	58	S020 Mathematics Sem8	"Student: S020
 Subject: Mathematics
 Grade: 58%
 Study Hours: 6
 Attendance: 69%
 Performance: Needs Improvement"
-1	9.12039324756716	18	78.6	S021 Mathematics Sem8	"Student: S021
+1	7.47722557505166	18	78.6	S021 Mathematics Sem8	"Student: S021
 Subject: Mathematics
 Grade: 78.6%
 Study Hours: 18
 Attendance: 72%
 Performance: Good"
-1	10.7206651122492	12	62.9	S022 Mathematics Sem8	"Student: S022
+1	8.70820393249937	12	62.9	S022 Mathematics Sem8	"Student: S022
 Subject: Mathematics
 Grade: 62.9%
 Study Hours: 12
 Attendance: 78%
 Performance: Satisfactory"
-1	9.96084166404533	13	78.5	S023 Mathematics Sem8	"Student: S023
+1	8.12372435695795	13	78.5	S023 Mathematics Sem8	"Student: S023
 Subject: Mathematics
 Grade: 78.5%
 Study Hours: 13
 Attendance: 75%
 Performance: Good"
-1	8.81725751310599	11	71.6	S024 Mathematics Sem8	"Student: S024
+1	7.24404424085076	11	71.6	S024 Mathematics Sem8	"Student: S024
 Subject: Mathematics
 Grade: 71.6%
 Study Hours: 11
 Attendance: 71%
 Performance: Satisfactory"
-1	10.7206651122492	17	75.5	S025 Mathematics Sem8	"Student: S025
+1	8.70820393249937	17	75.5	S025 Mathematics Sem8	"Student: S025
 Subject: Mathematics
 Grade: 75.5%
 Study Hours: 17
 Attendance: 78%
 Performance: Good"
-1	9.96084166404533	15	60.6	S026 Mathematics Sem8	"Student: S026
+1	8.12372435695795	15	60.6	S026 Mathematics Sem8	"Student: S026
 Subject: Mathematics
 Grade: 60.6%
 Study Hours: 15
 Attendance: 75%
 Performance: Satisfactory"
-1	9.12039324756716	14	77.6	S027 Mathematics Sem8	"Student: S027
+1	7.47722557505166	14	77.6	S027 Mathematics Sem8	"Student: S027
 Subject: Mathematics
 Grade: 77.6%
 Study Hours: 14
 Attendance: 72%
 Performance: Good"
-1	13.2583302491977	23	82.3	S028 Mathematics Sem8	"Student: S028
+1	10.6602540378444	23	82.3	S028 Mathematics Sem8	"Student: S028
 Subject: Mathematics
 Grade: 82.3%
 Study Hours: 23
@@ -173,811 +173,811 @@ Grade: 47.2%
 Study Hours: 3
 Attendance: 60%
 Performance: Needs Improvement"
-1	9.96084166404533	13	67.5	S030 Mathematics Sem8	"Student: S030
+1	8.12372435695795	13	67.5	S030 Mathematics Sem8	"Student: S030
 Subject: Mathematics
 Grade: 67.5%
 Study Hours: 13
 Attendance: 75%
 Performance: Satisfactory"
-1	8.81725751310599	8	56.1	S031 Mathematics Sem8	"Student: S031
+1	7.24404424085076	8	56.1	S031 Mathematics Sem8	"Student: S031
 Subject: Mathematics
 Grade: 56.1%
 Study Hours: 8
 Attendance: 71%
 Performance: Needs Improvement"
-1	10.2219219164378	16	65.1	S032 Mathematics Sem8	"Student: S032
+1	8.32455532033676	16	65.1	S032 Mathematics Sem8	"Student: S032
 Subject: Mathematics
 Grade: 65.1%
 Study Hours: 16
 Attendance: 76%
 Performance: Satisfactory"
-1	10.2219219164378	13	67.2	S033 Mathematics Sem8	"Student: S033
+1	8.32455532033676	13	67.2	S033 Mathematics Sem8	"Student: S033
 Subject: Mathematics
 Grade: 67.2%
 Study Hours: 13
 Attendance: 76%
 Performance: Satisfactory"
-1	11.4193948850231	20	87.8	S034 Mathematics Sem8	"Student: S034
+1	9.24568837309472	20	87.8	S034 Mathematics Sem8	"Student: S034
 Subject: Mathematics
 Grade: 87.8%
 Study Hours: 20
 Attendance: 81%
 Performance: Excellent"
-1	7.03487835006964	7	62.8	S035 Mathematics Sem8	"Student: S035
+1	5.87298334620742	7	62.8	S035 Mathematics Sem8	"Student: S035
 Subject: Mathematics
 Grade: 62.8%
 Study Hours: 7
 Attendance: 66%
 Performance: Satisfactory"
-1	11.857738077267	20	76	S036 Mathematics Sem8	"Student: S036
+1	9.58287544405155	20	76	S036 Mathematics Sem8	"Student: S036
 Subject: Mathematics
 Grade: 76%
 Study Hours: 20
 Attendance: 83%
 Performance: Good"
-1	10.9596316888586	16	66.5	S037 Mathematics Sem8	"Student: S037
+1	8.89202437604511	16	66.5	S037 Mathematics Sem8	"Student: S037
 Subject: Mathematics
 Grade: 66.5%
 Study Hours: 16
 Attendance: 79%
 Performance: Satisfactory"
-1	8.5	16	66.9	S038 Mathematics Sem8	"Student: S038
+1	7	16	66.9	S038 Mathematics Sem8	"Student: S038
 Subject: Mathematics
 Grade: 66.9%
 Study Hours: 16
 Attendance: 70%
 Performance: Satisfactory"
-1	7.03487835006964	11	60.3	S039 Mathematics Sem8	"Student: S039
+1	5.87298334620742	11	60.3	S039 Mathematics Sem8	"Student: S039
 Subject: Mathematics
 Grade: 60.3%
 Study Hours: 11
 Attendance: 66%
 Performance: Satisfactory"
-1	11.1923881554251	20	77.3	S040 Mathematics Sem8	"Student: S040
+1	9.07106781186548	20	77.3	S040 Mathematics Sem8	"Student: S040
 Subject: Mathematics
 Grade: 77.3%
 Study Hours: 20
 Attendance: 80%
 Performance: Good"
-1	9.6909037180295	10	66.3	S041 Mathematics Sem8	"Student: S041
+1	7.91607978309962	10	66.3	S041 Mathematics Sem8	"Student: S041
 Subject: Mathematics
 Grade: 66.3%
 Study Hours: 10
 Attendance: 74%
 Performance: Satisfactory"
-1	8.81725751310599	10	67.5	S042 Mathematics Sem8	"Student: S042
+1	7.24404424085076	10	67.5	S042 Mathematics Sem8	"Student: S042
 Subject: Mathematics
 Grade: 67.5%
 Study Hours: 10
 Attendance: 71%
 Performance: Satisfactory"
-1	12.876580344943	18	74.4	S043 Mathematics Sem8	"Student: S043
+1	10.3666002653408	18	74.4	S043 Mathematics Sem8	"Student: S043
 Subject: Mathematics
 Grade: 74.4%
 Study Hours: 18
 Attendance: 88%
 Performance: Satisfactory"
-1	12.0697567001393	23	88.8	S044 Mathematics Sem8	"Student: S044
+1	9.74596669241483	23	88.8	S044 Mathematics Sem8	"Student: S044
 Subject: Mathematics
 Grade: 88.8%
 Study Hours: 23
 Attendance: 84%
 Performance: Excellent"
-1	7.03487835006964	14	60.6	S045 Mathematics Sem8	"Student: S045
+1	5.87298334620742	14	60.6	S045 Mathematics Sem8	"Student: S045
 Subject: Mathematics
 Grade: 60.6%
 Study Hours: 14
 Attendance: 66%
 Performance: Satisfactory"
-1	11.6410580332244	18	74	S046 Mathematics Sem8	"Student: S046
+1	9.41619848709566	18	74	S046 Mathematics Sem8	"Student: S046
 Subject: Mathematics
 Grade: 74%
 Study Hours: 18
 Attendance: 82%
 Performance: Satisfactory"
-1	10.4749631267634	10	66.7	S047 Mathematics Sem8	"Student: S047
+1	8.51920240520265	10	66.7	S047 Mathematics Sem8	"Student: S047
 Subject: Mathematics
 Grade: 66.7%
 Study Hours: 10
 Attendance: 77%
 Performance: Satisfactory"
-1	9.6909037180295	15	73.6	S048 Mathematics Sem8	"Student: S048
+1	7.91607978309962	15	73.6	S048 Mathematics Sem8	"Student: S048
 Subject: Mathematics
 Grade: 73.6%
 Study Hours: 15
 Attendance: 74%
 Performance: Satisfactory"
-1	10.7206651122492	15	82.1	S049 Mathematics Sem8	"Student: S049
+1	8.70820393249937	15	82.1	S049 Mathematics Sem8	"Student: S049
 Subject: Mathematics
 Grade: 82.1%
 Study Hours: 15
 Attendance: 78%
 Performance: Good"
-1	11.6410580332244	16	91.1	S050 Mathematics Sem8	"Student: S050
+1	9.41619848709566	16	91.1	S050 Mathematics Sem8	"Student: S050
 Subject: Mathematics
 Grade: 91.1%
 Study Hours: 16
 Attendance: 82%
 Performance: Excellent"
-1	10.7206651122492	22	83.9	S001 Physics Sem8	"Student: S001
+1	8.70820393249937	22	83.9	S001 Physics Sem8	"Student: S001
 Subject: Physics
 Grade: 83.9%
 Study Hours: 22
 Attendance: 78%
 Performance: Good"
-1	10.4749631267634	12	74.7	S002 Physics Sem8	"Student: S002
+1	8.51920240520265	12	74.7	S002 Physics Sem8	"Student: S002
 Subject: Physics
 Grade: 74.7%
 Study Hours: 12
 Attendance: 77%
 Performance: Satisfactory"
-1	13.2583302491977	15	66.6	S003 Physics Sem8	"Student: S003
+1	10.6602540378444	15	66.6	S003 Physics Sem8	"Student: S003
 Subject: Physics
 Grade: 66.6%
 Study Hours: 15
 Attendance: 90%
 Performance: Satisfactory"
-1	9.4111402631444	2	62.4	S004 Physics Sem8	"Student: S004
+1	7.70087712549569	2	62.4	S004 Physics Sem8	"Student: S004
 Subject: Physics
 Grade: 62.4%
 Study Hours: 2
 Attendance: 73%
 Performance: Satisfactory"
-1	11.4193948850231	16	85.1	S005 Physics Sem8	"Student: S005
+1	9.24568837309472	16	85.1	S005 Physics Sem8	"Student: S005
 Subject: Physics
 Grade: 85.1%
 Study Hours: 16
 Attendance: 81%
 Performance: Excellent"
-1	10.2219219164378	17	87.7	S006 Physics Sem8	"Student: S006
+1	8.32455532033676	17	87.7	S006 Physics Sem8	"Student: S006
 Subject: Physics
 Grade: 87.7%
 Study Hours: 17
 Attendance: 76%
 Performance: Excellent"
-1	14.1603865070153	21	88.1	S007 Physics Sem8	"Student: S007
+1	11.3541434669349	21	88.1	S007 Physics Sem8	"Student: S007
 Subject: Physics
 Grade: 88.1%
 Study Hours: 21
 Attendance: 95%
 Performance: Excellent"
-1	9.4111402631444	16	78	S008 Physics Sem8	"Student: S008
+1	7.70087712549569	16	78	S008 Physics Sem8	"Student: S008
 Subject: Physics
 Grade: 78%
 Study Hours: 16
 Attendance: 73%
 Performance: Good"
-1	4.05548047910945	12	55.4	S009 Physics Sem8	"Student: S009
+1	3.58113883008419	12	55.4	S009 Physics Sem8	"Student: S009
 Subject: Physics
 Grade: 55.4%
 Study Hours: 12
 Attendance: 61%
 Performance: Needs Improvement"
-1	4.90688837074973	10	61.9	S010 Physics Sem8	"Student: S010
+1	4.23606797749979	10	61.9	S010 Physics Sem8	"Student: S010
 Subject: Physics
 Grade: 61.9%
 Study Hours: 10
 Attendance: 62%
 Performance: Satisfactory"
-1	10.2219219164378	13	60.2	S011 Physics Sem8	"Student: S011
+1	8.32455532033676	13	60.2	S011 Physics Sem8	"Student: S011
 Subject: Physics
 Grade: 60.2%
 Study Hours: 13
 Attendance: 76%
 Performance: Satisfactory"
-1	13.2583302491977	14	79.4	S012 Physics Sem8	"Student: S012
+1	10.6602540378444	14	79.4	S012 Physics Sem8	"Student: S012
 Subject: Physics
 Grade: 79.4%
 Study Hours: 14
 Attendance: 90%
 Performance: Good"
-1	11.857738077267	14	83.2	S013 Physics Sem8	"Student: S013
+1	9.58287544405155	14	83.2	S013 Physics Sem8	"Student: S013
 Subject: Physics
 Grade: 83.2%
 Study Hours: 14
 Attendance: 83%
 Performance: Good"
-1	6.59619407771256	11	73.6	S014 Physics Sem8	"Student: S014
+1	5.53553390593274	11	73.6	S014 Physics Sem8	"Student: S014
 Subject: Physics
 Grade: 73.6%
 Study Hours: 11
 Attendance: 65%
 Performance: Satisfactory"
-1	4.05548047910945	2	41.7	S015 Physics Sem8	"Student: S015
+1	3.58113883008419	2	41.7	S015 Physics Sem8	"Student: S015
 Subject: Physics
 Grade: 41.7%
 Study Hours: 2
 Attendance: 61%
 Performance: Needs Improvement"
-1	9.6909037180295	16	69.7	S016 Physics Sem8	"Student: S016
+1	7.91607978309962	16	69.7	S016 Physics Sem8	"Student: S016
 Subject: Physics
 Grade: 69.7%
 Study Hours: 16
 Attendance: 74%
 Performance: Satisfactory"
-1	6.11096095821889	9	58.6	S017 Physics Sem8	"Student: S017
+1	5.16227766016838	9	58.6	S017 Physics Sem8	"Student: S017
 Subject: Physics
 Grade: 58.6%
 Study Hours: 9
 Attendance: 64%
 Performance: Needs Improvement"
-1	9.6909037180295	17	73	S018 Physics Sem8	"Student: S018
+1	7.91607978309962	17	73	S018 Physics Sem8	"Student: S018
 Subject: Physics
 Grade: 73%
 Study Hours: 17
 Attendance: 74%
 Performance: Satisfactory"
-1	8.16644143732834	10	60.5	S019 Physics Sem8	"Student: S019
+1	6.74341649025257	10	60.5	S019 Physics Sem8	"Student: S019
 Subject: Physics
 Grade: 60.5%
 Study Hours: 10
 Attendance: 69%
 Performance: Satisfactory"
-1	5.56019662378358	9	56.9	S020 Physics Sem8	"Student: S020
+1	4.73861278752583	9	56.9	S020 Physics Sem8	"Student: S020
 Subject: Physics
 Grade: 56.9%
 Study Hours: 9
 Attendance: 63%
 Performance: Needs Improvement"
-1	11.4193948850231	18	89.8	S021 Physics Sem8	"Student: S021
+1	9.24568837309472	18	89.8	S021 Physics Sem8	"Student: S021
 Subject: Physics
 Grade: 89.8%
 Study Hours: 18
 Attendance: 81%
 Performance: Excellent"
-1	9.4111402631444	18	69.9	S022 Physics Sem8	"Student: S022
+1	7.70087712549569	18	69.9	S022 Physics Sem8	"Student: S022
 Subject: Physics
 Grade: 69.9%
 Study Hours: 18
 Attendance: 73%
 Performance: Satisfactory"
-1	11.857738077267	16	87	S023 Physics Sem8	"Student: S023
+1	9.58287544405155	16	87	S023 Physics Sem8	"Student: S023
 Subject: Physics
 Grade: 87%
 Study Hours: 16
 Attendance: 83%
 Performance: Excellent"
-1	10.9596316888586	18	79.7	S024 Physics Sem8	"Student: S024
+1	8.89202437604511	18	79.7	S024 Physics Sem8	"Student: S024
 Subject: Physics
 Grade: 79.7%
 Study Hours: 18
 Attendance: 79%
 Performance: Good"
-1	13.0691011378522	9	76	S025 Physics Sem8	"Student: S025
+1	10.5146931829632	9	76	S025 Physics Sem8	"Student: S025
 Subject: Physics
 Grade: 76%
 Study Hours: 9
 Attendance: 89%
 Performance: Good"
-1	8.5	9	61.1	S026 Physics Sem8	"Student: S026
+1	7	9	61.1	S026 Physics Sem8	"Student: S026
 Subject: Physics
 Grade: 61.1%
 Study Hours: 9
 Attendance: 70%
 Performance: Satisfactory"
-1	10.9596316888586	15	68.5	S027 Physics Sem8	"Student: S027
+1	8.89202437604511	15	68.5	S027 Physics Sem8	"Student: S027
 Subject: Physics
 Grade: 68.5%
 Study Hours: 15
 Attendance: 79%
 Performance: Satisfactory"
-1	12.4809350727881	15	80.6	S028 Physics Sem8	"Student: S028
+1	10.0622577482986	15	80.6	S028 Physics Sem8	"Student: S028
 Subject: Physics
 Grade: 80.6%
 Study Hours: 15
 Attendance: 86%
 Performance: Good"
-1	7.43829017247149	10	57.6	S029 Physics Sem8	"Student: S029
+1	6.18330013267038	10	57.6	S029 Physics Sem8	"Student: S029
 Subject: Physics
 Grade: 57.6%
 Study Hours: 10
 Attendance: 67%
 Performance: Needs Improvement"
-1	12.6805898713507	15	73.4	S030 Physics Sem8	"Student: S030
+1	10.2158383625775	15	73.4	S030 Physics Sem8	"Student: S030
 Subject: Physics
 Grade: 73.4%
 Study Hours: 15
 Attendance: 87%
 Performance: Satisfactory"
-1	10.4749631267634	10	58.7	S031 Physics Sem8	"Student: S031
+1	8.51920240520265	10	58.7	S031 Physics Sem8	"Student: S031
 Subject: Physics
 Grade: 58.7%
 Study Hours: 10
 Attendance: 77%
 Performance: Needs Improvement"
-1	10.2219219164378	8	69.8	S032 Physics Sem8	"Student: S032
+1	8.32455532033676	8	69.8	S032 Physics Sem8	"Student: S032
 Subject: Physics
 Grade: 69.8%
 Study Hours: 8
 Attendance: 76%
 Performance: Satisfactory"
-1	9.12039324756716	12	69.4	S033 Physics Sem8	"Student: S033
+1	7.47722557505166	12	69.4	S033 Physics Sem8	"Student: S033
 Subject: Physics
 Grade: 69.4%
 Study Hours: 12
 Attendance: 72%
 Performance: Satisfactory"
-1	12.2774023955472	20	80.8	S034 Physics Sem8	"Student: S034
+1	9.90569415042095	20	80.8	S034 Physics Sem8	"Student: S034
 Subject: Physics
 Grade: 80.8%
 Study Hours: 20
 Attendance: 85%
 Performance: Good"
-1	8.5	8	65.4	S035 Physics Sem8	"Student: S035
+1	7	8	65.4	S035 Physics Sem8	"Student: S035
 Subject: Physics
 Grade: 65.4%
 Study Hours: 8
 Attendance: 70%
 Performance: Satisfactory"
-1	9.6909037180295	15	77.5	S036 Physics Sem8	"Student: S036
+1	7.91607978309962	15	77.5	S036 Physics Sem8	"Student: S036
 Subject: Physics
 Grade: 77.5%
 Study Hours: 15
 Attendance: 74%
 Performance: Good"
-1	8.81725751310599	10	68.6	S037 Physics Sem8	"Student: S037
+1	7.24404424085076	10	68.6	S037 Physics Sem8	"Student: S037
 Subject: Physics
 Grade: 68.6%
 Study Hours: 10
 Attendance: 71%
 Performance: Satisfactory"
-1	8.81725751310599	12	65.5	S038 Physics Sem8	"Student: S038
+1	7.24404424085076	12	65.5	S038 Physics Sem8	"Student: S038
 Subject: Physics
 Grade: 65.5%
 Study Hours: 12
 Attendance: 71%
 Performance: Satisfactory"
-1	10.9596316888586	21	79.8	S039 Physics Sem8	"Student: S039
+1	8.89202437604511	21	79.8	S039 Physics Sem8	"Student: S039
 Subject: Physics
 Grade: 79.8%
 Study Hours: 21
 Attendance: 79%
 Performance: Good"
-1	11.6410580332244	18	78.5	S040 Physics Sem8	"Student: S040
+1	9.41619848709566	18	78.5	S040 Physics Sem8	"Student: S040
 Subject: Physics
 Grade: 78.5%
 Study Hours: 18
 Attendance: 82%
 Performance: Good"
-1	9.12039324756716	10	61.5	S041 Physics Sem8	"Student: S041
+1	7.47722557505166	10	61.5	S041 Physics Sem8	"Student: S041
 Subject: Physics
 Grade: 61.5%
 Study Hours: 10
 Attendance: 72%
 Performance: Satisfactory"
-1	12.876580344943	13	79.4	S042 Physics Sem8	"Student: S042
+1	10.3666002653408	13	79.4	S042 Physics Sem8	"Student: S042
 Subject: Physics
 Grade: 79.4%
 Study Hours: 13
 Attendance: 88%
 Performance: Good"
-1	10.2219219164378	14	73.5	S043 Physics Sem8	"Student: S043
+1	8.32455532033676	14	73.5	S043 Physics Sem8	"Student: S043
 Subject: Physics
 Grade: 73.5%
 Study Hours: 14
 Attendance: 76%
 Performance: Satisfactory"
-1	12.6805898713507	18	93.3	S044 Physics Sem8	"Student: S044
+1	10.2158383625775	18	93.3	S044 Physics Sem8	"Student: S044
 Subject: Physics
 Grade: 93.3%
 Study Hours: 18
 Attendance: 87%
 Performance: Excellent"
-1	11.6410580332244	12	67.9	S045 Physics Sem8	"Student: S045
+1	9.41619848709566	12	67.9	S045 Physics Sem8	"Student: S045
 Subject: Physics
 Grade: 67.9%
 Study Hours: 12
 Attendance: 82%
 Performance: Satisfactory"
-1	11.857738077267	17	79.5	S046 Physics Sem8	"Student: S046
+1	9.58287544405155	17	79.5	S046 Physics Sem8	"Student: S046
 Subject: Physics
 Grade: 79.5%
 Study Hours: 17
 Attendance: 83%
 Performance: Good"
-1	10.7206651122492	12	78.9	S047 Physics Sem8	"Student: S047
+1	8.70820393249937	12	78.9	S047 Physics Sem8	"Student: S047
 Subject: Physics
 Grade: 78.9%
 Study Hours: 12
 Attendance: 78%
 Performance: Good"
-1	11.6410580332244	19	81	S048 Physics Sem8	"Student: S048
+1	9.41619848709566	19	81	S048 Physics Sem8	"Student: S048
 Subject: Physics
 Grade: 81%
 Study Hours: 19
 Attendance: 82%
 Performance: Good"
-1	9.96084166404533	16	75.2	S049 Physics Sem8	"Student: S049
+1	8.12372435695795	16	75.2	S049 Physics Sem8	"Student: S049
 Subject: Physics
 Grade: 75.2%
 Study Hours: 16
 Attendance: 75%
 Performance: Good"
-1	11.1923881554251	19	89.1	S050 Physics Sem8	"Student: S050
+1	9.07106781186548	19	89.1	S050 Physics Sem8	"Student: S050
 Subject: Physics
 Grade: 89.1%
 Study Hours: 19
 Attendance: 80%
 Performance: Excellent"
-1	13.6275534829989	16	87.1	S001 Chemistry Sem8	"Student: S001
+1	10.9442719099992	16	87.1	S001 Chemistry Sem8	"Student: S001
 Subject: Chemistry
 Grade: 87.1%
 Study Hours: 16
 Attendance: 92%
 Performance: Excellent"
-1	12.876580344943	22	87	S002 Chemistry Sem8	"Student: S002
+1	10.3666002653408	22	87	S002 Chemistry Sem8	"Student: S002
 Subject: Chemistry
 Grade: 87%
 Study Hours: 22
 Attendance: 88%
 Performance: Excellent"
-1	9.12039324756716	11	73.6	S003 Chemistry Sem8	"Student: S003
+1	7.47722557505166	11	73.6	S003 Chemistry Sem8	"Student: S003
 Subject: Chemistry
 Grade: 73.6%
 Study Hours: 11
 Attendance: 72%
 Performance: Satisfactory"
-1	10.4749631267634	13	77.2	S004 Chemistry Sem8	"Student: S004
+1	8.51920240520265	13	77.2	S004 Chemistry Sem8	"Student: S004
 Subject: Chemistry
 Grade: 77.2%
 Study Hours: 13
 Attendance: 77%
 Performance: Good"
-1	9.4111402631444	18	80.9	S005 Chemistry Sem8	"Student: S005
+1	7.70087712549569	18	80.9	S005 Chemistry Sem8	"Student: S005
 Subject: Chemistry
 Grade: 80.9%
 Study Hours: 18
 Attendance: 73%
 Performance: Good"
-1	12.2774023955472	18	86.3	S006 Chemistry Sem8	"Student: S006
+1	9.90569415042095	18	86.3	S006 Chemistry Sem8	"Student: S006
 Subject: Chemistry
 Grade: 86.3%
 Study Hours: 18
 Attendance: 85%
 Performance: Excellent"
-1	9.12039324756716	17	75.8	S007 Chemistry Sem8	"Student: S007
+1	7.47722557505166	17	75.8	S007 Chemistry Sem8	"Student: S007
 Subject: Chemistry
 Grade: 75.8%
 Study Hours: 17
 Attendance: 72%
 Performance: Good"
-1	5.56019662378358	18	77.2	S008 Chemistry Sem8	"Student: S008
+1	4.73861278752583	18	77.2	S008 Chemistry Sem8	"Student: S008
 Subject: Chemistry
 Grade: 77.2%
 Study Hours: 18
 Attendance: 63%
 Performance: Good"
-1	9.12039324756716	5	58.2	S009 Chemistry Sem8	"Student: S009
+1	7.47722557505166	5	58.2	S009 Chemistry Sem8	"Student: S009
 Subject: Chemistry
 Grade: 58.2%
 Study Hours: 5
 Attendance: 72%
 Performance: Needs Improvement"
-1	8.5	11	62.7	S010 Chemistry Sem8	"Student: S010
+1	7	11	62.7	S010 Chemistry Sem8	"Student: S010
 Subject: Chemistry
 Grade: 62.7%
 Study Hours: 11
 Attendance: 70%
 Performance: Satisfactory"
-1	8.16644143732834	9	59.5	S011 Chemistry Sem8	"Student: S011
+1	6.74341649025257	9	59.5	S011 Chemistry Sem8	"Student: S011
 Subject: Chemistry
 Grade: 59.5%
 Study Hours: 9
 Attendance: 69%
 Performance: Needs Improvement"
-1	10.2219219164378	20	82.3	S012 Chemistry Sem8	"Student: S012
+1	8.32455532033676	20	82.3	S012 Chemistry Sem8	"Student: S012
 Subject: Chemistry
 Grade: 82.3%
 Study Hours: 20
 Attendance: 76%
 Performance: Good"
-1	11.1923881554251	18	82.4	S013 Chemistry Sem8	"Student: S013
+1	9.07106781186548	18	82.4	S013 Chemistry Sem8	"Student: S013
 Subject: Chemistry
 Grade: 82.4%
 Study Hours: 18
 Attendance: 80%
 Performance: Good"
-1	10.9596316888586	13	73.8	S014 Chemistry Sem8	"Student: S014
+1	8.89202437604511	13	73.8	S014 Chemistry Sem8	"Student: S014
 Subject: Chemistry
 Grade: 73.8%
 Study Hours: 13
 Attendance: 79%
 Performance: Satisfactory"
-1	5.56019662378358	2	31.7	S015 Chemistry Sem8	"Student: S015
+1	4.73861278752583	2	31.7	S015 Chemistry Sem8	"Student: S015
 Subject: Chemistry
 Grade: 31.7%
 Study Hours: 2
 Attendance: 63%
 Performance: Needs Improvement"
-1	9.4111402631444	11	69.3	S016 Chemistry Sem8	"Student: S016
+1	7.70087712549569	11	69.3	S016 Chemistry Sem8	"Student: S016
 Subject: Chemistry
 Grade: 69.3%
 Study Hours: 11
 Attendance: 73%
 Performance: Satisfactory"
-1	9.4111402631444	19	68	S017 Chemistry Sem8	"Student: S017
+1	7.70087712549569	19	68	S017 Chemistry Sem8	"Student: S017
 Subject: Chemistry
 Grade: 68%
 Study Hours: 19
 Attendance: 73%
 Performance: Satisfactory"
-1	13.4444309600784	17	81.1	S018 Chemistry Sem8	"Student: S018
+1	10.8034084308295	17	81.1	S018 Chemistry Sem8	"Student: S018
 Subject: Chemistry
 Grade: 81.1%
 Study Hours: 17
 Attendance: 91%
 Performance: Good"
-1	7.43829017247149	7	57.3	S019 Chemistry Sem8	"Student: S019
+1	6.18330013267038	7	57.3	S019 Chemistry Sem8	"Student: S019
 Subject: Chemistry
 Grade: 57.3%
 Study Hours: 7
 Attendance: 67%
 Performance: Needs Improvement"
-1	7.03487835006964	5	53.5	S020 Chemistry Sem8	"Student: S020
+1	5.87298334620742	5	53.5	S020 Chemistry Sem8	"Student: S020
 Subject: Chemistry
 Grade: 53.5%
 Study Hours: 5
 Attendance: 66%
 Performance: Needs Improvement"
-1	13.8078363809802	23	84.5	S021 Chemistry Sem8	"Student: S021
+1	11.0829510622925	23	84.5	S021 Chemistry Sem8	"Student: S021
 Subject: Chemistry
 Grade: 84.5%
 Study Hours: 23
 Attendance: 93%
 Performance: Good"
-1	9.12039324756716	12	72.6	S022 Chemistry Sem8	"Student: S022
+1	7.47722557505166	12	72.6	S022 Chemistry Sem8	"Student: S022
 Subject: Chemistry
 Grade: 72.6%
 Study Hours: 12
 Attendance: 72%
 Performance: Satisfactory"
-1	9.4111402631444	14	77.6	S023 Chemistry Sem8	"Student: S023
+1	7.70087712549569	14	77.6	S023 Chemistry Sem8	"Student: S023
 Subject: Chemistry
 Grade: 77.6%
 Study Hours: 14
 Attendance: 73%
 Performance: Good"
-1	7.03487835006964	10	68.9	S024 Chemistry Sem8	"Student: S024
+1	5.87298334620742	10	68.9	S024 Chemistry Sem8	"Student: S024
 Subject: Chemistry
 Grade: 68.9%
 Study Hours: 10
 Attendance: 66%
 Performance: Satisfactory"
-1	11.4193948850231	12	77.1	S025 Chemistry Sem8	"Student: S025
+1	9.24568837309472	12	77.1	S025 Chemistry Sem8	"Student: S025
 Subject: Chemistry
 Grade: 77.1%
 Study Hours: 12
 Attendance: 81%
 Performance: Good"
-1	9.4111402631444	10	59.7	S026 Chemistry Sem8	"Student: S026
+1	7.70087712549569	10	59.7	S026 Chemistry Sem8	"Student: S026
 Subject: Chemistry
 Grade: 59.7%
 Study Hours: 10
 Attendance: 73%
 Performance: Needs Improvement"
-1	11.6410580332244	16	76	S027 Chemistry Sem8	"Student: S027
+1	9.41619848709566	16	76	S027 Chemistry Sem8	"Student: S027
 Subject: Chemistry
 Grade: 76%
 Study Hours: 16
 Attendance: 82%
 Performance: Good"
-1	10.9596316888586	11	77.6	S028 Chemistry Sem8	"Student: S028
+1	8.89202437604511	11	77.6	S028 Chemistry Sem8	"Student: S028
 Subject: Chemistry
 Grade: 77.6%
 Study Hours: 11
 Attendance: 79%
 Performance: Good"
-1	7.43829017247149	6	56.9	S029 Chemistry Sem8	"Student: S029
+1	6.18330013267038	6	56.9	S029 Chemistry Sem8	"Student: S029
 Subject: Chemistry
 Grade: 56.9%
 Study Hours: 6
 Attendance: 67%
 Performance: Needs Improvement"
-1	9.4111402631444	14	69.4	S030 Chemistry Sem8	"Student: S030
+1	7.70087712549569	14	69.4	S030 Chemistry Sem8	"Student: S030
 Subject: Chemistry
 Grade: 69.4%
 Study Hours: 14
 Attendance: 73%
 Performance: Satisfactory"
-1	6.11096095821889	11	58.8	S031 Chemistry Sem8	"Student: S031
+1	5.16227766016838	11	58.8	S031 Chemistry Sem8	"Student: S031
 Subject: Chemistry
 Grade: 58.8%
 Study Hours: 11
 Attendance: 64%
 Performance: Needs Improvement"
-1	9.12039324756716	19	75.1	S032 Chemistry Sem8	"Student: S032
+1	7.47722557505166	19	75.1	S032 Chemistry Sem8	"Student: S032
 Subject: Chemistry
 Grade: 75.1%
 Study Hours: 19
 Attendance: 72%
 Performance: Good"
-1	11.4193948850231	13	71.7	S033 Chemistry Sem8	"Student: S033
+1	9.24568837309472	13	71.7	S033 Chemistry Sem8	"Student: S033
 Subject: Chemistry
 Grade: 71.7%
 Study Hours: 13
 Attendance: 81%
 Performance: Satisfactory"
-1	11.857738077267	16	86.4	S034 Chemistry Sem8	"Student: S034
+1	9.58287544405155	16	86.4	S034 Chemistry Sem8	"Student: S034
 Subject: Chemistry
 Grade: 86.4%
 Study Hours: 16
 Attendance: 83%
 Performance: Excellent"
-1	8.16644143732834	9	68.4	S035 Chemistry Sem8	"Student: S035
+1	6.74341649025257	9	68.4	S035 Chemistry Sem8	"Student: S035
 Subject: Chemistry
 Grade: 68.4%
 Study Hours: 9
 Attendance: 69%
 Performance: Satisfactory"
-1	9.96084166404533	20	87.2	S036 Chemistry Sem8	"Student: S036
+1	8.12372435695795	20	87.2	S036 Chemistry Sem8	"Student: S036
 Subject: Chemistry
 Grade: 87.2%
 Study Hours: 20
 Attendance: 75%
 Performance: Excellent"
-1	9.6909037180295	25	74.3	S037 Chemistry Sem8	"Student: S037
+1	7.91607978309962	25	74.3	S037 Chemistry Sem8	"Student: S037
 Subject: Chemistry
 Grade: 74.3%
 Study Hours: 25
 Attendance: 74%
 Performance: Satisfactory"
-1	9.6909037180295	11	69.7	S038 Chemistry Sem8	"Student: S038
+1	7.91607978309962	11	69.7	S038 Chemistry Sem8	"Student: S038
 Subject: Chemistry
 Grade: 69.7%
 Study Hours: 11
 Attendance: 74%
 Performance: Satisfactory"
-1	12.876580344943	13	75.6	S039 Chemistry Sem8	"Student: S039
+1	10.3666002653408	13	75.6	S039 Chemistry Sem8	"Student: S039
 Subject: Chemistry
 Grade: 75.6%
 Study Hours: 13
 Attendance: 88%
 Performance: Good"
-1	10.2219219164378	17	80.3	S040 Chemistry Sem8	"Student: S040
+1	8.32455532033676	17	80.3	S040 Chemistry Sem8	"Student: S040
 Subject: Chemistry
 Grade: 80.3%
 Study Hours: 17
 Attendance: 76%
 Performance: Good"
-1	8.16644143732834	14	64.1	S041 Chemistry Sem8	"Student: S041
+1	6.74341649025257	14	64.1	S041 Chemistry Sem8	"Student: S041
 Subject: Chemistry
 Grade: 64.1%
 Study Hours: 14
 Attendance: 69%
 Performance: Satisfactory"
-1	11.1923881554251	13	72.5	S042 Chemistry Sem8	"Student: S042
+1	9.07106781186548	13	72.5	S042 Chemistry Sem8	"Student: S042
 Subject: Chemistry
 Grade: 72.5%
 Study Hours: 13
 Attendance: 80%
 Performance: Satisfactory"
-1	10.4749631267634	16	77.1	S043 Chemistry Sem8	"Student: S043
+1	8.51920240520265	16	77.1	S043 Chemistry Sem8	"Student: S043
 Subject: Chemistry
 Grade: 77.1%
 Study Hours: 16
 Attendance: 77%
 Performance: Good"
-1	11.4193948850231	20	90.7	S044 Chemistry Sem8	"Student: S044
+1	9.24568837309472	20	90.7	S044 Chemistry Sem8	"Student: S044
 Subject: Chemistry
 Grade: 90.7%
 Study Hours: 20
 Attendance: 81%
 Performance: Excellent"
-1	6.59619407771256	9	62.6	S045 Chemistry Sem8	"Student: S045
+1	5.53553390593274	9	62.6	S045 Chemistry Sem8	"Student: S045
 Subject: Chemistry
 Grade: 62.6%
 Study Hours: 9
 Attendance: 65%
 Performance: Satisfactory"
-1	12.876580344943	19	77.9	S046 Chemistry Sem8	"Student: S046
+1	10.3666002653408	19	77.9	S046 Chemistry Sem8	"Student: S046
 Subject: Chemistry
 Grade: 77.9%
 Study Hours: 19
 Attendance: 88%
 Performance: Good"
-1	9.12039324756716	11	71	S047 Chemistry Sem8	"Student: S047
+1	7.47722557505166	11	71	S047 Chemistry Sem8	"Student: S047
 Subject: Chemistry
 Grade: 71%
 Study Hours: 11
 Attendance: 72%
 Performance: Satisfactory"
-1	9.96084166404533	13	74.3	S048 Chemistry Sem8	"Student: S048
+1	8.12372435695795	13	74.3	S048 Chemistry Sem8	"Student: S048
 Subject: Chemistry
 Grade: 74.3%
 Study Hours: 13
 Attendance: 75%
 Performance: Satisfactory"
-1	12.0697567001393	10	81.5	S049 Chemistry Sem8	"Student: S049
+1	9.74596669241483	10	81.5	S049 Chemistry Sem8	"Student: S049
 Subject: Chemistry
 Grade: 81.5%
 Study Hours: 10
 Attendance: 84%
 Performance: Good"
-1	13.0691011378522	17	95.5	S050 Chemistry Sem8	"Student: S050
+1	10.5146931829632	17	95.5	S050 Chemistry Sem8	"Student: S050
 Subject: Chemistry
 Grade: 95.5%
 Study Hours: 17
 Attendance: 89%
 Performance: Excellent"
-1	9.6909037180295	17	88.2	S001 Biology Sem8	"Student: S001
+1	7.91607978309962	17	88.2	S001 Biology Sem8	"Student: S001
 Subject: Biology
 Grade: 88.2%
 Study Hours: 17
 Attendance: 74%
 Performance: Excellent"
-1	13.0691011378522	14	84.1	S002 Biology Sem8	"Student: S002
+1	10.5146931829632	14	84.1	S002 Biology Sem8	"Student: S002
 Subject: Biology
 Grade: 84.1%
 Study Hours: 14
 Attendance: 89%
 Performance: Good"
-1	9.12039324756716	9	68.3	S003 Biology Sem8	"Student: S003
+1	7.47722557505166	9	68.3	S003 Biology Sem8	"Student: S003
 Subject: Biology
 Grade: 68.3%
 Study Hours: 9
 Attendance: 72%
 Performance: Satisfactory"
-1	10.7206651122492	13	75.9	S004 Biology Sem8	"Student: S004
+1	8.70820393249937	13	75.9	S004 Biology Sem8	"Student: S004
 Subject: Biology
 Grade: 75.9%
 Study Hours: 13
 Attendance: 78%
 Performance: Good"
-1	12.876580344943	20	88.3	S005 Biology Sem8	"Student: S005
+1	10.3666002653408	20	88.3	S005 Biology Sem8	"Student: S005
 Subject: Biology
 Grade: 88.3%
 Study Hours: 20
 Attendance: 88%
 Performance: Excellent"
-1	10.9596316888586	27	92	S006 Biology Sem8	"Student: S006
+1	8.89202437604511	27	92	S006 Biology Sem8	"Student: S006
 Subject: Biology
 Grade: 92%
 Study Hours: 27
 Attendance: 79%
 Performance: Excellent"
-1	11.1923881554251	16	84.8	S007 Biology Sem8	"Student: S007
+1	9.07106781186548	16	84.8	S007 Biology Sem8	"Student: S007
 Subject: Biology
 Grade: 84.8%
 Study Hours: 16
 Attendance: 80%
 Performance: Good"
-1	12.0697567001393	21	78.4	S008 Biology Sem8	"Student: S008
+1	9.74596669241483	21	78.4	S008 Biology Sem8	"Student: S008
 Subject: Biology
 Grade: 78.4%
 Study Hours: 21
 Attendance: 84%
 Performance: Good"
-1	7.43829017247149	12	64.8	S009 Biology Sem8	"Student: S009
+1	6.18330013267038	12	64.8	S009 Biology Sem8	"Student: S009
 Subject: Biology
 Grade: 64.8%
 Study Hours: 12
 Attendance: 67%
 Performance: Satisfactory"
-1	9.6909037180295	7	58.5	S010 Biology Sem8	"Student: S010
+1	7.91607978309962	7	58.5	S010 Biology Sem8	"Student: S010
 Subject: Biology
 Grade: 58.5%
 Study Hours: 7
 Attendance: 74%
 Performance: Needs Improvement"
-1	10.4749631267634	9	66.6	S011 Biology Sem8	"Student: S011
+1	8.51920240520265	9	66.6	S011 Biology Sem8	"Student: S011
 Subject: Biology
 Grade: 66.6%
 Study Hours: 9
 Attendance: 77%
 Performance: Satisfactory"
-1	12.2774023955472	18	74.3	S012 Biology Sem8	"Student: S012
+1	9.90569415042095	18	74.3	S012 Biology Sem8	"Student: S012
 Subject: Biology
 Grade: 74.3%
 Study Hours: 18
 Attendance: 85%
 Performance: Satisfactory"
-1	11.6410580332244	18	89.7	S013 Biology Sem8	"Student: S013
+1	9.41619848709566	18	89.7	S013 Biology Sem8	"Student: S013
 Subject: Biology
 Grade: 89.7%
 Study Hours: 18
 Attendance: 82%
 Performance: Excellent"
-1	9.4111402631444	13	75.4	S014 Biology Sem8	"Student: S014
+1	7.70087712549569	13	75.4	S014 Biology Sem8	"Student: S014
 Subject: Biology
 Grade: 75.4%
 Study Hours: 13
@@ -989,25 +989,25 @@ Grade: 38.8%
 Study Hours: 2
 Attendance: 60%
 Performance: Needs Improvement"
-1	11.1923881554251	15	65.9	S016 Biology Sem8	"Student: S016
+1	9.07106781186548	15	65.9	S016 Biology Sem8	"Student: S016
 Subject: Biology
 Grade: 65.9%
 Study Hours: 15
 Attendance: 80%
 Performance: Satisfactory"
-1	8.5	18	67.5	S017 Biology Sem8	"Student: S017
+1	7	18	67.5	S017 Biology Sem8	"Student: S017
 Subject: Biology
 Grade: 67.5%
 Study Hours: 18
 Attendance: 70%
 Performance: Satisfactory"
-1	12.2774023955472	19	81.3	S018 Biology Sem8	"Student: S018
+1	9.90569415042095	19	81.3	S018 Biology Sem8	"Student: S018
 Subject: Biology
 Grade: 81.3%
 Study Hours: 19
 Attendance: 85%
 Performance: Good"
-1	11.6410580332244	4	67.7	S019 Biology Sem8	"Student: S019
+1	9.41619848709566	4	67.7	S019 Biology Sem8	"Student: S019
 Subject: Biology
 Grade: 67.7%
 Study Hours: 4
@@ -1019,781 +1019,781 @@ Grade: 54.6%
 Study Hours: 12
 Attendance: 60%
 Performance: Needs Improvement"
-1	12.876580344943	21	88.7	S021 Biology Sem8	"Student: S021
+1	10.3666002653408	21	88.7	S021 Biology Sem8	"Student: S021
 Subject: Biology
 Grade: 88.7%
 Study Hours: 21
 Attendance: 88%
 Performance: Excellent"
-1	11.4193948850231	13	80.7	S022 Biology Sem8	"Student: S022
+1	9.24568837309472	13	80.7	S022 Biology Sem8	"Student: S022
 Subject: Biology
 Grade: 80.7%
 Study Hours: 13
 Attendance: 81%
 Performance: Good"
-1	11.4193948850231	20	79.5	S023 Biology Sem8	"Student: S023
+1	9.24568837309472	20	79.5	S023 Biology Sem8	"Student: S023
 Subject: Biology
 Grade: 79.5%
 Study Hours: 20
 Attendance: 81%
 Performance: Good"
-1	7.43829017247149	10	71.2	S024 Biology Sem8	"Student: S024
+1	6.18330013267038	10	71.2	S024 Biology Sem8	"Student: S024
 Subject: Biology
 Grade: 71.2%
 Study Hours: 10
 Attendance: 67%
 Performance: Satisfactory"
-1	10.2219219164378	15	75.2	S025 Biology Sem8	"Student: S025
+1	8.32455532033676	15	75.2	S025 Biology Sem8	"Student: S025
 Subject: Biology
 Grade: 75.2%
 Study Hours: 15
 Attendance: 76%
 Performance: Good"
-1	9.12039324756716	8	58.1	S026 Biology Sem8	"Student: S026
+1	7.47722557505166	8	58.1	S026 Biology Sem8	"Student: S026
 Subject: Biology
 Grade: 58.1%
 Study Hours: 8
 Attendance: 72%
 Performance: Needs Improvement"
-1	10.2219219164378	15	77.7	S027 Biology Sem8	"Student: S027
+1	8.32455532033676	15	77.7	S027 Biology Sem8	"Student: S027
 Subject: Biology
 Grade: 77.7%
 Study Hours: 15
 Attendance: 76%
 Performance: Good"
-1	11.4193948850231	18	80.5	S028 Biology Sem8	"Student: S028
+1	9.24568837309472	18	80.5	S028 Biology Sem8	"Student: S028
 Subject: Biology
 Grade: 80.5%
 Study Hours: 18
 Attendance: 81%
 Performance: Good"
-1	6.59619407771256	7	53.2	S029 Biology Sem8	"Student: S029
+1	5.53553390593274	7	53.2	S029 Biology Sem8	"Student: S029
 Subject: Biology
 Grade: 53.2%
 Study Hours: 7
 Attendance: 65%
 Performance: Needs Improvement"
-1	13.0691011378522	14	82.7	S030 Biology Sem8	"Student: S030
+1	10.5146931829632	14	82.7	S030 Biology Sem8	"Student: S030
 Subject: Biology
 Grade: 82.7%
 Study Hours: 14
 Attendance: 89%
 Performance: Good"
-1	8.16644143732834	9	57.6	S031 Biology Sem8	"Student: S031
+1	6.74341649025257	9	57.6	S031 Biology Sem8	"Student: S031
 Subject: Biology
 Grade: 57.6%
 Study Hours: 9
 Attendance: 69%
 Performance: Needs Improvement"
-1	7.81377674149945	18	60.8	S032 Biology Sem8	"Student: S032
+1	6.47213595499958	18	60.8	S032 Biology Sem8	"Student: S032
 Subject: Biology
 Grade: 60.8%
 Study Hours: 18
 Attendance: 68%
 Performance: Satisfactory"
-1	12.6805898713507	14	75	S033 Biology Sem8	"Student: S033
+1	10.2158383625775	14	75	S033 Biology Sem8	"Student: S033
 Subject: Biology
 Grade: 75%
 Study Hours: 14
 Attendance: 87%
 Performance: Satisfactory"
-1	11.1923881554251	18	86.6	S034 Biology Sem8	"Student: S034
+1	9.07106781186548	18	86.6	S034 Biology Sem8	"Student: S034
 Subject: Biology
 Grade: 86.6%
 Study Hours: 18
 Attendance: 80%
 Performance: Excellent"
-1	9.6909037180295	14	68.1	S035 Biology Sem8	"Student: S035
+1	7.91607978309962	14	68.1	S035 Biology Sem8	"Student: S035
 Subject: Biology
 Grade: 68.1%
 Study Hours: 14
 Attendance: 74%
 Performance: Satisfactory"
-1	9.6909037180295	18	76.5	S036 Biology Sem8	"Student: S036
+1	7.91607978309962	18	76.5	S036 Biology Sem8	"Student: S036
 Subject: Biology
 Grade: 76.5%
 Study Hours: 18
 Attendance: 74%
 Performance: Good"
-1	12.2774023955472	17	81.5	S037 Biology Sem8	"Student: S037
+1	9.90569415042095	17	81.5	S037 Biology Sem8	"Student: S037
 Subject: Biology
 Grade: 81.5%
 Study Hours: 17
 Attendance: 85%
 Performance: Good"
-1	10.7206651122492	11	71.6	S038 Biology Sem8	"Student: S038
+1	8.70820393249937	11	71.6	S038 Biology Sem8	"Student: S038
 Subject: Biology
 Grade: 71.6%
 Study Hours: 11
 Attendance: 78%
 Performance: Satisfactory"
-1	9.96084166404533	14	76.4	S039 Biology Sem8	"Student: S039
+1	8.12372435695795	14	76.4	S039 Biology Sem8	"Student: S039
 Subject: Biology
 Grade: 76.4%
 Study Hours: 14
 Attendance: 75%
 Performance: Good"
-1	9.96084166404533	17	82.2	S040 Biology Sem8	"Student: S040
+1	8.12372435695795	17	82.2	S040 Biology Sem8	"Student: S040
 Subject: Biology
 Grade: 82.2%
 Study Hours: 17
 Attendance: 75%
 Performance: Good"
-1	10.9596316888586	11	72	S041 Biology Sem8	"Student: S041
+1	8.89202437604511	11	72	S041 Biology Sem8	"Student: S041
 Subject: Biology
 Grade: 72%
 Study Hours: 11
 Attendance: 79%
 Performance: Satisfactory"
-1	11.1923881554251	22	86.9	S042 Biology Sem8	"Student: S042
+1	9.07106781186548	22	86.9	S042 Biology Sem8	"Student: S042
 Subject: Biology
 Grade: 86.9%
 Study Hours: 22
 Attendance: 80%
 Performance: Excellent"
-1	10.9596316888586	21	89	S043 Biology Sem8	"Student: S043
+1	8.89202437604511	21	89	S043 Biology Sem8	"Student: S043
 Subject: Biology
 Grade: 89%
 Study Hours: 21
 Attendance: 79%
 Performance: Excellent"
-1	12.4809350727881	22	93.3	S044 Biology Sem8	"Student: S044
+1	10.0622577482986	22	93.3	S044 Biology Sem8	"Student: S044
 Subject: Biology
 Grade: 93.3%
 Study Hours: 22
 Attendance: 86%
 Performance: Excellent"
-1	7.81377674149945	6	53.8	S045 Biology Sem8	"Student: S045
+1	6.47213595499958	6	53.8	S045 Biology Sem8	"Student: S045
 Subject: Biology
 Grade: 53.8%
 Study Hours: 6
 Attendance: 68%
 Performance: Needs Improvement"
-1	9.96084166404533	14	74	S046 Biology Sem8	"Student: S046
+1	8.12372435695795	14	74	S046 Biology Sem8	"Student: S046
 Subject: Biology
 Grade: 74%
 Study Hours: 14
 Attendance: 75%
 Performance: Satisfactory"
-1	13.2583302491977	19	91.4	S047 Biology Sem8	"Student: S047
+1	10.6602540378444	19	91.4	S047 Biology Sem8	"Student: S047
 Subject: Biology
 Grade: 91.4%
 Study Hours: 19
 Attendance: 90%
 Performance: Excellent"
-1	11.4193948850231	20	83	S048 Biology Sem8	"Student: S048
+1	9.24568837309472	20	83	S048 Biology Sem8	"Student: S048
 Subject: Biology
 Grade: 83%
 Study Hours: 20
 Attendance: 81%
 Performance: Good"
-1	13.4444309600784	23	87.4	S049 Biology Sem8	"Student: S049
+1	10.8034084308295	23	87.4	S049 Biology Sem8	"Student: S049
 Subject: Biology
 Grade: 87.4%
 Study Hours: 23
 Attendance: 91%
 Performance: Excellent"
-1	12.4809350727881	19	86.9	S050 Biology Sem8	"Student: S050
+1	10.0622577482986	19	86.9	S050 Biology Sem8	"Student: S050
 Subject: Biology
 Grade: 86.9%
 Study Hours: 19
 Attendance: 86%
 Performance: Excellent"
-1	11.6410580332244	22	81.4	S001 English Sem8	"Student: S001
+1	9.41619848709566	22	81.4	S001 English Sem8	"Student: S001
 Subject: English
 Grade: 81.4%
 Study Hours: 22
 Attendance: 82%
 Performance: Good"
-1	11.4193948850231	18	83.8	S002 English Sem8	"Student: S002
+1	9.24568837309472	18	83.8	S002 English Sem8	"Student: S002
 Subject: English
 Grade: 83.8%
 Study Hours: 18
 Attendance: 81%
 Performance: Good"
-1	10.2219219164378	15	73.4	S003 English Sem8	"Student: S003
+1	8.32455532033676	15	73.4	S003 English Sem8	"Student: S003
 Subject: English
 Grade: 73.4%
 Study Hours: 15
 Attendance: 76%
 Performance: Satisfactory"
-1	11.6410580332244	15	75.6	S004 English Sem8	"Student: S004
+1	9.41619848709566	15	75.6	S004 English Sem8	"Student: S004
 Subject: English
 Grade: 75.6%
 Study Hours: 15
 Attendance: 82%
 Performance: Good"
-1	10.4749631267634	19	82.9	S005 English Sem8	"Student: S005
+1	8.51920240520265	19	82.9	S005 English Sem8	"Student: S005
 Subject: English
 Grade: 82.9%
 Study Hours: 19
 Attendance: 77%
 Performance: Good"
-1	12.2774023955472	23	92	S006 English Sem8	"Student: S006
+1	9.90569415042095	23	92	S006 English Sem8	"Student: S006
 Subject: English
 Grade: 92%
 Study Hours: 23
 Attendance: 85%
 Performance: Excellent"
-1	9.96084166404533	13	85.9	S007 English Sem8	"Student: S007
+1	8.12372435695795	13	85.9	S007 English Sem8	"Student: S007
 Subject: English
 Grade: 85.9%
 Study Hours: 13
 Attendance: 75%
 Performance: Excellent"
-1	10.9596316888586	18	85.5	S008 English Sem8	"Student: S008
+1	8.89202437604511	18	85.5	S008 English Sem8	"Student: S008
 Subject: English
 Grade: 85.5%
 Study Hours: 18
 Attendance: 79%
 Performance: Excellent"
-1	11.1923881554251	9	59.4	S009 English Sem8	"Student: S009
+1	9.07106781186548	9	59.4	S009 English Sem8	"Student: S009
 Subject: English
 Grade: 59.4%
 Study Hours: 9
 Attendance: 80%
 Performance: Needs Improvement"
-1	8.5	14	59.9	S010 English Sem8	"Student: S010
+1	7	14	59.9	S010 English Sem8	"Student: S010
 Subject: English
 Grade: 59.9%
 Study Hours: 14
 Attendance: 70%
 Performance: Needs Improvement"
-1	8.16644143732834	7	62	S011 English Sem8	"Student: S011
+1	6.74341649025257	7	62	S011 English Sem8	"Student: S011
 Subject: English
 Grade: 62%
 Study Hours: 7
 Attendance: 69%
 Performance: Satisfactory"
-1	10.9596316888586	17	80.3	S012 English Sem8	"Student: S012
+1	8.89202437604511	17	80.3	S012 English Sem8	"Student: S012
 Subject: English
 Grade: 80.3%
 Study Hours: 17
 Attendance: 79%
 Performance: Good"
-1	13.6275534829989	21	89.8	S013 English Sem8	"Student: S013
+1	10.9442719099992	21	89.8	S013 English Sem8	"Student: S013
 Subject: English
 Grade: 89.8%
 Study Hours: 21
 Attendance: 92%
 Performance: Excellent"
-1	13.2583302491977	17	80	S014 English Sem8	"Student: S014
+1	10.6602540378444	17	80	S014 English Sem8	"Student: S014
 Subject: English
 Grade: 80%
 Study Hours: 17
 Attendance: 90%
 Performance: Good"
-1	7.03487835006964	6	43.2	S015 English Sem8	"Student: S015
+1	5.87298334620742	6	43.2	S015 English Sem8	"Student: S015
 Subject: English
 Grade: 43.2%
 Study Hours: 6
 Attendance: 66%
 Performance: Needs Improvement"
-1	10.4749631267634	18	87.2	S016 English Sem8	"Student: S016
+1	8.51920240520265	18	87.2	S016 English Sem8	"Student: S016
 Subject: English
 Grade: 87.2%
 Study Hours: 18
 Attendance: 77%
 Performance: Excellent"
-1	7.03487835006964	13	58.2	S017 English Sem8	"Student: S017
+1	5.87298334620742	13	58.2	S017 English Sem8	"Student: S017
 Subject: English
 Grade: 58.2%
 Study Hours: 13
 Attendance: 66%
 Performance: Needs Improvement"
-1	11.857738077267	14	76.3	S018 English Sem8	"Student: S018
+1	9.58287544405155	14	76.3	S018 English Sem8	"Student: S018
 Subject: English
 Grade: 76.3%
 Study Hours: 14
 Attendance: 83%
 Performance: Good"
-1	7.43829017247149	10	62.9	S019 English Sem8	"Student: S019
+1	6.18330013267038	10	62.9	S019 English Sem8	"Student: S019
 Subject: English
 Grade: 62.9%
 Study Hours: 10
 Attendance: 67%
 Performance: Satisfactory"
-1	7.43829017247149	7	53	S020 English Sem8	"Student: S020
+1	6.18330013267038	7	53	S020 English Sem8	"Student: S020
 Subject: English
 Grade: 53%
 Study Hours: 7
 Attendance: 67%
 Performance: Needs Improvement"
-1	13.4444309600784	22	91.7	S021 English Sem8	"Student: S021
+1	10.8034084308295	22	91.7	S021 English Sem8	"Student: S021
 Subject: English
 Grade: 91.7%
 Study Hours: 22
 Attendance: 91%
 Performance: Excellent"
-1	11.6410580332244	16	85.6	S022 English Sem8	"Student: S022
+1	9.41619848709566	16	85.6	S022 English Sem8	"Student: S022
 Subject: English
 Grade: 85.6%
 Study Hours: 16
 Attendance: 82%
 Performance: Excellent"
-1	12.0697567001393	22	89.1	S023 English Sem8	"Student: S023
+1	9.74596669241483	22	89.1	S023 English Sem8	"Student: S023
 Subject: English
 Grade: 89.1%
 Study Hours: 22
 Attendance: 84%
 Performance: Excellent"
-1	12.4809350727881	21	83.4	S024 English Sem8	"Student: S024
+1	10.0622577482986	21	83.4	S024 English Sem8	"Student: S024
 Subject: English
 Grade: 83.4%
 Study Hours: 21
 Attendance: 86%
 Performance: Good"
-1	11.857738077267	16	83.8	S025 English Sem8	"Student: S025
+1	9.58287544405155	16	83.8	S025 English Sem8	"Student: S025
 Subject: English
 Grade: 83.8%
 Study Hours: 16
 Attendance: 83%
 Performance: Good"
-1	6.59619407771256	9	58.6	S026 English Sem8	"Student: S026
+1	5.53553390593274	9	58.6	S026 English Sem8	"Student: S026
 Subject: English
 Grade: 58.6%
 Study Hours: 9
 Attendance: 65%
 Performance: Needs Improvement"
-1	9.4111402631444	3	65.7	S027 English Sem8	"Student: S027
+1	7.70087712549569	3	65.7	S027 English Sem8	"Student: S027
 Subject: English
 Grade: 65.7%
 Study Hours: 3
 Attendance: 73%
 Performance: Satisfactory"
-1	11.1923881554251	19	89.7	S028 English Sem8	"Student: S028
+1	9.07106781186548	19	89.7	S028 English Sem8	"Student: S028
 Subject: English
 Grade: 89.7%
 Study Hours: 19
 Attendance: 80%
 Performance: Excellent"
-1	9.6909037180295	14	58.6	S029 English Sem8	"Student: S029
+1	7.91607978309962	14	58.6	S029 English Sem8	"Student: S029
 Subject: English
 Grade: 58.6%
 Study Hours: 14
 Attendance: 74%
 Performance: Needs Improvement"
-1	9.4111402631444	17	83.4	S030 English Sem8	"Student: S030
+1	7.70087712549569	17	83.4	S030 English Sem8	"Student: S030
 Subject: English
 Grade: 83.4%
 Study Hours: 17
 Attendance: 73%
 Performance: Good"
-1	8.81725751310599	12	61.8	S031 English Sem8	"Student: S031
+1	7.24404424085076	12	61.8	S031 English Sem8	"Student: S031
 Subject: English
 Grade: 61.8%
 Study Hours: 12
 Attendance: 71%
 Performance: Satisfactory"
-1	10.7206651122492	24	84.6	S032 English Sem8	"Student: S032
+1	8.70820393249937	24	84.6	S032 English Sem8	"Student: S032
 Subject: English
 Grade: 84.6%
 Study Hours: 24
 Attendance: 78%
 Performance: Good"
-1	9.96084166404533	21	78.4	S033 English Sem8	"Student: S033
+1	8.12372435695795	21	78.4	S033 English Sem8	"Student: S033
 Subject: English
 Grade: 78.4%
 Study Hours: 21
 Attendance: 75%
 Performance: Good"
-1	10.2219219164378	13	75	S034 English Sem8	"Student: S034
+1	8.32455532033676	13	75	S034 English Sem8	"Student: S034
 Subject: English
 Grade: 75%
 Study Hours: 13
 Attendance: 76%
 Performance: Satisfactory"
-1	11.4193948850231	16	75.7	S035 English Sem8	"Student: S035
+1	9.24568837309472	16	75.7	S035 English Sem8	"Student: S035
 Subject: English
 Grade: 75.7%
 Study Hours: 16
 Attendance: 81%
 Performance: Good"
-1	9.4111402631444	12	74.9	S036 English Sem8	"Student: S036
+1	7.70087712549569	12	74.9	S036 English Sem8	"Student: S036
 Subject: English
 Grade: 74.9%
 Study Hours: 12
 Attendance: 73%
 Performance: Satisfactory"
-1	12.6805898713507	19	83.4	S037 English Sem8	"Student: S037
+1	10.2158383625775	19	83.4	S037 English Sem8	"Student: S037
 Subject: English
 Grade: 83.4%
 Study Hours: 19
 Attendance: 87%
 Performance: Good"
-1	9.96084166404533	15	74.1	S038 English Sem8	"Student: S038
+1	8.12372435695795	15	74.1	S038 English Sem8	"Student: S038
 Subject: English
 Grade: 74.1%
 Study Hours: 15
 Attendance: 75%
 Performance: Satisfactory"
-1	11.1923881554251	11	68	S039 English Sem8	"Student: S039
+1	9.07106781186548	11	68	S039 English Sem8	"Student: S039
 Subject: English
 Grade: 68%
 Study Hours: 11
 Attendance: 80%
 Performance: Satisfactory"
-1	11.6410580332244	12	77.1	S040 English Sem8	"Student: S040
+1	9.41619848709566	12	77.1	S040 English Sem8	"Student: S040
 Subject: English
 Grade: 77.1%
 Study Hours: 12
 Attendance: 82%
 Performance: Good"
-1	10.9596316888586	17	70.5	S041 English Sem8	"Student: S041
+1	8.89202437604511	17	70.5	S041 English Sem8	"Student: S041
 Subject: English
 Grade: 70.5%
 Study Hours: 17
 Attendance: 79%
 Performance: Satisfactory"
-1	10.2219219164378	20	79	S042 English Sem8	"Student: S042
+1	8.32455532033676	20	79	S042 English Sem8	"Student: S042
 Subject: English
 Grade: 79%
 Study Hours: 20
 Attendance: 76%
 Performance: Good"
-1	10.9596316888586	19	87.1	S043 English Sem8	"Student: S043
+1	8.89202437604511	19	87.1	S043 English Sem8	"Student: S043
 Subject: English
 Grade: 87.1%
 Study Hours: 19
 Attendance: 79%
 Performance: Excellent"
-1	12.6805898713507	24	93.7	S044 English Sem8	"Student: S044
+1	10.2158383625775	24	93.7	S044 English Sem8	"Student: S044
 Subject: English
 Grade: 93.7%
 Study Hours: 24
 Attendance: 87%
 Performance: Excellent"
-1	4.90688837074973	7	62.6	S045 English Sem8	"Student: S045
+1	4.23606797749979	7	62.6	S045 English Sem8	"Student: S045
 Subject: English
 Grade: 62.6%
 Study Hours: 7
 Attendance: 62%
 Performance: Satisfactory"
-1	12.4809350727881	24	85.3	S046 English Sem8	"Student: S046
+1	10.0622577482986	24	85.3	S046 English Sem8	"Student: S046
 Subject: English
 Grade: 85.3%
 Study Hours: 24
 Attendance: 86%
 Performance: Excellent"
-1	10.2219219164378	16	80	S047 English Sem8	"Student: S047
+1	8.32455532033676	16	80	S047 English Sem8	"Student: S047
 Subject: English
 Grade: 80%
 Study Hours: 16
 Attendance: 76%
 Performance: Good"
-1	12.0697567001393	19	84.8	S048 English Sem8	"Student: S048
+1	9.74596669241483	19	84.8	S048 English Sem8	"Student: S048
 Subject: English
 Grade: 84.8%
 Study Hours: 19
 Attendance: 84%
 Performance: Good"
-1	11.6410580332244	17	89.4	S049 English Sem8	"Student: S049
+1	9.41619848709566	17	89.4	S049 English Sem8	"Student: S049
 Subject: English
 Grade: 89.4%
 Study Hours: 17
 Attendance: 82%
 Performance: Excellent"
-1	13.0691011378522	20	94.6	S050 English Sem8	"Student: S050
+1	10.5146931829632	20	94.6	S050 English Sem8	"Student: S050
 Subject: English
 Grade: 94.6%
 Study Hours: 20
 Attendance: 89%
 Performance: Excellent"
-1	12.2774023955472	16	87.5	S001 History Sem8	"Student: S001
+1	9.90569415042095	16	87.5	S001 History Sem8	"Student: S001
 Subject: History
 Grade: 87.5%
 Study Hours: 16
 Attendance: 85%
 Performance: Excellent"
-1	11.4193948850231	14	86.4	S002 History Sem8	"Student: S002
+1	9.24568837309472	14	86.4	S002 History Sem8	"Student: S002
 Subject: History
 Grade: 86.4%
 Study Hours: 14
 Attendance: 81%
 Performance: Excellent"
-1	12.4809350727881	18	72.8	S003 History Sem8	"Student: S003
+1	10.0622577482986	18	72.8	S003 History Sem8	"Student: S003
 Subject: History
 Grade: 72.8%
 Study Hours: 18
 Attendance: 86%
 Performance: Satisfactory"
-1	8.5	18	75.9	S004 History Sem8	"Student: S004
+1	7	18	75.9	S004 History Sem8	"Student: S004
 Subject: History
 Grade: 75.9%
 Study Hours: 18
 Attendance: 70%
 Performance: Good"
-1	10.9596316888586	22	86.3	S005 History Sem8	"Student: S005
+1	8.89202437604511	22	86.3	S005 History Sem8	"Student: S005
 Subject: History
 Grade: 86.3%
 Study Hours: 22
 Attendance: 79%
 Performance: Excellent"
-1	14.1603865070153	22	97.5	S006 History Sem8	"Student: S006
+1	11.3541434669349	22	97.5	S006 History Sem8	"Student: S006
 Subject: History
 Grade: 97.5%
 Study Hours: 22
 Attendance: 95%
 Performance: Excellent"
-1	12.6805898713507	18	85.5	S007 History Sem8	"Student: S007
+1	10.2158383625775	18	85.5	S007 History Sem8	"Student: S007
 Subject: History
 Grade: 85.5%
 Study Hours: 18
 Attendance: 87%
 Performance: Excellent"
-1	10.2219219164378	13	77.9	S008 History Sem8	"Student: S008
+1	8.32455532033676	13	77.9	S008 History Sem8	"Student: S008
 Subject: History
 Grade: 77.9%
 Study Hours: 13
 Attendance: 76%
 Performance: Good"
-1	9.12039324756716	17	64.2	S009 History Sem8	"Student: S009
+1	7.47722557505166	17	64.2	S009 History Sem8	"Student: S009
 Subject: History
 Grade: 64.2%
 Study Hours: 17
 Attendance: 72%
 Performance: Satisfactory"
-1	9.6909037180295	23	74.6	S010 History Sem8	"Student: S010
+1	7.91607978309962	23	74.6	S010 History Sem8	"Student: S010
 Subject: History
 Grade: 74.6%
 Study Hours: 23
 Attendance: 74%
 Performance: Satisfactory"
-1	7.81377674149945	13	64.7	S011 History Sem8	"Student: S011
+1	6.47213595499958	13	64.7	S011 History Sem8	"Student: S011
 Subject: History
 Grade: 64.7%
 Study Hours: 13
 Attendance: 68%
 Performance: Satisfactory"
-1	10.4749631267634	25	85.2	S012 History Sem8	"Student: S012
+1	8.51920240520265	25	85.2	S012 History Sem8	"Student: S012
 Subject: History
 Grade: 85.2%
 Study Hours: 25
 Attendance: 77%
 Performance: Excellent"
-1	11.857738077267	17	93.2	S013 History Sem8	"Student: S013
+1	9.58287544405155	17	93.2	S013 History Sem8	"Student: S013
 Subject: History
 Grade: 93.2%
 Study Hours: 17
 Attendance: 83%
 Performance: Excellent"
-1	11.6410580332244	14	84.9	S014 History Sem8	"Student: S014
+1	9.41619848709566	14	84.9	S014 History Sem8	"Student: S014
 Subject: History
 Grade: 84.9%
 Study Hours: 14
 Attendance: 82%
 Performance: Good"
-1	7.03487835006964	7	50.1	S015 History Sem8	"Student: S015
+1	5.87298334620742	7	50.1	S015 History Sem8	"Student: S015
 Subject: History
 Grade: 50.1%
 Study Hours: 7
 Attendance: 66%
 Performance: Needs Improvement"
-1	12.2774023955472	13	80.4	S016 History Sem8	"Student: S016
+1	9.90569415042095	13	80.4	S016 History Sem8	"Student: S016
 Subject: History
 Grade: 80.4%
 Study Hours: 13
 Attendance: 85%
 Performance: Good"
-1	10.9596316888586	17	74.5	S017 History Sem8	"Student: S017
+1	8.89202437604511	17	74.5	S017 History Sem8	"Student: S017
 Subject: History
 Grade: 74.5%
 Study Hours: 17
 Attendance: 79%
 Performance: Satisfactory"
-1	9.96084166404533	15	79.6	S018 History Sem8	"Student: S018
+1	8.12372435695795	15	79.6	S018 History Sem8	"Student: S018
 Subject: History
 Grade: 79.6%
 Study Hours: 15
 Attendance: 75%
 Performance: Good"
-1	9.96084166404533	14	64.4	S019 History Sem8	"Student: S019
+1	8.12372435695795	14	64.4	S019 History Sem8	"Student: S019
 Subject: History
 Grade: 64.4%
 Study Hours: 14
 Attendance: 75%
 Performance: Satisfactory"
-1	4.05548047910945	6	55	S020 History Sem8	"Student: S020
+1	3.58113883008419	6	55	S020 History Sem8	"Student: S020
 Subject: History
 Grade: 55%
 Study Hours: 6
 Attendance: 61%
 Performance: Needs Improvement"
-1	11.857738077267	23	86.7	S021 History Sem8	"Student: S021
+1	9.58287544405155	23	86.7	S021 History Sem8	"Student: S021
 Subject: History
 Grade: 86.7%
 Study Hours: 23
 Attendance: 83%
 Performance: Excellent"
-1	9.96084166404533	15	83.6	S022 History Sem8	"Student: S022
+1	8.12372435695795	15	83.6	S022 History Sem8	"Student: S022
 Subject: History
 Grade: 83.6%
 Study Hours: 15
 Attendance: 75%
 Performance: Good"
-1	12.876580344943	22	87.9	S023 History Sem8	"Student: S023
+1	10.3666002653408	22	87.9	S023 History Sem8	"Student: S023
 Subject: History
 Grade: 87.9%
 Study Hours: 22
 Attendance: 88%
 Performance: Excellent"
-1	12.0697567001393	21	76.2	S024 History Sem8	"Student: S024
+1	9.74596669241483	21	76.2	S024 History Sem8	"Student: S024
 Subject: History
 Grade: 76.2%
 Study Hours: 21
 Attendance: 84%
 Performance: Good"
-1	10.2219219164378	17	84.1	S025 History Sem8	"Student: S025
+1	8.32455532033676	17	84.1	S025 History Sem8	"Student: S025
 Subject: History
 Grade: 84.1%
 Study Hours: 17
 Attendance: 76%
 Performance: Good"
-1	9.96084166404533	12	63.8	S026 History Sem8	"Student: S026
+1	8.12372435695795	12	63.8	S026 History Sem8	"Student: S026
 Subject: History
 Grade: 63.8%
 Study Hours: 12
 Attendance: 75%
 Performance: Satisfactory"
-1	12.0697567001393	20	77.5	S027 History Sem8	"Student: S027
+1	9.74596669241483	20	77.5	S027 History Sem8	"Student: S027
 Subject: History
 Grade: 77.5%
 Study Hours: 20
 Attendance: 84%
 Performance: Good"
-1	11.1923881554251	22	88.5	S028 History Sem8	"Student: S028
+1	9.07106781186548	22	88.5	S028 History Sem8	"Student: S028
 Subject: History
 Grade: 88.5%
 Study Hours: 22
 Attendance: 80%
 Performance: Excellent"
-1	10.2219219164378	7	62.5	S029 History Sem8	"Student: S029
+1	8.32455532033676	7	62.5	S029 History Sem8	"Student: S029
 Subject: History
 Grade: 62.5%
 Study Hours: 7
 Attendance: 76%
 Performance: Satisfactory"
-1	12.0697567001393	17	78.3	S030 History Sem8	"Student: S030
+1	9.74596669241483	17	78.3	S030 History Sem8	"Student: S030
 Subject: History
 Grade: 78.3%
 Study Hours: 17
 Attendance: 84%
 Performance: Good"
-1	10.2219219164378	7	61.3	S031 History Sem8	"Student: S031
+1	8.32455532033676	7	61.3	S031 History Sem8	"Student: S031
 Subject: History
 Grade: 61.3%
 Study Hours: 7
 Attendance: 76%
 Performance: Satisfactory"
-1	9.4111402631444	10	77.8	S032 History Sem8	"Student: S032
+1	7.70087712549569	10	77.8	S032 History Sem8	"Student: S032
 Subject: History
 Grade: 77.8%
 Study Hours: 10
 Attendance: 73%
 Performance: Good"
-1	11.857738077267	12	79	S033 History Sem8	"Student: S033
+1	9.58287544405155	12	79	S033 History Sem8	"Student: S033
 Subject: History
 Grade: 79%
 Study Hours: 12
 Attendance: 83%
 Performance: Good"
-1	11.6410580332244	26	93.1	S034 History Sem8	"Student: S034
+1	9.41619848709566	26	93.1	S034 History Sem8	"Student: S034
 Subject: History
 Grade: 93.1%
 Study Hours: 26
 Attendance: 82%
 Performance: Excellent"
-1	9.12039324756716	14	67.8	S035 History Sem8	"Student: S035
+1	7.47722557505166	14	67.8	S035 History Sem8	"Student: S035
 Subject: History
 Grade: 67.8%
 Study Hours: 14
 Attendance: 72%
 Performance: Satisfactory"
-1	9.4111402631444	16	85.2	S036 History Sem8	"Student: S036
+1	7.70087712549569	16	85.2	S036 History Sem8	"Student: S036
 Subject: History
 Grade: 85.2%
 Study Hours: 16
 Attendance: 73%
 Performance: Excellent"
-1	10.7206651122492	15	87.8	S037 History Sem8	"Student: S037
+1	8.70820393249937	15	87.8	S037 History Sem8	"Student: S037
 Subject: History
 Grade: 87.8%
 Study Hours: 15
 Attendance: 78%
 Performance: Excellent"
-1	13.6275534829989	23	85.1	S038 History Sem8	"Student: S038
+1	10.9442719099992	23	85.1	S038 History Sem8	"Student: S038
 Subject: History
 Grade: 85.1%
 Study Hours: 23
 Attendance: 92%
 Performance: Excellent"
-1	9.6909037180295	9	62.2	S039 History Sem8	"Student: S039
+1	7.91607978309962	9	62.2	S039 History Sem8	"Student: S039
 Subject: History
 Grade: 62.2%
 Study Hours: 9
 Attendance: 74%
 Performance: Satisfactory"
-1	10.2219219164378	14	75.7	S040 History Sem8	"Student: S040
+1	8.32455532033676	14	75.7	S040 History Sem8	"Student: S040
 Subject: History
 Grade: 75.7%
 Study Hours: 14
 Attendance: 76%
 Performance: Good"
-1	9.6909037180295	12	68.4	S041 History Sem8	"Student: S041
+1	7.91607978309962	12	68.4	S041 History Sem8	"Student: S041
 Subject: History
 Grade: 68.4%
 Study Hours: 12
 Attendance: 74%
 Performance: Satisfactory"
-1	12.876580344943	18	87.6	S042 History Sem8	"Student: S042
+1	10.3666002653408	18	87.6	S042 History Sem8	"Student: S042
 Subject: History
 Grade: 87.6%
 Study Hours: 18
 Attendance: 88%
 Performance: Excellent"
-1	12.2774023955472	18	87.5	S043 History Sem8	"Student: S043
+1	9.90569415042095	18	87.5	S043 History Sem8	"Student: S043
 Subject: History
 Grade: 87.5%
 Study Hours: 18
 Attendance: 85%
 Performance: Excellent"
-1	13.0691011378522	23	97.2	S044 History Sem8	"Student: S044
+1	10.5146931829632	23	97.2	S044 History Sem8	"Student: S044
 Subject: History
 Grade: 97.2%
 Study Hours: 23
 Attendance: 89%
 Performance: Excellent"
-1	7.81377674149945	8	60.6	S045 History Sem8	"Student: S045
+1	6.47213595499958	8	60.6	S045 History Sem8	"Student: S045
 Subject: History
 Grade: 60.6%
 Study Hours: 8
 Attendance: 68%
 Performance: Satisfactory"
-1	10.7206651122492	10	73.1	S046 History Sem8	"Student: S046
+1	8.70820393249937	10	73.1	S046 History Sem8	"Student: S046
 Subject: History
 Grade: 73.1%
 Study Hours: 10
 Attendance: 78%
 Performance: Satisfactory"
-1	10.2219219164378	9	71.1	S047 History Sem8	"Student: S047
+1	8.32455532033676	9	71.1	S047 History Sem8	"Student: S047
 Subject: History
 Grade: 71.1%
 Study Hours: 9
 Attendance: 76%
 Performance: Satisfactory"
-1	12.0697567001393	18	82.8	S048 History Sem8	"Student: S048
+1	9.74596669241483	18	82.8	S048 History Sem8	"Student: S048
 Subject: History
 Grade: 82.8%
 Study Hours: 18
 Attendance: 84%
 Performance: Good"
-1	12.876580344943	14	86.6	S049 History Sem8	"Student: S049
+1	10.3666002653408	14	86.6	S049 History Sem8	"Student: S049
 Subject: History
 Grade: 86.6%
 Study Hours: 14
 Attendance: 88%
 Performance: Excellent"
-1	13.4444309600784	26	100	S050 History Sem8	"Student: S050
+1	10.8034084308295	26	100	S050 History Sem8	"Student: S050
 Subject: History
 Grade: 100%
 Study Hours: 26

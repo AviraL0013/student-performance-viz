@@ -1,0 +1,289 @@
+group	size	y	key	tooltip
+1	6.77171134256227	66.8	S007 Mathematics Sem1	"Student: S007
+Subject: Mathematics
+Semester: Sem1
+Grade: 66.8%
+Study Hours: 11
+Attendance: 68%"
+1	6.32633674318044	63.3	S007 Physics Sem1	"Student: S007
+Subject: Physics
+Semester: Sem1
+Grade: 63.3%
+Study Hours: 9
+Attendance: 65%"
+1	7.35519711786779	67	S007 Chemistry Sem1	"Student: S007
+Subject: Chemistry
+Semester: Sem1
+Grade: 67%
+Study Hours: 14
+Attendance: 72%"
+1	6.55600355600534	63.6	S007 Biology Sem1	"Student: S007
+Subject: Biology
+Semester: Sem1
+Grade: 63.6%
+Study Hours: 10
+Attendance: 77%"
+1	6.77171134256227	70.1	S007 English Sem1	"Student: S007
+Subject: English
+Semester: Sem1
+Grade: 70.1%
+Study Hours: 11
+Attendance: 74%"
+1	8.0289484567497	69.8	S007 History Sem1	"Student: S007
+Subject: History
+Semester: Sem1
+Grade: 69.8%
+Study Hours: 18
+Attendance: 69%"
+1	7.35519711786779	68	S007 Mathematics Sem2	"Student: S007
+Subject: Mathematics
+Semester: Sem2
+Grade: 68%
+Study Hours: 14
+Attendance: 71%"
+1	7.1697837802689	67.6	S007 Physics Sem2	"Student: S007
+Subject: Physics
+Semester: Sem2
+Grade: 67.6%
+Study Hours: 13
+Attendance: 73%"
+1	6.97573283972945	69.7	S007 Chemistry Sem2	"Student: S007
+Subject: Chemistry
+Semester: Sem2
+Grade: 69.7%
+Study Hours: 12
+Attendance: 74%"
+1	5.51447422837485	58.9	S007 Biology Sem2	"Student: S007
+Subject: Biology
+Semester: Sem2
+Grade: 58.9%
+Study Hours: 6
+Attendance: 68%"
+1	6.07958941544842	62.9	S007 English Sem2	"Student: S007
+Subject: English
+Semester: Sem2
+Grade: 62.9%
+Study Hours: 8
+Attendance: 68%"
+1	6.97573283972945	71.8	S007 History Sem2	"Student: S007
+Subject: History
+Semester: Sem2
+Grade: 71.8%
+Study Hours: 12
+Attendance: 77%"
+1	6.55600355600534	63.1	S007 Mathematics Sem3	"Student: S007
+Subject: Mathematics
+Semester: Sem3
+Grade: 63.1%
+Study Hours: 10
+Attendance: 76%"
+1	7.1697837802689	68.2	S007 Physics Sem3	"Student: S007
+Subject: Physics
+Semester: Sem3
+Grade: 68.2%
+Study Hours: 13
+Attendance: 75%"
+1	7.53303288061913	68.9	S007 Chemistry Sem3	"Student: S007
+Subject: Chemistry
+Semester: Sem3
+Grade: 68.9%
+Study Hours: 15
+Attendance: 71%"
+1	7.35519711786779	65.9	S007 Biology Sem3	"Student: S007
+Subject: Biology
+Semester: Sem3
+Grade: 65.9%
+Study Hours: 14
+Attendance: 72%"
+1	6.97573283972945	81	S007 English Sem3	"Student: S007
+Subject: English
+Semester: Sem3
+Grade: 81%
+Study Hours: 12
+Attendance: 82%"
+1	6.97573283972945	71	S007 History Sem3	"Student: S007
+Subject: History
+Semester: Sem3
+Grade: 71%
+Study Hours: 12
+Attendance: 71%"
+1	8.0289484567497	70.2	S007 Mathematics Sem4	"Student: S007
+Subject: Mathematics
+Semester: Sem4
+Grade: 70.2%
+Study Hours: 18
+Attendance: 73%"
+1	5.81126765115875	66	S007 Physics Sem4	"Student: S007
+Subject: Physics
+Semester: Sem4
+Grade: 66%
+Study Hours: 7
+Attendance: 75%"
+1	7.53303288061913	74.1	S007 Chemistry Sem4	"Student: S007
+Subject: Chemistry
+Semester: Sem4
+Grade: 74.1%
+Study Hours: 15
+Attendance: 72%"
+1	8.76138424227171	85.9	S007 Biology Sem4	"Student: S007
+Subject: Biology
+Semester: Sem4
+Grade: 85.9%
+Study Hours: 23
+Attendance: 87%"
+1	7.35519711786779	76.1	S007 English Sem4	"Student: S007
+Subject: English
+Semester: Sem4
+Grade: 76.1%
+Study Hours: 14
+Attendance: 72%"
+1	7.35519711786779	71.3	S007 History Sem4	"Student: S007
+Subject: History
+Semester: Sem4
+Grade: 71.3%
+Study Hours: 14
+Attendance: 67%"
+1	7.35519711786779	76.4	S007 Mathematics Sem5	"Student: S007
+Subject: Mathematics
+Semester: Sem5
+Grade: 76.4%
+Study Hours: 14
+Attendance: 86%"
+1	6.32633674318044	77.1	S007 Physics Sem5	"Student: S007
+Subject: Physics
+Semester: Sem5
+Grade: 77.1%
+Study Hours: 9
+Attendance: 74%"
+1	8.18372141824148	83.7	S007 Chemistry Sem5	"Student: S007
+Subject: Chemistry
+Semester: Sem5
+Grade: 83.7%
+Study Hours: 19
+Attendance: 81%"
+1	6.55600355600534	70	S007 Biology Sem5	"Student: S007
+Subject: Biology
+Semester: Sem5
+Grade: 70%
+Study Hours: 10
+Attendance: 62%"
+1	6.97573283972945	77.9	S007 English Sem5	"Student: S007
+Subject: English
+Semester: Sem5
+Grade: 77.9%
+Study Hours: 12
+Attendance: 77%"
+1	8.334005334008	84.5	S007 History Sem5	"Student: S007
+Subject: History
+Semester: Sem5
+Grade: 84.5%
+Study Hours: 20
+Attendance: 78%"
+1	5.17759855893389	63.4	S007 Mathematics Sem6	"Student: S007
+Subject: Mathematics
+Semester: Sem6
+Grade: 63.4%
+Study Hours: 5
+Attendance: 85%"
+1	8.0289484567497	78.6	S007 Physics Sem6	"Student: S007
+Subject: Physics
+Semester: Sem6
+Grade: 78.6%
+Study Hours: 18
+Attendance: 81%"
+1	7.53303288061913	73.1	S007 Chemistry Sem6	"Student: S007
+Subject: Chemistry
+Semester: Sem6
+Grade: 73.1%
+Study Hours: 15
+Attendance: 70%"
+1	7.86925840548177	84.4	S007 Biology Sem6	"Student: S007
+Subject: Biology
+Semester: Sem6
+Grade: 84.4%
+Study Hours: 17
+Attendance: 87%"
+1	7.70415053522573	74.8	S007 English Sem6	"Student: S007
+Subject: English
+Semester: Sem6
+Grade: 74.8%
+Study Hours: 16
+Attendance: 78%"
+1	8.0289484567497	82.2	S007 History Sem6	"Student: S007
+Subject: History
+Semester: Sem6
+Grade: 82.2%
+Study Hours: 18
+Attendance: 75%"
+1	7.70415053522573	71	S007 Mathematics Sem7	"Student: S007
+Subject: Mathematics
+Semester: Sem7
+Grade: 71%
+Study Hours: 16
+Attendance: 82%"
+1	8.334005334008	73.6	S007 Physics Sem7	"Student: S007
+Subject: Physics
+Semester: Sem7
+Grade: 73.6%
+Study Hours: 20
+Attendance: 74%"
+1	6.77171134256227	64.7	S007 Chemistry Sem7	"Student: S007
+Subject: Chemistry
+Semester: Sem7
+Grade: 64.7%
+Study Hours: 11
+Attendance: 71%"
+1	7.70415053522573	84.2	S007 Biology Sem7	"Student: S007
+Subject: Biology
+Semester: Sem7
+Grade: 84.2%
+Study Hours: 16
+Attendance: 77%"
+1	7.53303288061913	77.8	S007 English Sem7	"Student: S007
+Subject: English
+Semester: Sem7
+Grade: 77.8%
+Study Hours: 15
+Attendance: 74%"
+1	7.70415053522573	83.6	S007 History Sem7	"Student: S007
+Subject: History
+Semester: Sem7
+Grade: 83.6%
+Study Hours: 16
+Attendance: 77%"
+1	7.86925840548177	74.2	S007 Mathematics Sem8	"Student: S007
+Subject: Mathematics
+Semester: Sem8
+Grade: 74.2%
+Study Hours: 17
+Attendance: 81%"
+1	8.48016952881169	88.1	S007 Physics Sem8	"Student: S007
+Subject: Physics
+Semester: Sem8
+Grade: 88.1%
+Study Hours: 21
+Attendance: 95%"
+1	7.86925840548177	75.8	S007 Chemistry Sem8	"Student: S007
+Subject: Chemistry
+Semester: Sem8
+Grade: 75.8%
+Study Hours: 17
+Attendance: 72%"
+1	7.70415053522573	84.8	S007 Biology Sem8	"Student: S007
+Subject: Biology
+Semester: Sem8
+Grade: 84.8%
+Study Hours: 16
+Attendance: 80%"
+1	7.1697837802689	85.9	S007 English Sem8	"Student: S007
+Subject: English
+Semester: Sem8
+Grade: 85.9%
+Study Hours: 13
+Attendance: 75%"
+1	8.0289484567497	85.5	S007 History Sem8	"Student: S007
+Subject: History
+Semester: Sem8
+Grade: 85.5%
+Study Hours: 18
+Attendance: 87%"

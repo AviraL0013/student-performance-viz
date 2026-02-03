@@ -1,0 +1,289 @@
+group	size	y	key	tooltip
+1	6.77171134256227	54.9	S016 Mathematics Sem1	"Student: S016
+Subject: Mathematics
+Semester: Sem1
+Grade: 54.9%
+Study Hours: 11
+Attendance: 63%"
+1	4.77800177800267	48.4	S016 Physics Sem1	"Student: S016
+Subject: Physics
+Semester: Sem1
+Grade: 48.4%
+Study Hours: 4
+Attendance: 67%"
+1	6.07958941544842	55.4	S016 Chemistry Sem1	"Student: S016
+Subject: Chemistry
+Semester: Sem1
+Grade: 55.4%
+Study Hours: 8
+Attendance: 65%"
+1	7.35519711786779	62.5	S016 Biology Sem1	"Student: S016
+Subject: Biology
+Semester: Sem1
+Grade: 62.5%
+Study Hours: 14
+Attendance: 69%"
+1	6.55600355600534	65.6	S016 English Sem1	"Student: S016
+Subject: English
+Semester: Sem1
+Grade: 65.6%
+Study Hours: 10
+Attendance: 68%"
+1	7.53303288061913	61.4	S016 History Sem1	"Student: S016
+Subject: History
+Semester: Sem1
+Grade: 61.4%
+Study Hours: 15
+Attendance: 70%"
+1	6.32633674318044	54.9	S016 Mathematics Sem2	"Student: S016
+Subject: Mathematics
+Semester: Sem2
+Grade: 54.9%
+Study Hours: 9
+Attendance: 60%"
+1	7.35519711786779	59.9	S016 Physics Sem2	"Student: S016
+Subject: Physics
+Semester: Sem2
+Grade: 59.9%
+Study Hours: 14
+Attendance: 73%"
+1	6.77171134256227	60.3	S016 Chemistry Sem2	"Student: S016
+Subject: Chemistry
+Semester: Sem2
+Grade: 60.3%
+Study Hours: 11
+Attendance: 72%"
+1	6.07958941544842	58.3	S016 Biology Sem2	"Student: S016
+Subject: Biology
+Semester: Sem2
+Grade: 58.3%
+Study Hours: 8
+Attendance: 71%"
+1	7.1697837802689	65.8	S016 English Sem2	"Student: S016
+Subject: English
+Semester: Sem2
+Grade: 65.8%
+Study Hours: 13
+Attendance: 74%"
+1	6.77171134256227	61.2	S016 History Sem2	"Student: S016
+Subject: History
+Semester: Sem2
+Grade: 61.2%
+Study Hours: 11
+Attendance: 69%"
+1	6.77171134256227	62.1	S016 Mathematics Sem3	"Student: S016
+Subject: Mathematics
+Semester: Sem3
+Grade: 62.1%
+Study Hours: 11
+Attendance: 67%"
+1	6.77171134256227	59.7	S016 Physics Sem3	"Student: S016
+Subject: Physics
+Semester: Sem3
+Grade: 59.7%
+Study Hours: 11
+Attendance: 72%"
+1	5.17759855893389	58.5	S016 Chemistry Sem3	"Student: S016
+Subject: Chemistry
+Semester: Sem3
+Grade: 58.5%
+Study Hours: 5
+Attendance: 70%"
+1	6.07958941544842	63.9	S016 Biology Sem3	"Student: S016
+Subject: Biology
+Semester: Sem3
+Grade: 63.9%
+Study Hours: 8
+Attendance: 72%"
+1	7.35519711786779	64.8	S016 English Sem3	"Student: S016
+Subject: English
+Semester: Sem3
+Grade: 64.8%
+Study Hours: 14
+Attendance: 73%"
+1	6.55600355600534	63.9	S016 History Sem3	"Student: S016
+Subject: History
+Semester: Sem3
+Grade: 63.9%
+Study Hours: 10
+Attendance: 74%"
+1	6.55600355600534	59.8	S016 Mathematics Sem4	"Student: S016
+Subject: Mathematics
+Semester: Sem4
+Grade: 59.8%
+Study Hours: 10
+Attendance: 61%"
+1	7.86925840548177	59.8	S016 Physics Sem4	"Student: S016
+Subject: Physics
+Semester: Sem4
+Grade: 59.8%
+Study Hours: 17
+Attendance: 73%"
+1	7.86925840548177	67.4	S016 Chemistry Sem4	"Student: S016
+Subject: Chemistry
+Semester: Sem4
+Grade: 67.4%
+Study Hours: 17
+Attendance: 76%"
+1	6.77171134256227	60.8	S016 Biology Sem4	"Student: S016
+Subject: Biology
+Semester: Sem4
+Grade: 60.8%
+Study Hours: 11
+Attendance: 74%"
+1	6.55600355600534	68.3	S016 English Sem4	"Student: S016
+Subject: English
+Semester: Sem4
+Grade: 68.3%
+Study Hours: 10
+Attendance: 67%"
+1	7.1697837802689	71.8	S016 History Sem4	"Student: S016
+Subject: History
+Semester: Sem4
+Grade: 71.8%
+Study Hours: 13
+Attendance: 80%"
+1	7.1697837802689	69.4	S016 Mathematics Sem5	"Student: S016
+Subject: Mathematics
+Semester: Sem5
+Grade: 69.4%
+Study Hours: 13
+Attendance: 76%"
+1	6.32633674318044	66.3	S016 Physics Sem5	"Student: S016
+Subject: Physics
+Semester: Sem5
+Grade: 66.3%
+Study Hours: 9
+Attendance: 75%"
+1	6.77171134256227	63.9	S016 Chemistry Sem5	"Student: S016
+Subject: Chemistry
+Semester: Sem5
+Grade: 63.9%
+Study Hours: 11
+Attendance: 78%"
+1	5.51447422837485	68.9	S016 Biology Sem5	"Student: S016
+Subject: Biology
+Semester: Sem5
+Grade: 68.9%
+Study Hours: 6
+Attendance: 79%"
+1	7.53303288061913	68.7	S016 English Sem5	"Student: S016
+Subject: English
+Semester: Sem5
+Grade: 68.7%
+Study Hours: 15
+Attendance: 72%"
+1	7.86925840548177	69.7	S016 History Sem5	"Student: S016
+Subject: History
+Semester: Sem5
+Grade: 69.7%
+Study Hours: 17
+Attendance: 69%"
+1	6.32633674318044	68.6	S016 Mathematics Sem6	"Student: S016
+Subject: Mathematics
+Semester: Sem6
+Grade: 68.6%
+Study Hours: 9
+Attendance: 72%"
+1	6.55600355600534	69.1	S016 Physics Sem6	"Student: S016
+Subject: Physics
+Semester: Sem6
+Grade: 69.1%
+Study Hours: 10
+Attendance: 79%"
+1	7.35519711786779	72	S016 Chemistry Sem6	"Student: S016
+Subject: Chemistry
+Semester: Sem6
+Grade: 72%
+Study Hours: 14
+Attendance: 80%"
+1	6.97573283972945	68.1	S016 Biology Sem6	"Student: S016
+Subject: Biology
+Semester: Sem6
+Grade: 68.1%
+Study Hours: 12
+Attendance: 71%"
+1	6.97573283972945	59.8	S016 English Sem6	"Student: S016
+Subject: English
+Semester: Sem6
+Grade: 59.8%
+Study Hours: 12
+Attendance: 78%"
+1	8.18372141824148	80.4	S016 History Sem6	"Student: S016
+Subject: History
+Semester: Sem6
+Grade: 80.4%
+Study Hours: 19
+Attendance: 76%"
+1	6.55600355600534	69.1	S016 Mathematics Sem7	"Student: S016
+Subject: Mathematics
+Semester: Sem7
+Grade: 69.1%
+Study Hours: 10
+Attendance: 78%"
+1	6.32633674318044	68.7	S016 Physics Sem7	"Student: S016
+Subject: Physics
+Semester: Sem7
+Grade: 68.7%
+Study Hours: 9
+Attendance: 69%"
+1	6.77171134256227	67.9	S016 Chemistry Sem7	"Student: S016
+Subject: Chemistry
+Semester: Sem7
+Grade: 67.9%
+Study Hours: 11
+Attendance: 68%"
+1	7.86925840548177	71.7	S016 Biology Sem7	"Student: S016
+Subject: Biology
+Semester: Sem7
+Grade: 71.7%
+Study Hours: 17
+Attendance: 76%"
+1	6.32633674318044	74.6	S016 English Sem7	"Student: S016
+Subject: English
+Semester: Sem7
+Grade: 74.6%
+Study Hours: 9
+Attendance: 76%"
+1	8.62253530231749	79.7	S016 History Sem7	"Student: S016
+Subject: History
+Semester: Sem7
+Grade: 79.7%
+Study Hours: 22
+Attendance: 80%"
+1	7.1697837802689	77	S016 Mathematics Sem8	"Student: S016
+Subject: Mathematics
+Semester: Sem8
+Grade: 77%
+Study Hours: 13
+Attendance: 78%"
+1	7.70415053522573	69.7	S016 Physics Sem8	"Student: S016
+Subject: Physics
+Semester: Sem8
+Grade: 69.7%
+Study Hours: 16
+Attendance: 74%"
+1	6.77171134256227	69.3	S016 Chemistry Sem8	"Student: S016
+Subject: Chemistry
+Semester: Sem8
+Grade: 69.3%
+Study Hours: 11
+Attendance: 73%"
+1	7.53303288061913	65.9	S016 Biology Sem8	"Student: S016
+Subject: Biology
+Semester: Sem8
+Grade: 65.9%
+Study Hours: 15
+Attendance: 80%"
+1	8.0289484567497	87.2	S016 English Sem8	"Student: S016
+Subject: English
+Semester: Sem8
+Grade: 87.2%
+Study Hours: 18
+Attendance: 77%"
+1	7.1697837802689	80.4	S016 History Sem8	"Student: S016
+Subject: History
+Semester: Sem8
+Grade: 80.4%
+Study Hours: 13
+Attendance: 85%"

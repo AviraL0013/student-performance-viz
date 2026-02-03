@@ -1,0 +1,289 @@
+group	size	y	key	tooltip
+1	6.32633674318044	63.2	S049 Mathematics Sem1	"Student: S049
+Subject: Mathematics
+Semester: Sem1
+Grade: 63.2%
+Study Hours: 9
+Attendance: 71%"
+1	6.97573283972945	69.8	S049 Physics Sem1	"Student: S049
+Subject: Physics
+Semester: Sem1
+Grade: 69.8%
+Study Hours: 12
+Attendance: 76%"
+1	7.35519711786779	77.9	S049 Chemistry Sem1	"Student: S049
+Subject: Chemistry
+Semester: Sem1
+Grade: 77.9%
+Study Hours: 14
+Attendance: 81%"
+1	6.97573283972945	62.8	S049 Biology Sem1	"Student: S049
+Subject: Biology
+Semester: Sem1
+Grade: 62.8%
+Study Hours: 12
+Attendance: 71%"
+1	6.07958941544842	64	S049 English Sem1	"Student: S049
+Subject: English
+Semester: Sem1
+Grade: 64%
+Study Hours: 8
+Attendance: 74%"
+1	6.97573283972945	65.7	S049 History Sem1	"Student: S049
+Subject: History
+Semester: Sem1
+Grade: 65.7%
+Study Hours: 12
+Attendance: 68%"
+1	5.51447422837485	58.6	S049 Mathematics Sem2	"Student: S049
+Subject: Mathematics
+Semester: Sem2
+Grade: 58.6%
+Study Hours: 6
+Attendance: 76%"
+1	7.1697837802689	68.3	S049 Physics Sem2	"Student: S049
+Subject: Physics
+Semester: Sem2
+Grade: 68.3%
+Study Hours: 13
+Attendance: 75%"
+1	5.17759855893389	60.8	S049 Chemistry Sem2	"Student: S049
+Subject: Chemistry
+Semester: Sem2
+Grade: 60.8%
+Study Hours: 5
+Attendance: 66%"
+1	6.77171134256227	68.5	S049 Biology Sem2	"Student: S049
+Subject: Biology
+Semester: Sem2
+Grade: 68.5%
+Study Hours: 11
+Attendance: 74%"
+1	8.0289484567497	75	S049 English Sem2	"Student: S049
+Subject: English
+Semester: Sem2
+Grade: 75%
+Study Hours: 18
+Attendance: 70%"
+1	6.32633674318044	70.9	S049 History Sem2	"Student: S049
+Subject: History
+Semester: Sem2
+Grade: 70.9%
+Study Hours: 9
+Attendance: 82%"
+1	7.86925840548177	76.1	S049 Mathematics Sem3	"Student: S049
+Subject: Mathematics
+Semester: Sem3
+Grade: 76.1%
+Study Hours: 17
+Attendance: 78%"
+1	7.35519711786779	74.6	S049 Physics Sem3	"Student: S049
+Subject: Physics
+Semester: Sem3
+Grade: 74.6%
+Study Hours: 14
+Attendance: 79%"
+1	7.53303288061913	66.1	S049 Chemistry Sem3	"Student: S049
+Subject: Chemistry
+Semester: Sem3
+Grade: 66.1%
+Study Hours: 15
+Attendance: 73%"
+1	7.1697837802689	84.3	S049 Biology Sem3	"Student: S049
+Subject: Biology
+Semester: Sem3
+Grade: 84.3%
+Study Hours: 13
+Attendance: 84%"
+1	8.76138424227171	80.7	S049 English Sem3	"Student: S049
+Subject: English
+Semester: Sem3
+Grade: 80.7%
+Study Hours: 23
+Attendance: 73%"
+1	7.35519711786779	70.6	S049 History Sem3	"Student: S049
+Subject: History
+Semester: Sem3
+Grade: 70.6%
+Study Hours: 14
+Attendance: 76%"
+1	6.07958941544842	62.3	S049 Mathematics Sem4	"Student: S049
+Subject: Mathematics
+Semester: Sem4
+Grade: 62.3%
+Study Hours: 8
+Attendance: 63%"
+1	6.97573283972945	63.3	S049 Physics Sem4	"Student: S049
+Subject: Physics
+Semester: Sem4
+Grade: 63.3%
+Study Hours: 12
+Attendance: 69%"
+1	8.0289484567497	73.5	S049 Chemistry Sem4	"Student: S049
+Subject: Chemistry
+Semester: Sem4
+Grade: 73.5%
+Study Hours: 18
+Attendance: 80%"
+1	8.18372141824148	67.1	S049 Biology Sem4	"Student: S049
+Subject: Biology
+Semester: Sem4
+Grade: 67.1%
+Study Hours: 19
+Attendance: 73%"
+1	8.0289484567497	71.4	S049 English Sem4	"Student: S049
+Subject: English
+Semester: Sem4
+Grade: 71.4%
+Study Hours: 18
+Attendance: 80%"
+1	7.35519711786779	77.6	S049 History Sem4	"Student: S049
+Subject: History
+Semester: Sem4
+Grade: 77.6%
+Study Hours: 14
+Attendance: 71%"
+1	7.1697837802689	73.8	S049 Mathematics Sem5	"Student: S049
+Subject: Mathematics
+Semester: Sem5
+Grade: 73.8%
+Study Hours: 13
+Attendance: 78%"
+1	7.53303288061913	71.4	S049 Physics Sem5	"Student: S049
+Subject: Physics
+Semester: Sem5
+Grade: 71.4%
+Study Hours: 15
+Attendance: 76%"
+1	6.32633674318044	72.8	S049 Chemistry Sem5	"Student: S049
+Subject: Chemistry
+Semester: Sem5
+Grade: 72.8%
+Study Hours: 9
+Attendance: 77%"
+1	7.1697837802689	81.1	S049 Biology Sem5	"Student: S049
+Subject: Biology
+Semester: Sem5
+Grade: 81.1%
+Study Hours: 13
+Attendance: 83%"
+1	8.334005334008	81.5	S049 English Sem5	"Student: S049
+Subject: English
+Semester: Sem5
+Grade: 81.5%
+Study Hours: 20
+Attendance: 71%"
+1	7.70415053522573	81.6	S049 History Sem5	"Student: S049
+Subject: History
+Semester: Sem5
+Grade: 81.6%
+Study Hours: 16
+Attendance: 88%"
+1	8.0289484567497	77.4	S049 Mathematics Sem6	"Student: S049
+Subject: Mathematics
+Semester: Sem6
+Grade: 77.4%
+Study Hours: 18
+Attendance: 94%"
+1	6.55600355600534	80.5	S049 Physics Sem6	"Student: S049
+Subject: Physics
+Semester: Sem6
+Grade: 80.5%
+Study Hours: 10
+Attendance: 78%"
+1	8.334005334008	75.8	S049 Chemistry Sem6	"Student: S049
+Subject: Chemistry
+Semester: Sem6
+Grade: 75.8%
+Study Hours: 20
+Attendance: 77%"
+1	7.86925840548177	81.9	S049 Biology Sem6	"Student: S049
+Subject: Biology
+Semester: Sem6
+Grade: 81.9%
+Study Hours: 17
+Attendance: 82%"
+1	8.334005334008	81.8	S049 English Sem6	"Student: S049
+Subject: English
+Semester: Sem6
+Grade: 81.8%
+Study Hours: 20
+Attendance: 86%"
+1	7.70415053522573	84.7	S049 History Sem6	"Student: S049
+Subject: History
+Semester: Sem6
+Grade: 84.7%
+Study Hours: 16
+Attendance: 82%"
+1	7.53303288061913	79.9	S049 Mathematics Sem7	"Student: S049
+Subject: Mathematics
+Semester: Sem7
+Grade: 79.9%
+Study Hours: 15
+Attendance: 75%"
+1	8.0289484567497	69.5	S049 Physics Sem7	"Student: S049
+Subject: Physics
+Semester: Sem7
+Grade: 69.5%
+Study Hours: 18
+Attendance: 70%"
+1	7.86925840548177	80.4	S049 Chemistry Sem7	"Student: S049
+Subject: Chemistry
+Semester: Sem7
+Grade: 80.4%
+Study Hours: 17
+Attendance: 77%"
+1	8.334005334008	77.8	S049 Biology Sem7	"Student: S049
+Subject: Biology
+Semester: Sem7
+Grade: 77.8%
+Study Hours: 20
+Attendance: 82%"
+1	7.70415053522573	76.5	S049 English Sem7	"Student: S049
+Subject: English
+Semester: Sem7
+Grade: 76.5%
+Study Hours: 16
+Attendance: 81%"
+1	7.53303288061913	81.5	S049 History Sem7	"Student: S049
+Subject: History
+Semester: Sem7
+Grade: 81.5%
+Study Hours: 15
+Attendance: 83%"
+1	7.53303288061913	82.1	S049 Mathematics Sem8	"Student: S049
+Subject: Mathematics
+Semester: Sem8
+Grade: 82.1%
+Study Hours: 15
+Attendance: 78%"
+1	7.70415053522573	75.2	S049 Physics Sem8	"Student: S049
+Subject: Physics
+Semester: Sem8
+Grade: 75.2%
+Study Hours: 16
+Attendance: 75%"
+1	6.55600355600534	81.5	S049 Chemistry Sem8	"Student: S049
+Subject: Chemistry
+Semester: Sem8
+Grade: 81.5%
+Study Hours: 10
+Attendance: 84%"
+1	8.76138424227171	87.4	S049 Biology Sem8	"Student: S049
+Subject: Biology
+Semester: Sem8
+Grade: 87.4%
+Study Hours: 23
+Attendance: 91%"
+1	7.86925840548177	89.4	S049 English Sem8	"Student: S049
+Subject: English
+Semester: Sem8
+Grade: 89.4%
+Study Hours: 17
+Attendance: 82%"
+1	7.35519711786779	86.6	S049 History Sem8	"Student: S049
+Subject: History
+Semester: Sem8
+Grade: 86.6%
+Study Hours: 14
+Attendance: 88%"

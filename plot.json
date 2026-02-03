@@ -1,57 +1,53 @@
 {
  "geoms": {
- "geom1_tallrect_scatterComplete": {
+ "geom1_tallrect_mainTrends": {
  "geom": "tallrect",
-"classed": "geom1_tallrect_scatterComplete",
+"classed": "geom1_tallrect_mainTrends",
 "aes": {
- "xmin": "year - 1/2",
-"xmax": "year + 1/2",
-"clickSelects": "year" 
+ "xmin": "sem_num - 0.5",
+"xmax": "sem_num + 0.5",
+"clickSelects": "semester" 
 },
 "params": {
  "na.rm": false,
 "na.rm": false,
-"alpha":      0.5,
-"clickSelects": "year",
-"help_clickSelects": "year" 
+"alpha":      0.2,
+"clickSelects": "semester",
+"help_clickSelects": "semester" 
 },
 "types": {
  "xmin": "numeric",
 "xmax": "numeric",
-"clickSelects": "numeric",
-"PANEL": "factor",
+"clickSelects": "character",
+"PANEL": "integer",
 "group": "character" 
 },
 "chunk_order": [],
-"nest_order": [
- "PANEL" 
-],
-"subset_order": [
- "PANEL" 
-],
+"nest_order": [],
+"subset_order": [],
 "chunks": 1,
 "total": 1 
 },
-"geom2_line_scatterComplete": {
+"geom2_line_mainTrends": {
  "geom": "line",
-"classed": "geom2_line_scatterComplete",
+"classed": "geom2_line_mainTrends",
 "aes": {
- "x": "year",
-"y": "life.expectancy",
-"group": "country",
-"colour": "Region",
-"clickSelects": "country",
-"showSelected1": "Region" 
+ "x": "sem_num",
+"y": "grade",
+"group": "interaction(student_id, subject)",
+"colour": "subject",
+"clickSelects": "student_id",
+"showSelected1": "subject" 
 },
 "params": {
  "na.rm": false,
 "na.rm": false,
-"size":        4,
-"alpha":      0.6,
-"clickSelects": "country",
-"showSelected": "Region",
-"help_clickSelects": "country",
-"help_showSelected": "Region" 
+"size":      0.8,
+"alpha":      0.1,
+"clickSelects": "student_id",
+"showSelected": "subject",
+"help_clickSelects": "student_id",
+"help_showSelected": "subject" 
 },
 "types": {
  "colour": "rgb",
@@ -60,41 +56,41 @@
 "group": "character",
 "clickSelects": "character",
 "showSelected1": "character",
-"PANEL": "factor" 
+"PANEL": "integer" 
 },
 "chunk_order": [],
 "nest_order": [
  "showSelected1",
-"PANEL",
 "group" 
 ],
 "subset_order": [
- "showSelected1",
-"PANEL" 
+ "showSelected1" 
 ],
 "chunks": 1,
 "total": 1 
 },
-"geom3_point_scatterComplete": {
+"geom3_point_mainTrends": {
  "geom": "point",
-"classed": "geom3_point_scatterComplete",
+"classed": "geom3_point_mainTrends",
 "aes": {
- "x": "fertility.rate",
-"y": "life.expectancy",
-"colour": "Region",
-"size": "population",
-"key": "country",
-"clickSelects": "country",
-"showSelected1": "year",
-"showSelected2": "Region" 
+ "x": "sem_num",
+"y": "grade",
+"colour": "subject",
+"size": "study_hours",
+"key": "paste(student_id, subject, semester)",
+"tooltip": "paste0(\"Student: \", student_id, \"\\n\", \"Subject: \", subject, \"\\n\", \"Semester: \", semester, \"\\n\", \"Grade: \", grade, \"%\\n\", \"Study Hours: \", study_hours, \"\\n\", \"Attendance: \", attendance, \"%\")",
+"clickSelects": "subject",
+"showSelected1": "student_id",
+"showSelected2": "subject" 
 },
 "params": {
  "na.rm": false,
 "na.rm": false,
-"clickSelects": "country",
-"showSelected": [ "year", "Region" ],
-"help_clickSelects": "country",
-"help_showSelected": [ "year", "Region" ] 
+"alpha":      0.7,
+"showSelected": [ "student_id", "subject" ],
+"clickSelects": "subject",
+"help_showSelected": [ "student_id", "subject" ],
+"help_clickSelects": "subject" 
 },
 "types": {
  "size": "numeric",
@@ -102,178 +98,184 @@
 "x": "numeric",
 "y": "numeric",
 "key": "character",
+"tooltip": "character",
 "clickSelects": "character",
-"showSelected1": "numeric",
+"showSelected1": "character",
 "showSelected2": "character",
-"PANEL": "factor",
+"PANEL": "integer",
 "group": "character",
 "fill": "rgb" 
 },
 "chunk_order": [
- "year" 
+ "student_id" 
 ],
 "nest_order": [
- "showSelected2",
-"PANEL" 
+ "showSelected2" 
 ],
 "subset_order": [
- "showSelected2",
-"PANEL" 
+ "showSelected2" 
 ],
+"columns": {
+ "common": [
+ "group",
+"clickSelects",
+"colour",
+"fill",
+"showSelected2",
+"x" 
+] 
+},
 "chunks": {
- "1960": 1,
-"1961": 2,
-"1962": 3,
-"1963": 4,
-"1964": 5,
-"1965": 6,
-"1966": 7,
-"1967": 8,
-"1968": 9,
-"1969": 10,
-"1970": 11,
-"1971": 12,
-"1972": 13,
-"1973": 14,
-"1974": 15,
-"1975": 16,
-"1976": 17,
-"1977": 18,
-"1978": 19,
-"1979": 20,
-"1980": 21,
-"1981": 22,
-"1982": 23,
-"1983": 24,
-"1984": 25,
-"1985": 26,
-"1986": 27,
-"1987": 28,
-"1988": 29,
-"1989": 30,
-"1990": 31,
-"1991": 32,
-"1992": 33,
-"1993": 34,
-"1994": 35,
-"1995": 36,
-"1996": 37,
-"1997": 38,
-"1998": 39,
-"1999": 40,
-"2000": 41,
-"2001": 42,
-"2002": 43,
-"2003": 44,
-"2004": 45,
-"2005": 46,
-"2006": 47,
-"2007": 48,
-"2008": 49,
-"2009": 50,
-"2010": 51,
-"2011": 52 
+ "S001": 1,
+"S002": 2,
+"S003": 3,
+"S004": 4,
+"S005": 5,
+"S006": 6,
+"S007": 7,
+"S008": 8,
+"S009": 9,
+"S010": 10,
+"S011": 11,
+"S012": 12,
+"S013": 13,
+"S014": 14,
+"S015": 15,
+"S016": 16,
+"S017": 17,
+"S018": 18,
+"S019": 19,
+"S020": 20,
+"S021": 21,
+"S022": 22,
+"S023": 23,
+"S024": 24,
+"S025": 25,
+"S026": 26,
+"S027": 27,
+"S028": 28,
+"S029": 29,
+"S030": 30,
+"S031": 31,
+"S032": 32,
+"S033": 33,
+"S034": 34,
+"S035": 35,
+"S036": 36,
+"S037": 37,
+"S038": 38,
+"S039": 39,
+"S040": 40,
+"S041": 41,
+"S042": 42,
+"S043": 43,
+"S044": 44,
+"S045": 45,
+"S046": 46,
+"S047": 47,
+"S048": 48,
+"S049": 49,
+"S050": 50 
 },
-"total": 52 
+"total": 50 
 },
-"geom4_widerect_scatterComplete": {
- "geom": "widerect",
-"classed": "geom4_widerect_scatterComplete",
+"geom4_text_mainTrends": {
+ "geom": "text",
+"classed": "geom4_text_mainTrends",
 "aes": {
- "ymin": "year - 1/2",
-"ymax": "year + 1/2",
-"clickSelects": "year" 
+ "x": "sem_num",
+"y": "grade",
+"label": "round(grade, 0)",
+"key": "paste(student_id, subject, semester)",
+"showSelected1": "student_id" 
 },
 "params": {
- "na.rm": false,
+ "parse": false,
+"check_overlap": false,
 "na.rm": false,
-"alpha":      0.5,
-"clickSelects": "year",
-"help_clickSelects": "year" 
+"na.rm": false,
+"size":      3.5,
+"vjust":     -1.2,
+"showSelected": "student_id",
+"help_showSelected": "student_id" 
 },
 "types": {
- "ymin": "numeric",
-"ymax": "numeric",
-"clickSelects": "numeric",
-"PANEL": "factor",
+ "x": "numeric",
+"y": "numeric",
+"label": "numeric",
+"key": "character",
+"showSelected1": "character",
+"PANEL": "integer",
 "group": "character" 
 },
 "chunk_order": [],
 "nest_order": [
- "PANEL" 
+ "showSelected1" 
 ],
 "subset_order": [
- "PANEL" 
+ "showSelected1" 
 ],
 "chunks": 1,
 "total": 1 
 },
-"geom5_path_scatterComplete": {
- "geom": "path",
-"classed": "geom5_path_scatterComplete",
+"geom5_point_studyAnalysis": {
+ "geom": "point",
+"classed": "geom5_point_studyAnalysis",
 "aes": {
- "x": "fertility.rate",
-"y": "year",
-"group": "country",
-"colour": "Region",
-"clickSelects": "country",
-"showSelected1": "Region" 
+ "x": "study_hours",
+"y": "grade",
+"colour": "subject",
+"showSelected1": "subject" 
 },
 "params": {
- "lineend": "butt",
-"linejoin": "round",
-"linemitre":        1,
+ "na.rm": false,
 "na.rm": false,
-"na.rm": false,
-"size":        4,
-"alpha":      0.6,
-"clickSelects": "country",
-"showSelected": "Region",
-"help_clickSelects": "country",
-"help_showSelected": "Region" 
+"alpha":     0.08,
+"size":        1,
+"showSelected": "subject",
+"help_showSelected": "subject" 
 },
 "types": {
  "colour": "rgb",
 "x": "numeric",
 "y": "numeric",
-"group": "character",
-"clickSelects": "character",
 "showSelected1": "character",
-"PANEL": "factor" 
+"PANEL": "integer",
+"group": "character",
+"fill": "rgb" 
 },
 "chunk_order": [],
 "nest_order": [
- "showSelected1",
-"PANEL",
-"group" 
+ "showSelected1" 
 ],
 "subset_order": [
- "showSelected1",
-"PANEL" 
+ "showSelected1" 
 ],
 "chunks": 1,
 "total": 1 
 },
-"geom6_point_scatterComplete": {
+"geom6_point_studyAnalysis": {
  "geom": "point",
-"classed": "geom6_point_scatterComplete",
+"classed": "geom6_point_studyAnalysis",
 "aes": {
- "x": "year",
-"y": "life.expectancy",
-"colour": "Region",
-"size": "population",
-"key": "country",
-"clickSelects": "country",
-"showSelected1": "country",
-"showSelected2": "Region" 
+ "x": "study_hours",
+"y": "grade",
+"colour": "subject",
+"size": "attendance",
+"key": "paste(student_id, subject, semester)",
+"tooltip": "paste0(\"Student: \", student_id, \"\\n\", \"Subject: \", subject, \"\\n\", \"Grade: \", grade, \"%\\n\", \"Study Hours: \", study_hours, \"\\n\", \"Attendance: \", attendance, \"%\\n\", \"Performance: \", performance_category)",
+"clickSelects": "subject",
+"showSelected1": "semester",
+"showSelected2": "subject" 
 },
 "params": {
  "na.rm": false,
 "na.rm": false,
-"showSelected": [ "country", "Region" ],
-"clickSelects": "country",
-"help_showSelected": [ "country", "Region" ],
-"help_clickSelects": "country" 
+"alpha":      0.6,
+"showSelected": [ "semester", "subject" ],
+"clickSelects": [ "student_id", "subject" ],
+"help_showSelected": [ "semester", "subject" ],
+"help_clickSelects": [ "student_id", "subject" ] 
 },
 "types": {
  "size": "numeric",
@@ -281,392 +283,514 @@
 "x": "numeric",
 "y": "numeric",
 "key": "character",
+"tooltip": "character",
 "clickSelects": "character",
 "showSelected1": "character",
 "showSelected2": "character",
-"PANEL": "factor",
+"PANEL": "integer",
 "group": "character",
 "fill": "rgb" 
 },
-"chunk_order": [],
+"chunk_order": [
+ "semester" 
+],
 "nest_order": [
- "showSelected1",
-"showSelected2",
-"PANEL" 
+ "showSelected2" 
 ],
 "subset_order": [
- "showSelected1",
-"showSelected2",
-"PANEL" 
+ "showSelected2" 
+],
+"columns": {
+ "common": [
+ "group",
+"clickSelects",
+"colour",
+"fill",
+"showSelected2" 
+] 
+},
+"chunks": {
+ "Sem1": 1,
+"Sem2": 2,
+"Sem3": 3,
+"Sem4": 4,
+"Sem5": 5,
+"Sem6": 6,
+"Sem7": 7,
+"Sem8": 8 
+},
+"total": 8 
+},
+"geom7_smooth_studyAnalysis": {
+ "geom": "smooth",
+"classed": "geom7_smooth_studyAnalysis",
+"aes": {
+ "x": "study_hours",
+"y": "grade",
+"colour": "subject",
+"showSelected1": "semester",
+"showSelected2": "subject" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"method": "lm",
+"formula": [
+ "~",
+"y",
+"x" 
+],
+"se": false,
+"size":      1.5,
+"alpha":      0.5,
+"showSelected": [ "semester", "subject" ],
+"help_showSelected": [ "semester", "subject" ] 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"showSelected1": "character",
+"showSelected2": "character",
+"PANEL": "integer",
+"group": "character" 
+},
+"chunk_order": [
+ "semester" 
+],
+"nest_order": [
+ "showSelected2" 
+],
+"subset_order": [
+ "showSelected2" 
+],
+"columns": {
+ "common": [
+ "group",
+"colour",
+"showSelected2" 
+] 
+},
+"chunks": {
+ "Sem1": 1,
+"Sem2": 2,
+"Sem3": 3,
+"Sem4": 4,
+"Sem5": 5,
+"Sem6": 6,
+"Sem7": 7,
+"Sem8": 8 
+},
+"total": 8 
+},
+"geom8_bar_subjectComparison": {
+ "geom": "rect",
+"classed": "geom8_bar_subjectComparison",
+"aes": {
+ "x": "subject",
+"y": "mean_grade",
+"fill": "subject",
+"key": "subject",
+"tooltip": "paste0(\"Subject: \", subject, \"\\n\", \"Semester: \", semester, \"\\n\", \"Mean: \", round(mean_grade, 1), \"%\\n\", \"Median: \", round(median_grade, 1), \"%\\n\", \"Range: \", round(min_grade, 1), \"-\", round(max_grade, 1), \"%\\n\", \"Students: \", count)",
+"clickSelects": "subject",
+"showSelected1": "semester" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"alpha":      0.7,
+"showSelected": "semester",
+"clickSelects": "subject",
+"help_showSelected": "semester",
+"help_clickSelects": "subject" 
+},
+"types": {
+ "fill": "rgb",
+"key": "character",
+"tooltip": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"PANEL": "integer",
+"group": "character",
+"ymin": "numeric",
+"ymax": "numeric",
+"xmin": "numeric",
+"xmax": "numeric" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1" 
+],
+"subset_order": [
+ "showSelected1" 
 ],
 "chunks": 1,
 "total": 1 
 },
-"geom7_text_scatterComplete": {
- "geom": "text",
-"classed": "geom7_text_scatterComplete",
+"geom9_point_subjectComparison": {
+ "geom": "point",
+"classed": "geom9_point_subjectComparison",
 "aes": {
- "x": "year",
-"y": "life.expectancy",
-"label": "country",
-"key": "country",
-"clickSelects": "country",
-"showSelected1": "country" 
+ "x": "subject",
+"y": "grade",
+"colour": "subject",
+"key": "paste(student_id, subject)",
+"clickSelects": "subject",
+"showSelected1": "semester" 
 },
 "params": {
- "parse": false,
-"check_overlap": false,
+ "na.rm": false,
 "na.rm": false,
-"na.rm": false,
-"vjust":        0,
-"size":        3,
-"showSelected": "country",
-"clickSelects": "country",
-"help_showSelected": "country",
-"help_clickSelects": "country",
-"anchor": "end" 
+"alpha":     0.25,
+"size":        2,
+"showSelected": "semester",
+"clickSelects": "subject",
+"help_showSelected": "semester",
+"help_clickSelects": "subject" 
 },
 "types": {
- "x": "numeric",
+ "colour": "rgb",
+"x": "numeric",
 "y": "numeric",
-"label": "character",
 "key": "character",
 "clickSelects": "character",
 "showSelected1": "character",
-"PANEL": "factor",
-"group": "character" 
+"PANEL": "integer",
+"group": "character",
+"fill": "rgb" 
 },
-"chunk_order": [],
-"nest_order": [
- "showSelected1",
-"PANEL" 
+"chunk_order": [
+ "semester" 
 ],
-"subset_order": [
- "showSelected1",
-"PANEL" 
-],
-"chunks": 1,
-"total": 1 
+"nest_order": [],
+"subset_order": [],
+"columns": {
+ "common": [
+ "group",
+"clickSelects",
+"colour",
+"fill",
+"key" 
+] 
 },
-"geom8_text_scatterComplete": {
- "geom": "text",
-"classed": "geom8_text_scatterComplete",
+"chunks": {
+ "Sem1": 1,
+"Sem2": 2,
+"Sem3": 3,
+"Sem4": 4,
+"Sem5": 5,
+"Sem6": 6,
+"Sem7": 7,
+"Sem8": 8 
+},
+"total": 8 
+},
+"geom10_bar_topPerformers": {
+ "geom": "rect",
+"classed": "geom10_bar_topPerformers",
 "aes": {
- "x": "7",
-"y": "80",
-"label": "paste(\"Year:\", year)",
-"key": "year",
-"showSelected1": "year" 
+ "x": "reorder(student_id, avg_grade)",
+"y": "avg_grade",
+"fill": "avg_grade",
+"key": "student_id",
+"tooltip": "paste0(\"Student: \", student_id, \"\\n\", \"Avg Grade: \", round(avg_grade, 1), \"%\\n\", \"Study Hours: \", total_study_hours, \"\\n\", \"Attendance: \", round(avg_attendance, 1), \"%\")",
+"clickSelects": "student_id",
+"showSelected1": "semester" 
 },
 "params": {
- "parse": false,
-"check_overlap": false,
+ "na.rm": false,
 "na.rm": false,
-"na.rm": false,
-"size":        6,
-"vjust":        1,
-"showSelected": "year",
-"help_showSelected": "year",
-"anchor": "end" 
+"showSelected": "semester",
+"clickSelects": "student_id",
+"help_showSelected": "semester",
+"help_clickSelects": "student_id" 
 },
 "types": {
- "x": "numeric",
-"y": "numeric",
-"label": "character",
-"key": "numeric",
-"showSelected1": "numeric",
-"PANEL": "factor",
-"group": "character" 
-},
-"chunk_order": [],
-"nest_order": [
- "showSelected1",
-"PANEL" 
-],
-"subset_order": [
- "showSelected1",
-"PANEL" 
-],
-"chunks": 1,
-"total": 1 
-},
-"geom9_text_scatterComplete": {
- "geom": "text",
-"classed": "geom9_text_scatterComplete",
-"aes": {
- "x": "fertility.rate",
-"y": "life.expectancy",
-"label": "country",
-"key": "country",
-"clickSelects": "country",
-"showSelected1": "country" 
-},
-"params": {
- "parse": false,
-"check_overlap": false,
-"na.rm": false,
-"na.rm": false,
-"vjust":        0,
-"size":        3,
-"showSelected": "country",
-"clickSelects": "country",
-"help_showSelected": "country",
-"help_clickSelects": "country",
-"anchor": "end" 
-},
-"types": {
- "x": "numeric",
-"y": "numeric",
-"label": "character",
+ "fill": "rgb",
 "key": "character",
+"tooltip": "character",
 "clickSelects": "character",
 "showSelected1": "character",
-"PANEL": "factor",
-"group": "character" 
+"PANEL": "integer",
+"group": "character",
+"xmin": "numeric",
+"xmax": "numeric",
+"ymin": "numeric",
+"ymax": "numeric" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1" 
+],
+"subset_order": [
+ "showSelected1" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom11_bar_attendanceImpact": {
+ "geom": "rect",
+"classed": "geom11_bar_attendanceImpact",
+"aes": {
+ "x": "attendance_bin",
+"y": "avg_grade",
+"fill": "subject",
+"key": "paste(attendance_bin, subject)",
+"tooltip": "paste0(\"Attendance: \", attendance_bin, \"\\n\", \"Subject: \", subject, \"\\n\", \"Avg Grade: \", round(avg_grade, 1), \"%\\n\", \"Students: \", count)",
+"clickSelects": "subject",
+"showSelected1": "semester",
+"showSelected2": "subject" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"showSelected": [ "semester", "subject" ],
+"clickSelects": "subject",
+"help_showSelected": [ "semester", "subject" ],
+"help_clickSelects": "subject" 
+},
+"types": {
+ "fill": "rgb",
+"key": "character",
+"tooltip": "character",
+"clickSelects": "character",
+"showSelected1": "character",
+"showSelected2": "character",
+"PANEL": "integer",
+"group": "character",
+"ymin": "numeric",
+"ymax": "numeric",
+"xmin": "numeric",
+"xmax": "numeric" 
 },
 "chunk_order": [],
 "nest_order": [
  "showSelected1",
-"PANEL" 
+"showSelected2" 
 ],
 "subset_order": [
  "showSelected1",
-"PANEL" 
+"showSelected2" 
 ],
 "chunks": 1,
 "total": 1 
 } 
 },
 "time": {
- "variable": "year",
+ "variable": "semester",
 "ms":     3000,
-"sequence": [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969", "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979", "1980", "1981", "1982", "1983", "1984", "1985", "1986", "1987", "1988", "1989", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011" ] 
+"sequence": [ "Sem1", "Sem2", "Sem3", "Sem4", "Sem5", "Sem6", "Sem7", "Sem8" ] 
 },
 "duration": {
- "year":     1000 
+ "semester":     1000,
+"student_id":      500 
 },
 "selectors": {
- "Region": {
- "type": "multiple",
-"legend": true,
+ "subject": {
+ "legend": true,
 "is.variable.value": false,
+"type": "multiple",
 "showSelected": true,
-"selected": [ "South Asia", "Europe & Central Asia", "Middle East & North Africa", "Sub-Saharan Africa", "Latin America & Caribbean", "East Asia & Pacific", "North America" ],
-"levels": [ "South Asia", "Europe & Central Asia", "Middle East & North Africa", "Sub-Saharan Africa", "Latin America & Caribbean", "East Asia & Pacific", "North America" ],
+"clickSelects": true,
+"selected": "Mathematics",
+"levels": [ "Biology", "Chemistry", "English", "History", "Mathematics", "Physics" ],
 "update": [
- "geom2_line_scatterComplete",
-"geom3_point_scatterComplete",
-"geom5_path_scatterComplete",
-"geom6_point_scatterComplete" 
+ "geom2_line_mainTrends",
+"geom3_point_mainTrends",
+"geom5_point_studyAnalysis",
+"geom6_point_studyAnalysis",
+"geom7_smooth_studyAnalysis",
+"geom8_bar_subjectComparison",
+"geom9_point_subjectComparison",
+"geom11_bar_attendanceImpact" 
 ] 
 },
-"year": {
+"semester": {
  "is.variable.value": false,
 "type": "single",
 "clickSelects": true,
 "showSelected": true,
-"chunks": "year",
-"selected": "1975",
-"levels": [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969", "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979", "1980", "1981", "1982", "1983", "1984", "1985", "1986", "1987", "1988", "1989", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011" ],
+"chunks": "semester",
+"selected": "Sem1",
+"levels": [ "Sem1", "Sem2", "Sem3", "Sem4", "Sem5", "Sem6", "Sem7", "Sem8" ],
 "update": [
- "geom1_tallrect_scatterComplete",
-"geom3_point_scatterComplete",
-"geom4_widerect_scatterComplete",
-"geom8_text_scatterComplete" 
+ "geom1_tallrect_mainTrends",
+"geom6_point_studyAnalysis",
+"geom7_smooth_studyAnalysis",
+"geom8_bar_subjectComparison",
+"geom9_point_subjectComparison",
+"geom10_bar_topPerformers",
+"geom11_bar_attendanceImpact" 
 ],
 "duration":     1000 
 },
-"country": {
+"student_id": {
  "is.variable.value": false,
-"type": "multiple",
+"type": "single",
 "clickSelects": true,
 "showSelected": true,
-"selected": [ "United States", "China", "India" ],
-"levels": [ "Afghanistan", "Albania", "Algeria", "Angola", "Antigua and Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas, The", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei Darussalam", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia", "Cameroon", "Canada", "Cape Verde", "Central African Republic", "Chad", "Channel Islands", "Chile", "China", "Colombia", "Comoros", "Congo, Dem. Rep.", "Congo, Rep.", "Costa Rica", "Cote d'Ivoire", "Croatia", "Cuba", "Curacao", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic", "Ecuador", "Egypt, Arab Rep.", "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Ethiopia", "Fiji", "Finland", "France", "French Polynesia", "Gabon", "Gambia, The", "Georgia", "Germany", "Ghana", "Greece", "Greenland", "Grenada", "Guam", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", "Haiti", "Honduras", "Hong Kong SAR, China", "Hungary", "Iceland", "India", "Indonesia", "Iran, Islamic Rep.", "Iraq", "Ireland", "Isle of Man", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Korea, Dem. Rep.", "Korea, Rep.", "Kosovo", "Kuwait", "Kyrgyz Republic", "Lao PDR", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya", "Lithuania", "Luxembourg", "Macao SAR, China", "Macedonia, FYR", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Mauritania", "Mauritius", "Mexico", "Micronesia, Fed. Sts.", "Moldova", "Mongolia", "Montenegro", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nepal", "Netherlands", "New Caledonia", "New Zealand", "Nicaragua", "Niger", "Nigeria", "Norway", "Oman", "Pakistan", "Palau", "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar", "Romania", "Russian Federation", "Rwanda", "Samoa", "Sao Tome and Principe", "Saudi Arabia", "Senegal", "Serbia", "Seychelles", "Sierra Leone", "Singapore", "Sint Maarten (Dutch part)", "Slovak Republic", "Slovenia", "Solomon Islands", "Somalia", "South Africa", "South Sudan", "Spain", "Sri Lanka", "St. Kitts and Nevis", "St. Lucia", "St. Vincent and the Grenadines", "Sudan", "Suriname", "Swaziland", "Sweden", "Switzerland", "Syrian Arab Republic", "Tajikistan", "Tanzania", "Thailand", "Timor-Leste", "Togo", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", "United States", "Uruguay", "Uzbekistan", "Vanuatu", "Venezuela, RB", "Vietnam", "Virgin Islands (U.S.)", "West Bank and Gaza", "Yemen, Rep.", "Zambia", "Zimbabwe" ],
+"chunks": "student_id",
+"selected": "S001",
+"levels": [ "S001", "S002", "S003", "S004", "S005", "S006", "S007", "S008", "S009", "S010", "S011", "S012", "S013", "S014", "S015", "S016", "S017", "S018", "S019", "S020", "S021", "S022", "S023", "S024", "S025", "S026", "S027", "S028", "S029", "S030", "S031", "S032", "S033", "S034", "S035", "S036", "S037", "S038", "S039", "S040", "S041", "S042", "S043", "S044", "S045", "S046", "S047", "S048", "S049", "S050" ],
 "update": [
- "geom2_line_scatterComplete",
-"geom3_point_scatterComplete",
-"geom5_path_scatterComplete",
-"geom6_point_scatterComplete",
-"geom7_text_scatterComplete",
-"geom9_text_scatterComplete" 
-] 
+ "geom2_line_mainTrends",
+"geom3_point_mainTrends",
+"geom4_text_mainTrends",
+"geom10_bar_topPerformers" 
+],
+"duration":      500 
 } 
 },
 "plots": {
- "scatterComplete": {
- "panel_margin_lines":        0,
+ "mainTrends": {
+ "panel_margin_lines":        1,
 "legend": {
- "population": {
+ "subject": {
  "guide": "legend",
-"geoms": [ "point", "point" ],
-"title": "population",
-"class": "population",
-"selector": null,
-"is_discrete": false,
-"legend_type": "size",
-"text_size": "9.6pt",
-"title_size": "12pt",
-"entries": [
- {
- "pointsize": 17.52569,
-"pointshape":       19,
-"pointcolour": "#000000",
-"pointstroke":      0.5,
-"label": "1e+09" 
-},
-{
- "pointsize": 6.909322,
-"pointshape":       19,
-"pointcolour": "#000000",
-"pointstroke":      0.5,
-"label": "1e+08" 
-},
-{
- "pointsize": 3.551409,
-"pointshape":       19,
-"pointcolour": "#000000",
-"pointstroke":      0.5,
-"label": "1e+07" 
-},
-{
- "pointsize": 2.487251,
-"pointshape":       19,
-"pointcolour": "#000000",
-"pointstroke":      0.5,
-"label": "1e+06" 
-},
-{
- "pointsize": 2.143066,
-"pointshape":       19,
-"pointcolour": "#000000",
-"pointstroke":      0.5,
-"label": "1e+05" 
-} 
-] 
-},
-"Region": {
- "guide": "legend",
-"geoms": [ "path", "point", "path", "point" ],
-"title": "Region",
-"class": "Region",
-"selector": "Region",
+"geoms": [ "path", "point" ],
+"title": "subject",
+"class": "subject",
+"selector": "subject",
 "is_discrete": true,
 "legend_type": "colour",
-"text_size": "9.6pt",
+"text_size": "12pt",
 "title_size": "12pt",
 "entries": [
  {
  "pathcolour": "#F8766D",
-"pathsize":        4,
+"pathsize":      0.8,
 "pathlinetype":        1,
-"pathalpha":      0.6,
-"label": "East Asia & Pacific",
+"pathalpha":      0.1,
+"label": "Biology",
 "pointcolour": "#F8766D",
 "pointshape":       19,
 "pointsize":      1.5,
+"pointalpha":      0.7,
 "pointstroke":      0.5 
 },
 {
- "pathcolour": "#C49A00",
-"pathsize":        4,
+ "pathcolour": "#B79F00",
+"pathsize":      0.8,
 "pathlinetype":        1,
-"pathalpha":      0.6,
-"label": "Europe & Central Asia",
-"pointcolour": "#C49A00",
+"pathalpha":      0.1,
+"label": "Chemistry",
+"pointcolour": "#B79F00",
 "pointshape":       19,
 "pointsize":      1.5,
+"pointalpha":      0.7,
 "pointstroke":      0.5 
 },
 {
- "pathcolour": "#53B400",
-"pathsize":        4,
+ "pathcolour": "#00BA38",
+"pathsize":      0.8,
 "pathlinetype":        1,
-"pathalpha":      0.6,
-"label": "Latin America & Caribbean",
-"pointcolour": "#53B400",
+"pathalpha":      0.1,
+"label": "English",
+"pointcolour": "#00BA38",
 "pointshape":       19,
 "pointsize":      1.5,
+"pointalpha":      0.7,
 "pointstroke":      0.5 
 },
 {
- "pathcolour": "#00C094",
-"pathsize":        4,
+ "pathcolour": "#00BFC4",
+"pathsize":      0.8,
 "pathlinetype":        1,
-"pathalpha":      0.6,
-"label": "Middle East & North Africa",
-"pointcolour": "#00C094",
+"pathalpha":      0.1,
+"label": "History",
+"pointcolour": "#00BFC4",
 "pointshape":       19,
 "pointsize":      1.5,
+"pointalpha":      0.7,
 "pointstroke":      0.5 
 },
 {
- "pathcolour": "#00B6EB",
-"pathsize":        4,
+ "pathcolour": "#619CFF",
+"pathsize":      0.8,
 "pathlinetype":        1,
-"pathalpha":      0.6,
-"label": "North America",
-"pointcolour": "#00B6EB",
+"pathalpha":      0.1,
+"label": "Mathematics",
+"pointcolour": "#619CFF",
 "pointshape":       19,
 "pointsize":      1.5,
+"pointalpha":      0.7,
 "pointstroke":      0.5 
 },
 {
- "pathcolour": "#A58AFF",
-"pathsize":        4,
+ "pathcolour": "#F564E3",
+"pathsize":      0.8,
 "pathlinetype":        1,
-"pathalpha":      0.6,
-"label": "South Asia",
-"pointcolour": "#A58AFF",
+"pathalpha":      0.1,
+"label": "Physics",
+"pointcolour": "#F564E3",
 "pointshape":       19,
 "pointsize":      1.5,
+"pointalpha":      0.7,
 "pointstroke":      0.5 
+} 
+] 
+},
+"Study Hours/Week": {
+ "guide": "legend",
+"geoms": "point",
+"title": "Study Hours/Week",
+"class": "Study Hours/Week",
+"selector": null,
+"is_discrete": false,
+"legend_type": "size",
+"text_size": "12pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pointsize": 9.652673,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointalpha":      0.7,
+"pointstroke":      0.5,
+"label": "30" 
 },
 {
- "pathcolour": "#FB61D7",
-"pathsize":        4,
-"pathlinetype":        1,
-"pathalpha":      0.6,
-"label": "Sub-Saharan Africa",
-"pointcolour": "#FB61D7",
+ "pointsize": 8.334005,
 "pointshape":       19,
-"pointsize":      1.5,
-"pointstroke":      0.5 
+"pointcolour": "#000000",
+"pointalpha":      0.7,
+"pointstroke":      0.5,
+"label": "20" 
+},
+{
+ "pointsize": 6.556004,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointalpha":      0.7,
+"pointstroke":      0.5,
+"label": "10" 
 } 
 ] 
 } 
 },
 "strips": {
- "right": [
- "",
-"Years",
-"",
-"Life expectancy" 
+ "top": [
+ "" 
 ],
-"top": [
- "Fertility rate",
-"Years",
-"",
-"" 
+"right": [
+ "" 
 ],
 "n": {
- "top":        1,
-"right":        1 
+ "top":        0,
+"right":        0 
 } 
 },
 "layout": {
- "PANEL": [ "1", "2", "3", "4" ],
-"ROW": [ 1, 1, 2, 2 ],
-"COL": [ 1, 2, 1, 2 ],
-"side": [ "Years", "Years", "Life expectancy", "Life expectancy" ],
-"top": [ "Fertility rate", "Years", "Fertility rate", "Years" ],
-"SCALE_X": [ 1, 2, 1, 2 ],
-"SCALE_Y": [ 1, 1, 2, 2 ],
-"AXIS_Y": [ true, false, true, false ],
-"AXIS_X": [ false, false, true, true ],
-"coord_fixed": [ false, false, false, false ],
-"width_proportion": [      0.5,      0.5,      0.5,      0.5 ],
-"height_proportion": [      0.5,      0.5,      0.5,      0.5 ] 
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [        1 ],
+"height_proportion": [        1 ] 
 },
 "panel_background": {
  "fill": "#FFFFFF",
@@ -688,58 +812,22 @@
 "loc": {
  "x": [
  [
-      2.5,
+        1,
+       2,
+       3,
+       4,
        5,
-     7.5 
-],
-[
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
-],
-[
-      2.5,
-       5,
-     7.5 
-],
-[
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
+       6,
+       7,
+       8 
 ] 
 ],
 "y": [
  [
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
-],
-[
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
-],
-[
        40,
       60,
-      80 
-],
-[
-       40,
-      60,
-      80 
+      80,
+     100 
 ] 
 ] 
 } 
@@ -752,268 +840,110 @@
 "loc": {
  "x": [
  [
-     1.25,
+      0.5,
+       1,
+     1.5,
+       2,
      2.5,
-    3.75,
+       3,
+     3.5,
+       4,
+     4.5,
        5,
-    6.25,
+     5.5,
+       6,
+     6.5,
+       7,
      7.5,
-    8.75 
-],
-[
-     1960,
-    1965,
-    1970,
-    1975,
-    1980,
-    1985,
-    1990,
-    1995,
-    2000,
-    2005,
-    2010 
-],
-[
-     1.25,
-     2.5,
-    3.75,
-       5,
-    6.25,
-     7.5,
-    8.75 
-],
-[
-     1960,
-    1965,
-    1970,
-    1975,
-    1980,
-    1985,
-    1990,
-    1995,
-    2000,
-    2005,
-    2010 
+       8,
+     8.5 
 ] 
 ],
 "y": [
  [
-     1960,
-    1965,
-    1970,
-    1975,
-    1980,
-    1985,
-    1990,
-    1995,
-    2000,
-    2005,
-    2010 
-],
-[
-     1960,
-    1965,
-    1970,
-    1975,
-    1980,
-    1985,
-    1990,
-    1995,
-    2000,
-    2005,
-    2010 
-],
-[
        30,
       40,
       50,
       60,
       70,
-      80 
-],
-[
-       30,
-      40,
-      50,
-      60,
-      70,
-      80 
+      80,
+      90,
+     100 
 ] 
 ] 
 } 
 },
 "axis1": {
  "x": [
-      2.5,
+        1,
+       2,
+       3,
+       4,
        5,
-     7.5 
+       6,
+       7,
+       8 
 ],
 "xlab": [
- "2.5",
-"5.0",
-"7.5" 
+ "Sem1",
+"Sem2",
+"Sem3",
+"Sem4",
+"Sem5",
+"Sem6",
+"Sem7",
+"Sem8" 
 ],
-"xrange": [   0.4303,   9.6417 ],
-"xline": false,
-"xticks": true,
-"y": [
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
-],
-"ylab": [
- "1960",
-"1970",
-"1980",
-"1990",
-"2000",
-"2010" 
-],
-"yrange": [   1956.9,   2014.1 ],
-"yline": false,
-"yticks": true 
-},
-"axis2": {
- "x": [
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
-],
-"xlab": [
- "1960",
-"1970",
-"1980",
-"1990",
-"2000",
-"2010" 
-],
-"xrange": [   1956.9,   2014.1 ],
-"xline": false,
-"xticks": true,
-"y": [
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
-],
-"ylab": [
- "1960",
-"1970",
-"1980",
-"1990",
-"2000",
-"2010" 
-],
-"yrange": [   1956.9,   2014.1 ],
-"yline": false,
-"yticks": true 
-},
-"axis3": {
- "x": [
-      2.5,
-       5,
-     7.5 
-],
-"xlab": [
- "2.5",
-"5.0",
-"7.5" 
-],
-"xrange": [   0.4303,   9.6417 ],
+"xrange": [      0.1,      8.9 ],
 "xline": false,
 "xticks": true,
 "y": [
        40,
       60,
-      80 
+      80,
+     100 
 ],
 "ylab": [
  "40",
 "60",
-"80" 
+"80",
+"100" 
 ],
-"yrange": [ 23.90147, 88.08065 ],
+"yrange": [    27.55,   103.45 ],
 "yline": false,
 "yticks": true 
 },
-"axis4": {
- "x": [
-     1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010 
-],
-"xlab": [
- "1960",
-"1970",
-"1980",
-"1990",
-"2000",
-"2010" 
-],
-"xrange": [   1956.9,   2014.1 ],
-"xline": false,
-"xticks": true,
-"y": [
-       40,
-      60,
-      80 
-],
-"ylab": [
- "40",
-"60",
-"80" 
-],
-"yrange": [ 23.90147, 88.08065 ],
-"yline": false,
-"yticks": true 
-},
-"xtitle": "",
-"strip_text_xsize": "12pt",
+"xtitle": "Semester",
+"strip_text_xsize": "14pt",
 "xsize": "12pt",
 "xangle":        0,
 "xanchor": "middle",
-"ytitle": "",
-"strip_text_ysize": "12pt",
+"ytitle": "Grade (%)",
+"strip_text_ysize": "14pt",
 "ysize": "12pt",
 "yangle":        0,
 "yanchor": "end",
 "xlabs": [
- "2.5",
-"5.0",
-"7.5",
-"1960",
-"1970",
-"1980",
-"1990",
-"2000",
-"2010" 
+ "Sem1",
+"Sem2",
+"Sem3",
+"Sem4",
+"Sem5",
+"Sem6",
+"Sem7",
+"Sem8" 
 ],
 "ylabs": [
- "1960",
-"1970",
-"1980",
-"1990",
-"2000",
-"2010",
-"40",
+ "40",
 "60",
-"80" 
+"80",
+"100" 
 ],
-"title_size": "14.4pt",
+"title": "Student Grade Progression Over Semesters",
+"title_size": "16pt",
 "options": {
- "width":     1000,
-"height":      800 
+ "width":     1400,
+"height":      420 
 },
 "span": {
  "rowspan": null,
@@ -1021,18 +951,959 @@
 "last_in_row": null 
 },
 "geoms": [
- "geom1_tallrect_scatterComplete",
-"geom2_line_scatterComplete",
-"geom3_point_scatterComplete",
-"geom4_widerect_scatterComplete",
-"geom5_path_scatterComplete",
-"geom6_point_scatterComplete",
-"geom7_text_scatterComplete",
-"geom8_text_scatterComplete",
-"geom9_text_scatterComplete" 
+ "geom1_tallrect_mainTrends",
+"geom2_line_mainTrends",
+"geom3_point_mainTrends",
+"geom4_text_mainTrends" 
+] 
+},
+"studyAnalysis": {
+ "panel_margin_lines":     0.27,
+"legend": {
+ "subject": {
+ "guide": "legend",
+"geoms": [ "point", "point", "gTree" ],
+"title": "subject",
+"class": "subject",
+"selector": "subject",
+"is_discrete": true,
+"legend_type": "colour",
+"text_size": "12pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pointcolour": "#F8766D",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "Biology",
+"gTreecolour": "#F8766D",
+"gTreefill": "#999999",
+"gTreesize":      1.5,
+"gTreelinetype":        1,
+"gTreeweight":        1,
+"gTreealpha":      0.5 
+},
+{
+ "pointcolour": "#B79F00",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "Chemistry",
+"gTreecolour": "#B79F00",
+"gTreefill": "#999999",
+"gTreesize":      1.5,
+"gTreelinetype":        1,
+"gTreeweight":        1,
+"gTreealpha":      0.5 
+},
+{
+ "pointcolour": "#00BA38",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "English",
+"gTreecolour": "#00BA38",
+"gTreefill": "#999999",
+"gTreesize":      1.5,
+"gTreelinetype":        1,
+"gTreeweight":        1,
+"gTreealpha":      0.5 
+},
+{
+ "pointcolour": "#00BFC4",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "History",
+"gTreecolour": "#00BFC4",
+"gTreefill": "#999999",
+"gTreesize":      1.5,
+"gTreelinetype":        1,
+"gTreeweight":        1,
+"gTreealpha":      0.5 
+},
+{
+ "pointcolour": "#619CFF",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "Mathematics",
+"gTreecolour": "#619CFF",
+"gTreefill": "#999999",
+"gTreesize":      1.5,
+"gTreelinetype":        1,
+"gTreeweight":        1,
+"gTreealpha":      0.5 
+},
+{
+ "pointcolour": "#F564E3",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "Physics",
+"gTreecolour": "#F564E3",
+"gTreefill": "#999999",
+"gTreesize":      1.5,
+"gTreelinetype":        1,
+"gTreeweight":        1,
+"gTreealpha":      0.5 
+} 
+] 
+},
+"Attendance %": {
+ "guide": "legend",
+"geoms": "point",
+"title": "Attendance %",
+"class": "Attendance %",
+"selector": null,
+"is_discrete": false,
+"legend_type": "size",
+"text_size": "12pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pointsize":       12,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "100" 
+},
+{
+ "pointsize": 10.66025,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "90" 
+},
+{
+ "pointsize": 9.071068,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "80" 
+},
+{
+ "pointsize":        7,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "70" 
+},
+{
+ "pointsize":        2,
+"pointshape":       19,
+"pointcolour": "#000000",
+"pointalpha":      0.6,
+"pointstroke":      0.5,
+"label": "60" 
+} 
 ] 
 } 
 },
-"source": "C:/Users/lenovo/Desktop/student_dashboard.R",
-"title": "World Bank data (with all exercises completed)" 
+"strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":        0,
+"right":        0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [        1 ],
+"height_proportion": [        1 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+       10,
+      20,
+      30 
+] 
+],
+"y": [
+ [
+       30,
+      50,
+      70,
+      90 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        5,
+      10,
+      15,
+      20,
+      25,
+      30 
+] 
+],
+"y": [
+ [
+       30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+     100 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+       10,
+      20,
+      30 
+],
+"xlab": [
+ "10",
+"20",
+"30" 
+],
+"xrange": [     0.45,    34.55 ],
+"xline": false,
+"xticks": true,
+"y": [
+       30,
+      50,
+      70,
+      90 
+],
+"ylab": [
+ "30",
+"50",
+"70",
+"90" 
+],
+"yrange": [ 27.38586, 106.8969 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "Weekly Study Hours",
+"strip_text_xsize": "14pt",
+"xsize": "12pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "Grade (%)",
+"strip_text_ysize": "14pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "10",
+"20",
+"30" 
+],
+"ylabs": [
+ "30",
+"50",
+"70",
+"90" 
+],
+"title": "Study Hours vs Grade",
+"title_size": "16pt",
+"options": {
+ "width":      680,
+"height":      380 
+},
+"span": {
+ "rowspan": null,
+"colspan": null,
+"last_in_row": null 
+},
+"geoms": [
+ "geom5_point_studyAnalysis",
+"geom6_point_studyAnalysis",
+"geom7_smooth_studyAnalysis" 
+] 
+},
+"subjectComparison": {
+ "panel_margin_lines":     0.27,
+"strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":        0,
+"right":        0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [        1 ],
+"height_proportion": [        1 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+ 1,
+2,
+3,
+4,
+5,
+6 
+] 
+],
+"y": [
+ [
+        0,
+     200,
+     400,
+     600 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [] 
+],
+"y": [
+ [
+        0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+ 1,
+2,
+3,
+4,
+5,
+6 
+],
+"xlab": [
+ "Biology",
+"Chemistry",
+"English",
+"History",
+"Mathematics",
+"Physics" 
+],
+"xrange": [      0.4,      6.6 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+     200,
+     400,
+     600 
+],
+"ylab": [
+ "0",
+"200",
+"400",
+"600" 
+],
+"yrange": [ -28.6782, 602.2422 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "Subject",
+"strip_text_xsize": "14pt",
+"xsize": "11pt",
+"xangle":      -35,
+"xanchor": "end",
+"ytitle": "Grade (%)",
+"strip_text_ysize": "14pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "Biology",
+"Chemistry",
+"English",
+"History",
+"Mathematics",
+"Physics" 
+],
+"ylabs": [
+ "0",
+"200",
+"400",
+"600" 
+],
+"title": "Subject Performance Comparison",
+"title_size": "16pt",
+"options": {
+ "width":      680,
+"height":      380 
+},
+"span": {
+ "rowspan": null,
+"colspan": null,
+"last_in_row": null 
+},
+"geoms": [
+ "geom8_bar_subjectComparison",
+"geom9_point_subjectComparison" 
+] 
+},
+"topPerformers": {
+ "panel_margin_lines":     0.27,
+"legend": {
+ "Avg Grade": {
+ "guide": "legend",
+"geoms": "polygon",
+"title": "Avg Grade",
+"class": "Avg Grade",
+"selector": null,
+"is_discrete": false,
+"legend_type": "fill",
+"text_size": "12pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "polygonfill": "#356D00",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "90" 
+},
+{
+ "polygonfill": "#657B00",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "85" 
+},
+{
+ "polygonfill": "#908800",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "80" 
+},
+{
+ "polygonfill": "#BA9400",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "75" 
+},
+{
+ "polygonfill": "#E59F00",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "70" 
+} 
+] 
+} 
+},
+"strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":        0,
+"right":        0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [        1 ],
+"height_proportion": [        1 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+     200,
+     400,
+     600 
+] 
+],
+"y": [
+ [
+ 1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600,
+     700 
+] 
+],
+"y": [
+ [] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+        0,
+     200,
+     400,
+     600 
+],
+"xlab": [
+ "0",
+"200",
+"400",
+"600" 
+],
+"xrange": [  -35.235,  739.935 ],
+"xline": false,
+"xticks": true,
+"y": [
+ 1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20 
+],
+"ylab": [
+ "S018",
+"S043",
+"S040",
+"S025",
+"S048",
+"S036",
+"S002",
+"S012",
+"S028",
+"S013",
+"S049",
+"S007",
+"S023",
+"S001",
+"S005",
+"S034",
+"S006",
+"S021",
+"S050",
+"S044" 
+],
+"yrange": [      0.4,     20.6 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "Average Grade (%)",
+"strip_text_xsize": "14pt",
+"xsize": "11pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "Student ID",
+"strip_text_ysize": "14pt",
+"ysize": "11pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "0",
+"200",
+"400",
+"600" 
+],
+"ylabs": [
+ "S018",
+"S043",
+"S040",
+"S025",
+"S048",
+"S036",
+"S002",
+"S012",
+"S028",
+"S013",
+"S049",
+"S007",
+"S023",
+"S001",
+"S005",
+"S034",
+"S006",
+"S021",
+"S050",
+"S044" 
+],
+"title": "Top 15 Students",
+"title_size": "16pt",
+"options": {
+ "width":      680,
+"height":      380 
+},
+"span": {
+ "rowspan": null,
+"colspan": null,
+"last_in_row": null 
+},
+"geoms": [
+ "geom10_bar_topPerformers" 
+] 
+},
+"attendanceImpact": {
+ "panel_margin_lines":     0.27,
+"legend": {
+ "subject": {
+ "guide": "legend",
+"geoms": "polygon",
+"title": "subject",
+"class": "subject",
+"selector": "subject",
+"is_discrete": true,
+"legend_type": "fill",
+"text_size": "12pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "polygonfill": "#F8766D",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "Biology" 
+},
+{
+ "polygonfill": "#B79F00",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "Chemistry" 
+},
+{
+ "polygonfill": "#00BA38",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "English" 
+},
+{
+ "polygonfill": "#00BFC4",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "History" 
+},
+{
+ "polygonfill": "#619CFF",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "Mathematics" 
+},
+{
+ "polygonfill": "#F564E3",
+"polygonsize":      0.5,
+"polygonlinetype":        1,
+"label": "Physics" 
+} 
+] 
+} 
+},
+"strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":        0,
+"right":        0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [        1 ],
+"height_proportion": [        1 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+ 1,
+2,
+3,
+4 
+] 
+],
+"y": [
+ [
+        0,
+      25,
+      50,
+      75,
+     100 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [] 
+],
+"y": [
+ [
+        0,
+    12.5,
+      25,
+    37.5,
+      50,
+    62.5,
+      75,
+    87.5,
+     100 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+ 1,
+2,
+3,
+4 
+],
+"xlab": [
+ "(60,70]",
+"(70,80]",
+"(80,90]",
+"(90,100]" 
+],
+"xrange": [      0.4,      4.6 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+      25,
+      50,
+      75,
+     100 
+],
+"ylab": [
+ "0",
+"25",
+"50",
+"75",
+"100" 
+],
+"yrange": [   -4.955,  104.055 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "Attendance Range (%)",
+"strip_text_xsize": "14pt",
+"xsize": "11pt",
+"xangle":      -35,
+"xanchor": "end",
+"ytitle": "Average Grade (%)",
+"strip_text_ysize": "14pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "(60,70]",
+"(70,80]",
+"(80,90]",
+"(90,100]" 
+],
+"ylabs": [
+ "0",
+"25",
+"50",
+"75",
+"100" 
+],
+"title": "Attendance Impact on Grades",
+"title_size": "16pt",
+"options": {
+ "width":      680,
+"height":      380 
+},
+"span": {
+ "rowspan": null,
+"colspan": null,
+"last_in_row": null 
+},
+"geoms": [
+ "geom11_bar_attendanceImpact" 
+] 
+} 
+},
+"source": "https://github.com/AviraL0013/student-performance-code",
+"title": "Student Performance Analytics Dashboard" 
 }
