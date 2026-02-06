@@ -179,48 +179,9 @@
 },
 "total": 50 
 },
-"geom4_text_mainTrends": {
- "geom": "text",
-"classed": "geom4_text_mainTrends",
-"aes": {
- "x": "sem_num",
-"y": "grade",
-"label": "round(grade, 0)",
-"key": "paste(student_id, subject, semester)",
-"showSelected1": "student_id" 
-},
-"params": {
- "parse": false,
-"check_overlap": false,
-"na.rm": false,
-"na.rm": false,
-"size":      3.5,
-"vjust":     -1.2,
-"showSelected": "student_id",
-"help_showSelected": "student_id" 
-},
-"types": {
- "x": "numeric",
-"y": "numeric",
-"label": "numeric",
-"key": "character",
-"showSelected1": "character",
-"PANEL": "integer",
-"group": "character" 
-},
-"chunk_order": [],
-"nest_order": [
- "showSelected1" 
-],
-"subset_order": [
- "showSelected1" 
-],
-"chunks": 1,
-"total": 1 
-},
-"geom5_point_studyAnalysis": {
+"geom4_point_studyAnalysis": {
  "geom": "point",
-"classed": "geom5_point_studyAnalysis",
+"classed": "geom4_point_studyAnalysis",
 "aes": {
  "x": "study_hours",
 "y": "grade",
@@ -254,16 +215,16 @@
 "chunks": 1,
 "total": 1 
 },
-"geom6_point_studyAnalysis": {
+"geom5_point_studyAnalysis": {
  "geom": "point",
-"classed": "geom6_point_studyAnalysis",
+"classed": "geom5_point_studyAnalysis",
 "aes": {
  "x": "study_hours",
 "y": "grade",
 "colour": "subject",
 "size": "attendance",
 "key": "paste(student_id, subject, semester)",
-"tooltip": "paste0(\"Student: \", student_id, \"\\n\", \"Subject: \", subject, \"\\n\", \"Grade: \", grade, \"%\\n\", \"Study Hours: \", study_hours, \"\\n\", \"Attendance: \", attendance, \"%\\n\", \"Performance: \", performance_category)",
+"tooltip": "paste0(\"Student: \", student_id, \"\\n\", \"Subject: \", subject, \"\\n\", \"Grade: \", grade, \"%\\n\", \"Study Hours: \", study_hours, \"\\n\", \"Attendance: \", attendance, \"%\")",
 "clickSelects": "subject",
 "showSelected1": "semester",
 "showSelected2": "subject" 
@@ -278,8 +239,8 @@
 "help_clickSelects": [ "student_id", "subject" ] 
 },
 "types": {
- "size": "numeric",
-"colour": "rgb",
+ "colour": "rgb",
+"size": "numeric",
 "x": "numeric",
 "y": "numeric",
 "key": "character",
@@ -321,9 +282,9 @@
 },
 "total": 8 
 },
-"geom7_smooth_studyAnalysis": {
+"geom6_smooth_studyAnalysis": {
  "geom": "smooth",
-"classed": "geom7_smooth_studyAnalysis",
+"classed": "geom6_smooth_studyAnalysis",
 "aes": {
  "x": "study_hours",
 "y": "grade",
@@ -341,8 +302,6 @@
 "x" 
 ],
 "se": false,
-"size":      1.5,
-"alpha":      0.5,
 "showSelected": [ "semester", "subject" ],
 "help_showSelected": [ "semester", "subject" ] 
 },
@@ -383,15 +342,14 @@
 },
 "total": 8 
 },
-"geom8_bar_subjectComparison": {
+"geom7_bar_subjectComparison": {
  "geom": "rect",
-"classed": "geom8_bar_subjectComparison",
+"classed": "geom7_bar_subjectComparison",
 "aes": {
  "x": "subject",
 "y": "mean_grade",
 "fill": "subject",
 "key": "subject",
-"tooltip": "paste0(\"Subject: \", subject, \"\\n\", \"Semester: \", semester, \"\\n\", \"Mean: \", round(mean_grade, 1), \"%\\n\", \"Median: \", round(median_grade, 1), \"%\\n\", \"Range: \", round(min_grade, 1), \"-\", round(max_grade, 1), \"%\\n\", \"Students: \", count)",
 "clickSelects": "subject",
 "showSelected1": "semester" 
 },
@@ -407,7 +365,6 @@
 "types": {
  "fill": "rgb",
 "key": "character",
-"tooltip": "character",
 "clickSelects": "character",
 "showSelected1": "character",
 "PANEL": "integer",
@@ -427,14 +384,13 @@
 "chunks": 1,
 "total": 1 
 },
-"geom9_point_subjectComparison": {
+"geom8_point_subjectComparison": {
  "geom": "point",
-"classed": "geom9_point_subjectComparison",
+"classed": "geom8_point_subjectComparison",
 "aes": {
  "x": "subject",
 "y": "grade",
 "colour": "subject",
-"key": "paste(student_id, subject)",
 "clickSelects": "subject",
 "showSelected1": "semester" 
 },
@@ -442,7 +398,6 @@
  "na.rm": false,
 "na.rm": false,
 "alpha":     0.25,
-"size":        2,
 "showSelected": "semester",
 "clickSelects": "subject",
 "help_showSelected": "semester",
@@ -452,7 +407,6 @@
  "colour": "rgb",
 "x": "numeric",
 "y": "numeric",
-"key": "character",
 "clickSelects": "character",
 "showSelected1": "character",
 "PANEL": "integer",
@@ -469,8 +423,7 @@
  "group",
 "clickSelects",
 "colour",
-"fill",
-"key" 
+"fill" 
 ] 
 },
 "chunks": {
@@ -485,15 +438,14 @@
 },
 "total": 8 
 },
-"geom10_bar_topPerformers": {
+"geom9_bar_topPerformers": {
  "geom": "rect",
-"classed": "geom10_bar_topPerformers",
+"classed": "geom9_bar_topPerformers",
 "aes": {
  "x": "reorder(student_id, avg_grade)",
 "y": "avg_grade",
 "fill": "avg_grade",
 "key": "student_id",
-"tooltip": "paste0(\"Student: \", student_id, \"\\n\", \"Avg Grade: \", round(avg_grade, 1), \"%\\n\", \"Study Hours: \", total_study_hours, \"\\n\", \"Attendance: \", round(avg_attendance, 1), \"%\")",
 "clickSelects": "student_id",
 "showSelected1": "semester" 
 },
@@ -508,7 +460,6 @@
 "types": {
  "fill": "rgb",
 "key": "character",
-"tooltip": "character",
 "clickSelects": "character",
 "showSelected1": "character",
 "PANEL": "integer",
@@ -528,15 +479,14 @@
 "chunks": 1,
 "total": 1 
 },
-"geom11_bar_attendanceImpact": {
+"geom10_bar_attendanceImpact": {
  "geom": "rect",
-"classed": "geom11_bar_attendanceImpact",
+"classed": "geom10_bar_attendanceImpact",
 "aes": {
  "x": "attendance_bin",
 "y": "avg_grade",
 "fill": "subject",
 "key": "paste(attendance_bin, subject)",
-"tooltip": "paste0(\"Attendance: \", attendance_bin, \"\\n\", \"Subject: \", subject, \"\\n\", \"Avg Grade: \", round(avg_grade, 1), \"%\\n\", \"Students: \", count)",
 "clickSelects": "subject",
 "showSelected1": "semester",
 "showSelected2": "subject" 
@@ -552,7 +502,6 @@
 "types": {
  "fill": "rgb",
 "key": "character",
-"tooltip": "character",
 "clickSelects": "character",
 "showSelected1": "character",
 "showSelected2": "character",
@@ -597,12 +546,12 @@
 "update": [
  "geom2_line_mainTrends",
 "geom3_point_mainTrends",
+"geom4_point_studyAnalysis",
 "geom5_point_studyAnalysis",
-"geom6_point_studyAnalysis",
-"geom7_smooth_studyAnalysis",
-"geom8_bar_subjectComparison",
-"geom9_point_subjectComparison",
-"geom11_bar_attendanceImpact" 
+"geom6_smooth_studyAnalysis",
+"geom7_bar_subjectComparison",
+"geom8_point_subjectComparison",
+"geom10_bar_attendanceImpact" 
 ] 
 },
 "semester": {
@@ -615,12 +564,12 @@
 "levels": [ "Sem1", "Sem2", "Sem3", "Sem4", "Sem5", "Sem6", "Sem7", "Sem8" ],
 "update": [
  "geom1_tallrect_mainTrends",
-"geom6_point_studyAnalysis",
-"geom7_smooth_studyAnalysis",
-"geom8_bar_subjectComparison",
-"geom9_point_subjectComparison",
-"geom10_bar_topPerformers",
-"geom11_bar_attendanceImpact" 
+"geom5_point_studyAnalysis",
+"geom6_smooth_studyAnalysis",
+"geom7_bar_subjectComparison",
+"geom8_point_subjectComparison",
+"geom9_bar_topPerformers",
+"geom10_bar_attendanceImpact" 
 ],
 "duration":     1000 
 },
@@ -635,15 +584,14 @@
 "update": [
  "geom2_line_mainTrends",
 "geom3_point_mainTrends",
-"geom4_text_mainTrends",
-"geom10_bar_topPerformers" 
+"geom9_bar_topPerformers" 
 ],
 "duration":      500 
 } 
 },
 "plots": {
  "mainTrends": {
- "panel_margin_lines":        1,
+ "panel_margin_lines":     0.27,
 "legend": {
  "subject": {
  "guide": "legend",
@@ -947,14 +895,13 @@
 },
 "span": {
  "rowspan": null,
-"colspan": null,
-"last_in_row": null 
+"colspan":        2,
+"last_in_row": true 
 },
 "geoms": [
  "geom1_tallrect_mainTrends",
 "geom2_line_mainTrends",
-"geom3_point_mainTrends",
-"geom4_text_mainTrends" 
+"geom3_point_mainTrends" 
 ] 
 },
 "studyAnalysis": {
@@ -968,8 +915,8 @@
 "selector": "subject",
 "is_discrete": true,
 "legend_type": "colour",
-"text_size": "12pt",
-"title_size": "12pt",
+"text_size": "11.2pt",
+"title_size": "14pt",
 "entries": [
  {
  "pointcolour": "#F8766D",
@@ -980,10 +927,10 @@
 "label": "Biology",
 "gTreecolour": "#F8766D",
 "gTreefill": "#999999",
-"gTreesize":      1.5,
+"gTreesize":        1,
 "gTreelinetype":        1,
 "gTreeweight":        1,
-"gTreealpha":      0.5 
+"gTreealpha":      0.4 
 },
 {
  "pointcolour": "#B79F00",
@@ -994,10 +941,10 @@
 "label": "Chemistry",
 "gTreecolour": "#B79F00",
 "gTreefill": "#999999",
-"gTreesize":      1.5,
+"gTreesize":        1,
 "gTreelinetype":        1,
 "gTreeweight":        1,
-"gTreealpha":      0.5 
+"gTreealpha":      0.4 
 },
 {
  "pointcolour": "#00BA38",
@@ -1008,10 +955,10 @@
 "label": "English",
 "gTreecolour": "#00BA38",
 "gTreefill": "#999999",
-"gTreesize":      1.5,
+"gTreesize":        1,
 "gTreelinetype":        1,
 "gTreeweight":        1,
-"gTreealpha":      0.5 
+"gTreealpha":      0.4 
 },
 {
  "pointcolour": "#00BFC4",
@@ -1022,10 +969,10 @@
 "label": "History",
 "gTreecolour": "#00BFC4",
 "gTreefill": "#999999",
-"gTreesize":      1.5,
+"gTreesize":        1,
 "gTreelinetype":        1,
 "gTreeweight":        1,
-"gTreealpha":      0.5 
+"gTreealpha":      0.4 
 },
 {
  "pointcolour": "#619CFF",
@@ -1036,10 +983,10 @@
 "label": "Mathematics",
 "gTreecolour": "#619CFF",
 "gTreefill": "#999999",
-"gTreesize":      1.5,
+"gTreesize":        1,
 "gTreelinetype":        1,
 "gTreeweight":        1,
-"gTreealpha":      0.5 
+"gTreealpha":      0.4 
 },
 {
  "pointcolour": "#F564E3",
@@ -1050,26 +997,26 @@
 "label": "Physics",
 "gTreecolour": "#F564E3",
 "gTreefill": "#999999",
-"gTreesize":      1.5,
+"gTreesize":        1,
 "gTreelinetype":        1,
 "gTreeweight":        1,
-"gTreealpha":      0.5 
+"gTreealpha":      0.4 
 } 
 ] 
 },
-"Attendance %": {
+"attendance": {
  "guide": "legend",
 "geoms": "point",
-"title": "Attendance %",
-"class": "Attendance %",
+"title": "attendance",
+"class": "attendance",
 "selector": null,
 "is_discrete": false,
 "legend_type": "size",
-"text_size": "12pt",
-"title_size": "12pt",
+"text_size": "11.2pt",
+"title_size": "14pt",
 "entries": [
  {
- "pointsize":       12,
+ "pointsize":        6,
 "pointshape":       19,
 "pointcolour": "#000000",
 "pointalpha":      0.6,
@@ -1077,7 +1024,7 @@
 "label": "100" 
 },
 {
- "pointsize": 10.66025,
+ "pointsize": 5.330127,
 "pointshape":       19,
 "pointcolour": "#000000",
 "pointalpha":      0.6,
@@ -1085,7 +1032,7 @@
 "label": "90" 
 },
 {
- "pointsize": 9.071068,
+ "pointsize": 4.535534,
 "pointshape":       19,
 "pointcolour": "#000000",
 "pointalpha":      0.6,
@@ -1093,7 +1040,7 @@
 "label": "80" 
 },
 {
- "pointsize":        7,
+ "pointsize":      3.5,
 "pointshape":       19,
 "pointcolour": "#000000",
 "pointalpha":      0.6,
@@ -1101,7 +1048,7 @@
 "label": "70" 
 },
 {
- "pointsize":        2,
+ "pointsize":        1,
 "pointshape":       19,
 "pointcolour": "#000000",
 "pointalpha":      0.6,
@@ -1263,9 +1210,9 @@
 "last_in_row": null 
 },
 "geoms": [
- "geom5_point_studyAnalysis",
-"geom6_point_studyAnalysis",
-"geom7_smooth_studyAnalysis" 
+ "geom4_point_studyAnalysis",
+"geom5_point_studyAnalysis",
+"geom6_smooth_studyAnalysis" 
 ] 
 },
 "subjectComparison": {
@@ -1391,12 +1338,12 @@
 "yticks": true 
 },
 "xtitle": "Subject",
-"strip_text_xsize": "14pt",
-"xsize": "11pt",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
 "xangle":      -35,
 "xanchor": "end",
 "ytitle": "Grade (%)",
-"strip_text_ysize": "14pt",
+"strip_text_ysize": "12pt",
 "ysize": "12pt",
 "yangle":        0,
 "yanchor": "end",
@@ -1423,53 +1370,53 @@
 "span": {
  "rowspan": null,
 "colspan": null,
-"last_in_row": null 
+"last_in_row": true 
 },
 "geoms": [
- "geom8_bar_subjectComparison",
-"geom9_point_subjectComparison" 
+ "geom7_bar_subjectComparison",
+"geom8_point_subjectComparison" 
 ] 
 },
 "topPerformers": {
  "panel_margin_lines":     0.27,
 "legend": {
- "Avg Grade": {
+ "avg_grade": {
  "guide": "legend",
 "geoms": "polygon",
-"title": "Avg Grade",
-"class": "Avg Grade",
+"title": "avg_grade",
+"class": "avg_grade",
 "selector": null,
 "is_discrete": false,
 "legend_type": "fill",
-"text_size": "12pt",
+"text_size": "9.6pt",
 "title_size": "12pt",
 "entries": [
  {
- "polygonfill": "#356D00",
+ "polygonfill": "#4EA0E0",
 "polygonsize":      0.5,
 "polygonlinetype":        1,
 "label": "90" 
 },
 {
- "polygonfill": "#657B00",
+ "polygonfill": "#4085BB",
 "polygonsize":      0.5,
 "polygonlinetype":        1,
 "label": "85" 
 },
 {
- "polygonfill": "#908800",
+ "polygonfill": "#336A98",
 "polygonsize":      0.5,
 "polygonlinetype":        1,
 "label": "80" 
 },
 {
- "polygonfill": "#BA9400",
+ "polygonfill": "#265176",
 "polygonsize":      0.5,
 "polygonlinetype":        1,
 "label": "75" 
 },
 {
- "polygonfill": "#E59F00",
+ "polygonfill": "#1A3956",
 "polygonsize":      0.5,
 "polygonlinetype":        1,
 "label": "70" 
@@ -1641,13 +1588,13 @@
 "yticks": true 
 },
 "xtitle": "Average Grade (%)",
-"strip_text_xsize": "14pt",
-"xsize": "11pt",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
 "xangle":        0,
 "xanchor": "middle",
 "ytitle": "Student ID",
-"strip_text_ysize": "14pt",
-"ysize": "11pt",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
 "yangle":        0,
 "yanchor": "end",
 "xlabs": [
@@ -1690,7 +1637,7 @@
 "last_in_row": null 
 },
 "geoms": [
- "geom10_bar_topPerformers" 
+ "geom9_bar_topPerformers" 
 ] 
 },
 "attendanceImpact": {
@@ -1704,7 +1651,7 @@
 "selector": "subject",
 "is_discrete": true,
 "legend_type": "fill",
-"text_size": "12pt",
+"text_size": "9.6pt",
 "title_size": "12pt",
 "entries": [
  {
@@ -1866,12 +1813,12 @@
 "yticks": true 
 },
 "xtitle": "Attendance Range (%)",
-"strip_text_xsize": "14pt",
-"xsize": "11pt",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
 "xangle":      -35,
 "xanchor": "end",
 "ytitle": "Average Grade (%)",
-"strip_text_ysize": "14pt",
+"strip_text_ysize": "12pt",
 "ysize": "12pt",
 "yangle":        0,
 "yanchor": "end",
@@ -1897,13 +1844,13 @@
 "span": {
  "rowspan": null,
 "colspan": null,
-"last_in_row": null 
+"last_in_row": true 
 },
 "geoms": [
- "geom11_bar_attendanceImpact" 
+ "geom10_bar_attendanceImpact" 
 ] 
 } 
 },
 "source": "https://github.com/AviraL0013/student-performance-code",
-"title": "Student Performance Analytics Dashboard-VersionTest" 
+"title": "Student Performance Analytics Dashboard" 
 }
